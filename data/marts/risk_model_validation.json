@@ -1,0 +1,25 @@
+{
+  "model_type": "Robust category-normalized, rules-plus-behavioral review priority",
+  "model_is_calibrated_probability": false,
+  "historical_training_window": "2025-01 through 2025-12",
+  "temporal_holdout_window": "2026-01 through 2026-10",
+  "historical_normal_payments": 91253,
+  "scored_payments": 220000,
+  "priority_bands": {
+    "Low": 167957,
+    "High": 40233,
+    "Medium": 11810
+  },
+  "rule_unflagged_statistical_reviews": 0,
+  "category_psi": {
+    "Cloud & Software": 0.0257,
+    "Facilities": 0.0249,
+    "Hardware": 0.0242,
+    "Logistics": 0.0243,
+    "Marketing": 0.0104,
+    "Packaging": 0.0338,
+    "Professional Services": 0.0202,
+    "Utilities": 0.009
+  },
+  "limitation": "Synthetic, constructed data; these scores are NOT validated fraud probabilities. PSI shows distribution shift, not predictive accuracy."
+}

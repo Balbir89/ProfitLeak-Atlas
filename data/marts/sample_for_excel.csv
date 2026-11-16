@@ -1,0 +1,401 @@
+payment_id,payment_month,vendor_name,category,country,issue_type,estimated_gross_loss_eur,modeled_recovery_eur,rule_confidence,recommended_action
+P0105612,2026-05,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,4352.01,3329.29,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0041529,2026-03,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,4241.61,3244.83,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0046494,2026-03,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,4216.98,3225.99,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0097265,2026-03,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,4216.98,3225.99,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0154699,2026-03,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,4216.98,3225.99,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0056985,2026-01,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,4172.39,3567.39,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0198846,2025-10,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,4113.4,3146.75,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0175194,2026-01,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,4102.55,3138.45,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0171619,2025-02,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,4004.16,3063.18,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0097557,2026-05,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,3961.81,3209.07,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0087949,2025-09,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,3959.42,2633.01,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0039860,2026-05,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3957.84,3383.95,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201175,2025-12,Orion Professional Partners 158,Professional Services,Italy,Duplicate payment,3932.27,3008.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0022515,2025-04,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3850.99,3292.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0190928,2026-10,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3837.36,2935.58,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0150990,2025-07,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,3820.86,2922.96,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0147199,2025-05,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,3814.39,2918.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0137825,2026-09,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3806.85,2912.24,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0165146,2026-09,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3806.85,2912.24,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0175250,2026-09,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3806.85,2912.24,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0171428,2025-10,Nova Professional Partners 134,Professional Services,Germany,Undelivered goods,3804.2,2263.5,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0217076,2025-07,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3803.76,2909.88,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0082403,2026-06,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,3773.27,3056.35,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0128697,2026-01,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,3765.37,2372.18,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0153487,2025-06,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,3757.77,2498.92,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0006194,2026-02,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3752.9,3208.73,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0006282,2026-03,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,3752.9,2495.68,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0153232,2025-02,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3750.1,3206.34,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0170727,2026-04,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,3749.16,2493.19,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0157051,2025-05,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3744.84,2864.8,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0174803,2025-01,Orion Professional Partners 158,Professional Services,Italy,Duplicate payment,3726.79,2850.99,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0141544,2026-04,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,3719.56,2845.46,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0156674,2026-04,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,3719.29,2343.15,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0196486,2025-10,Nova Professional Partners 190,Professional Services,Austria,Duplicate payment,3714.47,3008.72,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0180264,2025-12,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3704.44,2833.9,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0066075,2025-01,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,3685.27,2321.72,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0146975,2025-10,Apex Professional Partners 230,Professional Services,Italy,Undelivered goods,3665.15,2180.76,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0206929,2026-01,Verde Professional Partners 262,Professional Services,Austria,Undelivered goods,3663.58,2308.06,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0108764,2025-04,Cedar Professional Partners 278,Professional Services,Germany,Undelivered goods,3652.41,2173.18,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0127407,2026-02,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3645.74,3117.11,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0200205,2025-04,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3633.77,2779.83,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0182737,2025-10,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3622.34,2771.09,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0160189,2025-09,Helix Professional Partners 254,Professional Services,Belgium,Undelivered goods,3621.25,2154.64,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0202322,2025-02,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,3613.37,2764.23,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0019479,2025-10,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,3578.58,2898.65,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0189728,2025-09,Apex Professional Partners 230,Professional Services,Italy,Duplicate payment,3573.57,2733.78,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0115100,2025-06,Apex Professional Partners 230,Professional Services,Italy,Duplicate payment,3572.14,2732.69,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0176674,2026-08,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,3570.74,2892.3,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0129210,2026-10,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3568.32,3050.91,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0207939,2026-10,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3568.32,3050.91,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0116470,2026-09,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3566.18,3049.08,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0055969,2026-01,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3565.47,3048.48,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0097220,2026-04,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3562.52,2725.33,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0028838,2026-02,Cedar Professional Partners 222,Professional Services,Netherlands,Undelivered goods,3561.82,2368.61,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0019147,2025-06,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,3558.15,2366.17,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0134711,2026-02,Nova Professional Partners 190,Professional Services,Austria,Duplicate payment,3531.16,2860.24,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0070601,2026-06,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3512.92,2687.38,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0035279,2025-01,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3505.39,2681.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0033296,2025-06,Apex Professional Partners 230,Professional Services,Italy,Undelivered goods,3477.98,2069.4,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0207959,2025-05,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,3475.2,2971.3,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0111732,2025-08,Apex Professional Partners 230,Professional Services,Italy,Duplicate payment,3473.12,2656.94,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0074154,2026-06,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,3471.8,2812.16,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0109402,2026-05,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3470.09,2966.93,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0045513,2026-10,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,3438.9,2166.51,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0212474,2026-06,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3426.76,2621.47,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0068062,2026-07,Helix Professional Partners 254,Professional Services,Belgium,Undelivered goods,3420.8,2035.38,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0032972,2025-05,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,3419.28,2769.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0023737,2025-06,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,3416.2,2767.12,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0060867,2026-07,Nova Professional Partners 134,Professional Services,Germany,Undelivered goods,3410.28,2029.12,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0072898,2025-11,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3399.31,2600.47,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0158937,2025-09,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,3396.85,2751.45,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0114320,2026-05,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3387.12,2591.15,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0077188,2026-04,Atlas Professional Partners 070,Professional Services,France,Duplicate payment,3364.09,2724.91,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0152905,2026-02,Atlas Professional Partners 070,Professional Services,France,Duplicate payment,3363.68,2724.58,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0020449,2026-09,Nova Professional Partners 190,Professional Services,Austria,Duplicate payment,3352.26,2715.33,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0105048,2026-09,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,3339.53,2705.02,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0056598,2026-06,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,3333.46,2700.1,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0131923,2026-09,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,3330.25,2214.62,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0021055,2025-10,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,3329.13,2696.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0127360,2026-05,Helix Professional Partners 086,Professional Services,Italy,Undelivered goods,3322.38,1976.82,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0027180,2025-07,Orion Professional Partners 158,Professional Services,Italy,Undelivered goods,3318.67,1974.61,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0128913,2025-04,Orion Professional Partners 158,Professional Services,Italy,Duplicate payment,3317.01,2537.51,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0023256,2026-06,Nova Professional Partners 134,Professional Services,Germany,Undelivered goods,3316.15,1973.11,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0069438,2025-05,Orion Professional Partners 158,Professional Services,Italy,Undelivered goods,3315.36,1972.64,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0094202,2025-01,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,3308.72,2828.96,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0214548,2025-01,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,3308.72,2828.96,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0194840,2026-08,Cedar Professional Partners 278,Professional Services,Germany,Undelivered goods,3294.02,1959.94,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0158203,2025-04,Cedar Professional Partners 110,Professional Services,Belgium,Undelivered goods,3289.41,1957.2,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0212876,2026-01,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3288.09,2515.39,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0034448,2026-09,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3286.14,2513.9,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0127512,2025-06,Atlas Professional Partners 070,Professional Services,France,Undelivered goods,3283.68,2068.72,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0159510,2025-08,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,3266.98,2058.2,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0154316,2026-07,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,3256.28,2051.46,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0070856,2026-01,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,3255.48,2636.94,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0105523,2026-01,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,3227.46,2614.24,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0088876,2026-02,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,3219.06,2752.3,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0136111,2025-07,Orion Professional Partners 158,Professional Services,Italy,Undelivered goods,3216.88,1914.04,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0101321,2025-02,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3216.69,2460.77,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0191152,2025-01,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3214.97,2748.8,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0071637,2026-08,Atlas Professional Partners 070,Professional Services,France,Duplicate payment,3208.31,2598.73,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0156601,2025-11,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3206.43,2452.92,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0185419,2025-11,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3206.43,2452.92,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0053255,2025-05,Atlas Professional Partners 070,Professional Services,France,Undelivered goods,3203.19,2018.01,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0209975,2025-01,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3202.44,2449.87,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0034348,2025-01,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3193.63,2443.13,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0179758,2025-01,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3193.63,2443.13,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0149437,2025-04,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3192.98,2442.63,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0200761,2025-04,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3192.98,2442.63,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0202465,2026-10,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3187.9,2438.74,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0105370,2025-05,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3186.31,2437.53,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0071457,2025-01,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,3176.63,2573.07,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0133629,2026-05,Apex Professional Partners 118,Professional Services,Austria,Undelivered goods,3173.46,1999.28,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0062680,2026-07,Apex Professional Partners 230,Professional Services,Italy,Undelivered goods,3170.81,1886.63,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0117001,2026-07,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,3163.14,2562.14,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0175582,2025-12,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3151.5,2694.53,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0190133,2025-12,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3151.5,2694.53,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0058114,2025-10,Helix Professional Partners 086,Professional Services,Italy,Undelivered goods,3149.7,1874.07,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0029179,2026-07,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,3136.85,2682.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0064411,2026-07,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,3136.85,2682.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0134601,2026-09,Atlas Professional Partners 070,Professional Services,France,Duplicate payment,3125.42,2531.59,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0011853,2026-09,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3117.66,2385.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0026899,2026-09,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3117.66,2385.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0178278,2026-09,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,3117.66,2385.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0081235,2025-05,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,3109.75,2518.9,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0130535,2025-04,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,3107.95,2657.3,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0159790,2026-09,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,3099.81,2510.85,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0200255,2025-06,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,3097.65,2509.1,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0106869,2026-10,Cedar Professional Partners 278,Professional Services,Germany,Undelivered goods,3097.12,1842.79,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0174313,2025-04,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,3088.13,2362.42,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0126665,2026-06,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,3079.07,1939.81,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0016336,2025-11,Helix Professional Partners 142,Professional Services,France,Duplicate payment,3077.05,2492.41,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0118339,2026-07,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,3074.46,1936.91,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0107757,2026-01,Cedar Professional Partners 222,Professional Services,Netherlands,Undelivered goods,3050.25,2028.42,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0134037,2026-01,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,3034.28,2594.31,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0044647,2026-09,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,3033.97,2594.04,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0112471,2026-04,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3032.38,2319.77,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0031263,2025-08,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,3021.81,2311.68,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0171085,2025-01,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,3019.25,2581.46,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0041457,2025-07,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3007.66,2300.86,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0041748,2025-07,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,3007.66,2300.86,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0144374,2025-05,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,2994.99,2425.94,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0025815,2026-10,Cedar Professional Partners 166,Professional Services,Spain,Undelivered goods,2985.0,1880.55,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0161299,2026-07,Orion Professional Partners 102,Professional Services,Poland,Duplicate payment,2982.33,2549.89,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0089570,2026-08,Orion Professional Partners 102,Professional Services,Poland,Duplicate payment,2979.96,2547.87,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0172980,2026-09,Orion Professional Partners 102,Professional Services,Poland,Duplicate payment,2968.61,2538.16,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0136191,2025-07,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,2964.12,1867.4,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0091147,2025-12,Atlas Professional Partners 070,Professional Services,France,Undelivered goods,2961.77,1865.92,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0176834,2025-01,Atlas Professional Partners 070,Professional Services,France,Undelivered goods,2960.92,1865.38,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0191093,2025-09,Cedar Professional Partners 222,Professional Services,Netherlands,Undelivered goods,2960.49,1968.73,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0070067,2025-04,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2960.28,2397.83,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0130042,2026-03,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,2948.77,2521.2,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0061697,2026-07,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2936.2,2246.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0004305,2026-07,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2931.92,2374.86,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0190660,2026-07,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2931.92,2374.86,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0077074,2026-05,Atlas Professional Partners 238,Professional Services,Spain,Undelivered goods,2925.09,1842.81,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0172140,2026-02,Cedar Professional Partners 110,Professional Services,Belgium,Undelivered goods,2912.88,1733.16,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0215085,2026-04,Orion Professional Partners 158,Professional Services,Italy,Duplicate payment,2900.94,2219.22,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0152078,2025-01,Verde Professional Partners 262,Professional Services,Austria,Undelivered goods,2898.66,1826.16,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0018890,2026-01,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,2894.04,2344.17,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0212578,2026-02,Verde Professional Partners 262,Professional Services,Austria,Undelivered goods,2893.17,1822.7,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0156124,2025-11,Apex Professional Partners 230,Professional Services,Italy,Duplicate payment,2874.69,2199.14,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0079920,2026-10,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2870.57,2325.16,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0003688,2025-03,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2861.32,2317.67,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0101030,2026-05,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2860.23,2316.79,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0213827,2025-12,Apex Professional Partners 118,Professional Services,Austria,Undelivered goods,2856.97,1799.89,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0101747,2026-04,Apex Professional Partners 118,Professional Services,Austria,Undelivered goods,2856.51,1799.6,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0126855,2026-10,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2852.75,2310.73,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0188387,2026-01,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2851.1,1895.98,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0202566,2025-08,Atlas Professional Partners 238,Professional Services,Spain,Undelivered goods,2848.69,1794.67,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0015074,2026-03,Apex Professional Partners 006,Professional Services,Netherlands,Duplicate payment,2843.43,2431.13,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0044759,2026-05,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2839.8,2172.45,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0151208,2025-11,Orion Professional Partners 102,Professional Services,Poland,Undelivered goods,2828.66,1881.06,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0008223,2026-10,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2826.95,2162.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0010969,2026-10,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2826.95,2162.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0054079,2025-11,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2823.0,2159.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0193982,2025-01,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2811.07,1770.97,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0156129,2025-10,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,2807.26,2400.21,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0069386,2026-07,Cedar Professional Partners 166,Professional Services,Spain,Undelivered goods,2805.27,1767.32,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0089017,2025-06,Cedar Professional Partners 222,Professional Services,Netherlands,Undelivered goods,2794.94,1858.64,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0058049,2026-03,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2783.78,2254.86,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0042542,2026-10,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,2777.88,2250.08,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0145392,2026-04,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2775.71,2123.42,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0002216,2025-07,Apex Professional Partners 062,Professional Services,Germany,Undelivered goods,2757.53,1640.73,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0068207,2025-08,Apex Professional Partners 062,Professional Services,Germany,Undelivered goods,2756.16,1639.92,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0138281,2025-12,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2722.35,2327.61,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0159152,2025-12,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2722.35,2327.61,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0199992,2025-12,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2722.35,2327.61,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0196706,2025-10,Apex Professional Partners 006,Professional Services,Netherlands,Duplicate payment,2714.79,2321.15,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0084799,2025-05,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,2712.59,2319.26,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0215452,2026-06,Atlas Professional Partners 070,Professional Services,France,Undelivered goods,2709.58,1707.04,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0048627,2025-08,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2709.11,1801.56,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0102572,2026-08,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,2708.93,2194.23,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0133048,2026-10,Apex Professional Partners 006,Professional Services,Netherlands,Duplicate payment,2706.6,2314.14,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0106015,2025-04,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2705.37,2191.35,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0160610,2025-04,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2705.37,2191.35,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0175133,2025-06,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2703.15,2189.55,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0026259,2025-04,Apex Professional Partners 062,Professional Services,Germany,Undelivered goods,2699.95,1606.47,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0049861,2025-04,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,2699.59,2186.67,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0115804,2025-08,Apex Professional Partners 062,Professional Services,Germany,Duplicate payment,2695.04,2061.71,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0062953,2025-07,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2690.89,2179.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0071667,2025-07,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2690.89,2179.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0083679,2025-06,Apex Professional Partners 062,Professional Services,Germany,Duplicate payment,2687.52,2055.95,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0191377,2025-01,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2671.58,2043.76,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0060057,2026-09,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2671.31,2043.55,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0025652,2026-04,Orion Professional Partners 270,Professional Services,Germany,Undelivered goods,2658.69,1768.03,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0195042,2026-08,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,2656.99,2271.73,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0168216,2025-08,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2648.03,2264.07,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0026166,2025-02,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2644.34,2260.91,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0204339,2026-06,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2641.64,1756.69,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0208410,2025-12,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2639.15,2018.95,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0136251,2025-12,Verde Professional Partners 262,Professional Services,Austria,Duplicate payment,2639.1,2137.67,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0054396,2025-02,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2637.94,2136.73,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0165335,2025-06,Atlas Professional Partners 070,Professional Services,France,Duplicate payment,2633.51,2133.14,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0159289,2026-09,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2633.26,2132.94,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0029789,2025-02,Verde Professional Partners 094,Professional Services,Spain,Undelivered goods,2632.48,1658.46,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0088003,2026-07,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2631.89,2131.83,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0107694,2026-07,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2631.89,2131.83,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0132478,2026-02,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,2630.52,2012.35,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0219183,2026-10,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,2629.37,2011.47,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0051898,2025-03,Cedar Professional Partners 166,Professional Services,Spain,Undelivered goods,2627.58,1655.38,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0093993,2026-09,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,2624.67,1653.54,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0081675,2026-03,Apex Professional Partners 062,Professional Services,Germany,Undelivered goods,2624.39,1561.51,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0012168,2025-05,Apex Professional Partners 062,Professional Services,Germany,Undelivered goods,2624.12,1561.35,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0065210,2026-10,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2622.16,2123.95,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0184566,2026-03,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2617.97,2120.56,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0164606,2025-11,Orion Professional Partners 102,Professional Services,Poland,Undelivered goods,2616.55,1740.01,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0050821,2025-07,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2608.72,1643.49,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0144035,2025-05,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2607.15,1642.5,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0186516,2026-04,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,2605.35,1641.37,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0102482,2025-05,Apex Cloud Partners 216,Cloud & Software,Germany,Undelivered goods,2594.34,1725.24,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0038980,2025-05,Orion Professional Partners 158,Professional Services,Italy,Duplicate payment,2593.48,1984.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0094672,2025-02,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,2590.93,2215.25,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0168027,2026-04,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,2583.94,2209.27,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0182964,2025-11,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,2582.22,2207.8,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0188778,2025-11,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2582.06,1975.28,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0041447,2025-10,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2581.78,1716.88,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0104873,2025-08,Atlas Professional Partners 014,Professional Services,Italy,Duplicate payment,2581.66,1974.97,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0134811,2026-03,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2578.95,1715.0,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0095460,2026-02,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2575.37,1970.16,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0048459,2026-06,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2574.42,1711.99,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0140605,2025-12,Apex Professional Partners 230,Professional Services,Italy,Duplicate payment,2572.68,1968.1,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0007232,2025-11,Apex Professional Partners 062,Professional Services,Germany,Duplicate payment,2563.64,1961.18,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0177291,2025-06,Helix Professional Partners 142,Professional Services,France,Undelivered goods,2563.64,1615.09,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0038342,2025-06,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2559.67,2073.33,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0007498,2025-01,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2558.58,2072.45,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0105975,2026-04,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2556.1,2070.44,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0038101,2026-07,Orion Professional Partners 102,Professional Services,Poland,Undelivered goods,2551.9,1697.01,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0046014,2025-03,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2548.34,2064.16,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0043597,2025-02,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2543.55,2060.28,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0170362,2025-07,Cedar Professional Partners 166,Professional Services,Spain,Undelivered goods,2542.53,1601.79,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0060414,2025-06,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2541.41,2058.54,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0180716,2025-08,Atlas Professional Partners 238,Professional Services,Spain,Undelivered goods,2540.72,1600.65,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0066400,2025-11,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2540.65,1943.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0170376,2025-11,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2540.65,1943.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0135328,2026-02,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2540.35,2172.0,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0079678,2025-08,Helix Professional Partners 086,Professional Services,Italy,Undelivered goods,2539.12,1510.78,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0095618,2025-05,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2537.97,2055.76,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0210576,2025-12,Cedar Professional Partners 166,Professional Services,Spain,Undelivered goods,2536.95,1598.28,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0064852,2025-05,Apex Cloud Partners 216,Cloud & Software,Germany,Duplicate payment,2531.81,2164.7,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0077487,2026-09,Atlas Professional Partners 126,Professional Services,Germany,Undelivered goods,2522.83,1677.68,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0178663,2026-06,Helix Professional Partners 254,Professional Services,Belgium,Duplicate payment,2522.7,1929.87,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201621,2026-06,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,2518.02,1586.35,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0164466,2025-07,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2513.18,1671.26,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0055278,2026-05,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2511.5,2034.32,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0070003,2025-05,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2509.49,2032.69,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0170963,2026-06,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,2502.68,1664.28,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0202026,2025-07,Apex Professional Partners 174,Professional Services,Poland,Undelivered goods,2501.44,1663.46,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0131796,2025-05,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2494.26,1908.11,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0175754,2025-05,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2494.26,1908.11,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201676,2026-01,Verde Professional Partners 150,Professional Services,Netherlands,Duplicate payment,2491.85,2130.53,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0187466,2025-02,Cedar Cloud Partners 264,Cloud & Software,Poland,Duplicate payment,2491.12,2129.91,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0040259,2025-12,Helix Professional Partners 142,Professional Services,France,Undelivered goods,2488.9,1568.01,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0016903,2025-01,Helix Professional Partners 142,Professional Services,France,Undelivered goods,2481.35,1563.25,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0077129,2025-12,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2480.92,2009.55,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0136515,2026-07,Cedar Professional Partners 222,Professional Services,Netherlands,Undelivered goods,2480.06,1649.24,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0042235,2025-03,Orion Professional Partners 102,Professional Services,Poland,Undelivered goods,2477.05,1647.24,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0106036,2025-10,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2476.35,2117.28,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0135239,2026-06,Atlas Professional Partners 238,Professional Services,Spain,Undelivered goods,2475.47,1559.55,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0034295,2026-08,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2475.18,1559.36,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0024925,2026-06,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,2472.24,1891.26,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0094303,2025-06,Orion Cloud Partners 200,Cloud & Software,Belgium,Duplicate payment,2469.01,1888.79,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0157965,2025-06,Orion Cloud Partners 200,Cloud & Software,Belgium,Duplicate payment,2469.01,1888.79,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0041326,2025-05,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2468.9,1999.81,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0097939,2025-05,Atlas Professional Partners 238,Professional Services,Spain,Duplicate payment,2468.9,1999.81,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0073357,2025-01,Apex Cloud Partners 216,Cloud & Software,Germany,Undelivered goods,2468.34,1641.45,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0005949,2025-01,Atlas Professional Partners 126,Professional Services,Germany,Duplicate payment,2467.0,2109.28,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0031830,2026-04,Orion Cloud Partners 088,Cloud & Software,France,Duplicate payment,2466.56,1997.91,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0023242,2025-04,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,2466.07,1997.52,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0179270,2025-01,Orion Cloud Partners 088,Cloud & Software,France,Duplicate payment,2464.1,1995.92,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0042612,2026-05,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,2463.85,1995.72,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0178537,2026-05,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,2463.85,1995.72,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0106594,2026-07,Helix Professional Partners 198,Professional Services,Germany,Duplicate payment,2463.64,2106.41,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0193190,2025-06,Helix Professional Partners 198,Professional Services,Germany,Undelivered goods,2462.1,1637.3,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0192095,2025-09,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2460.96,1882.63,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0112848,2026-03,Cedar Professional Partners 222,Professional Services,Netherlands,Duplicate payment,2459.11,2102.54,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0007671,2025-06,Atlas Professional Partners 014,Professional Services,Italy,Duplicate payment,2457.19,1879.75,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0198590,2025-02,Cedar Professional Partners 166,Professional Services,Spain,Undelivered goods,2450.45,1543.78,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0112405,2026-10,Helix Professional Partners 086,Professional Services,Italy,Undelivered goods,2447.32,1456.16,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0037348,2025-04,Nova Professional Partners 190,Professional Services,Austria,Duplicate payment,2443.92,1979.58,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0106033,2025-04,Nova Professional Partners 190,Professional Services,Austria,Duplicate payment,2443.92,1979.58,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0179077,2026-08,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,2442.39,2088.24,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0009606,2025-06,Nova Professional Partners 190,Professional Services,Austria,Duplicate payment,2442.21,1978.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0040776,2025-06,Cedar Cloud Partners 096,Cloud & Software,Netherlands,Undelivered goods,2442.11,1624.0,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0180227,2026-09,Nova Professional Partners 190,Professional Services,Austria,Undelivered goods,2440.75,1537.67,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0147607,2025-05,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,2438.66,2085.05,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201615,2025-05,Apex Professional Partners 174,Professional Services,Poland,Duplicate payment,2438.66,2085.05,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0212818,2026-08,Cedar Cloud Partners 096,Cloud & Software,Netherlands,Duplicate payment,2435.3,2082.18,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0148614,2025-03,Orion Cloud Partners 088,Cloud & Software,France,Duplicate payment,2435.15,1972.47,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0039494,2025-06,Atlas Professional Partners 182,Professional Services,Belgium,Duplicate payment,2434.82,1862.64,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0030269,2026-01,Atlas Professional Partners 182,Professional Services,Belgium,Duplicate payment,2434.63,1862.49,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0159188,2026-08,Atlas Professional Partners 182,Professional Services,Belgium,Undelivered goods,2432.2,1447.16,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0010553,2025-12,Orion Professional Partners 158,Professional Services,Italy,Undelivered goods,2426.05,1443.5,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0017149,2025-03,Orion Cloud Partners 144,Cloud & Software,Germany,Duplicate payment,2417.35,2066.83,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0113590,2025-03,Orion Cloud Partners 144,Cloud & Software,Germany,Undelivered goods,2415.91,1606.58,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0203510,2025-12,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2414.06,1520.86,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0204481,2025-11,Nova Professional Partners 022,Professional Services,Spain,Duplicate payment,2414.06,1955.39,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0016552,2025-09,Orion Cloud Partners 088,Cloud & Software,France,Duplicate payment,2410.73,1952.69,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0067486,2025-02,Orion Cloud Partners 200,Cloud & Software,Belgium,Duplicate payment,2410.46,1844.0,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0061725,2025-10,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2408.77,1517.53,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0163556,2025-09,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2404.75,1947.85,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0037097,2025-08,Apex Cloud Partners 216,Cloud & Software,Germany,Duplicate payment,2403.51,2055.0,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0086051,2026-07,Cedar Professional Partners 278,Professional Services,Germany,Undelivered goods,2401.83,1429.09,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0200116,2025-04,Atlas Professional Partners 014,Professional Services,Italy,Duplicate payment,2398.7,1835.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0048989,2026-06,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2397.8,1942.22,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0095161,2025-11,Helix Professional Partners 198,Professional Services,Germany,Duplicate payment,2396.78,2049.25,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0112743,2026-06,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2390.86,1936.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0172222,2026-06,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2390.86,1936.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0100712,2025-11,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2388.28,1827.03,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0031677,2026-06,Orion Professional Partners 158,Professional Services,Italy,Undelivered goods,2383.39,1418.12,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0190706,2026-02,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2382.57,1929.88,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0141374,2025-10,Verde Professional Partners 094,Professional Services,Spain,Duplicate payment,2382.09,1929.49,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0207885,2026-05,Atlas Professional Partners 070,Professional Services,France,Duplicate payment,2379.48,1927.38,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0019274,2025-11,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2372.84,1577.94,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0080740,2026-04,Nova Professional Partners 134,Professional Services,Germany,Duplicate payment,2372.17,1814.71,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0157833,2026-02,Apex Professional Partners 006,Professional Services,Netherlands,Duplicate payment,2371.89,2027.97,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201756,2026-02,Apex Professional Partners 006,Professional Services,Netherlands,Duplicate payment,2371.89,2027.97,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0043336,2025-03,Apex Professional Partners 062,Professional Services,Germany,Duplicate payment,2369.03,1812.31,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0019814,2026-09,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2368.15,1811.63,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0146388,2025-04,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2367.57,1811.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0172166,2025-04,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2367.57,1811.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0040321,2025-01,Apex Professional Partners 118,Professional Services,Austria,Duplicate payment,2363.52,1914.45,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0126429,2025-12,Verde Cloud Partners 248,Cloud & Software,Italy,Duplicate payment,2363.16,1807.82,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0005884,2025-03,Cedar Professional Partners 110,Professional Services,Belgium,Undelivered goods,2362.61,1405.75,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0130339,2026-03,Orion Cloud Partners 200,Cloud & Software,Belgium,Duplicate payment,2357.31,1803.34,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0121321,2026-04,Orion Cloud Partners 144,Cloud & Software,Germany,Undelivered goods,2356.04,1566.77,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0079359,2026-06,Orion Cloud Partners 144,Cloud & Software,Germany,Duplicate payment,2352.28,2011.2,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0115936,2026-05,Orion Cloud Partners 200,Cloud & Software,Belgium,Duplicate payment,2352.14,1799.39,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0059384,2025-04,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2349.43,1797.31,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0157886,2025-04,Helix Professional Partners 086,Professional Services,Italy,Duplicate payment,2349.43,1797.31,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0169532,2025-05,Nova Professional Partners 022,Professional Services,Spain,Duplicate payment,2347.7,1901.64,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0094850,2025-07,Nova Professional Partners 022,Professional Services,Spain,Undelivered goods,2344.66,1477.14,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0058077,2026-05,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2342.96,1897.8,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0144311,2025-08,Apex Cloud Partners 216,Cloud & Software,Germany,Undelivered goods,2340.24,1556.26,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0137292,2026-04,Helix Professional Partners 198,Professional Services,Germany,Duplicate payment,2337.56,1998.61,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0093799,2025-09,Helix Professional Partners 198,Professional Services,Germany,Undelivered goods,2335.79,1553.3,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0123660,2026-09,Helix Professional Partners 198,Professional Services,Germany,Undelivered goods,2335.32,1552.99,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0113668,2025-08,Orion Professional Partners 046,Professional Services,Austria,Undelivered goods,2334.2,1470.55,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0174427,2026-05,Helix Professional Partners 142,Professional Services,France,Duplicate payment,2324.22,1882.62,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0076583,2026-06,Atlas Professional Partners 182,Professional Services,Belgium,Duplicate payment,2322.11,1776.41,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0017609,2025-09,Orion Professional Partners 102,Professional Services,Poland,Duplicate payment,2321.65,1985.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0174907,2025-09,Orion Professional Partners 102,Professional Services,Poland,Duplicate payment,2321.65,1985.01,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0099517,2026-05,Cedar Professional Partners 278,Professional Services,Germany,Duplicate payment,2311.72,1768.47,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0192676,2026-06,Cedar Cloud Partners 264,Cloud & Software,Poland,Undelivered goods,2311.11,1536.89,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0071380,2026-03,Apex Professional Partners 006,Professional Services,Netherlands,Undelivered goods,2302.74,1531.32,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0125406,2025-10,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2302.16,1761.15,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0182548,2025-10,Cedar Professional Partners 110,Professional Services,Belgium,Duplicate payment,2302.16,1761.15,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0075852,2025-11,Nova Cloud Partners 232,Cloud & Software,France,Duplicate payment,2302.07,1864.68,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0096718,2025-11,Nova Cloud Partners 232,Cloud & Software,France,Duplicate payment,2302.07,1864.68,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0108141,2025-06,Nova Cloud Partners 232,Cloud & Software,France,Duplicate payment,2299.08,1862.25,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0215238,2025-06,Nova Cloud Partners 232,Cloud & Software,France,Duplicate payment,2299.08,1862.25,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0002384,2025-01,Orion Cloud Partners 200,Cloud & Software,Belgium,Undelivered goods,2297.0,1366.71,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0053870,2025-06,Orion Cloud Partners 144,Cloud & Software,Germany,Duplicate payment,2296.91,1963.86,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0085271,2026-01,Nova Professional Partners 078,Professional Services,Netherlands,Duplicate payment,2294.96,1962.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0086482,2026-01,Nova Professional Partners 078,Professional Services,Netherlands,Duplicate payment,2294.96,1962.19,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0075593,2025-09,Nova Professional Partners 078,Professional Services,Netherlands,Duplicate payment,2294.27,1961.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0218541,2025-09,Nova Professional Partners 078,Professional Services,Netherlands,Duplicate payment,2294.27,1961.6,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0089711,2025-06,Nova Professional Partners 246,Professional Services,Poland,Duplicate payment,2291.42,1959.16,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0135966,2025-06,Orion Cloud Partners 088,Cloud & Software,France,Duplicate payment,2289.74,1854.69,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0113667,2025-11,Nova Professional Partners 022,Professional Services,Spain,Duplicate payment,2286.5,1852.07,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0142036,2025-12,Cedar Cloud Partners 096,Cloud & Software,Netherlands,Duplicate payment,2285.63,1954.21,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0089341,2025-07,Apex Cloud Partners 216,Cloud & Software,Germany,Duplicate payment,2283.21,1952.14,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0091183,2025-08,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2282.01,1848.43,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0098535,2026-08,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2280.19,1846.95,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0082213,2026-06,Atlas Professional Partners 126,Professional Services,Germany,Duplicate payment,2280.16,1949.54,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0198265,2026-06,Atlas Professional Partners 126,Professional Services,Germany,Duplicate payment,2280.16,1949.54,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0070249,2026-06,Verde Professional Partners 206,Professional Services,Germany,Undelivered goods,2278.73,1355.84,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0008831,2026-03,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2278.38,1845.49,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0036457,2026-03,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2278.38,1845.49,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0100255,2026-03,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2278.38,1845.49,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201922,2026-03,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2278.38,1845.49,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0078585,2026-01,Cedar Professional Partners 166,Professional Services,Spain,Duplicate payment,2275.65,1843.28,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0087210,2026-03,Cedar Cloud Partners 040,Cloud & Software,Spain,Duplicate payment,2274.22,1842.12,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0162790,2026-03,Cedar Cloud Partners 040,Cloud & Software,Spain,Duplicate payment,2274.22,1842.12,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0179106,2025-01,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2274.03,1841.96,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0189659,2025-01,Orion Professional Partners 046,Professional Services,Austria,Duplicate payment,2274.03,1841.96,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0201694,2026-08,Orion Professional Partners 270,Professional Services,Germany,Duplicate payment,2273.89,1944.18,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0122963,2026-07,Cedar Cloud Partners 040,Cloud & Software,Spain,Duplicate payment,2273.77,1841.75,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0049528,2025-07,Cedar Professional Partners 110,Professional Services,Belgium,Undelivered goods,2263.05,1346.51,0.94,Obtain goods-receipt proof; dispute unfulfilled charge
+P0178022,2025-08,Orion Cloud Partners 144,Cloud & Software,Germany,Duplicate payment,2262.91,1934.79,0.98,"Reconcile authorized invoice total, installments and bank settlements"
+P0089014,2025-08,Atlas Professional Partners 182,Professional Services,Belgium,Undelivered goods,2260.09,1344.75,0.94,Obtain goods-receipt proof; dispute unfulfilled charge

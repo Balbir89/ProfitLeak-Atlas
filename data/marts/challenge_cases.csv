@@ -1,0 +1,1501 @@
+case_id,category,amount_eur,category_robust_z,scenario_label,synthetic_anomaly,statistical_flag
+CH00000,Cloud & Software,38535.83,5.225,Injected obvious anomaly,1,1
+CH00001,Facilities,270.62,-0.136,Normal payment,0,0
+CH00002,Hardware,508.29,-0.446,Normal payment,0,0
+CH00003,Logistics,239.77,-0.681,Normal payment,0,0
+CH00004,Marketing,3133.26,1.878,Normal payment,0,0
+CH00005,Packaging,171.7,0.254,Normal payment,0,0
+CH00006,Professional Services,961.6,-0.68,Normal payment,0,0
+CH00007,Utilities,663.3,0.424,Normal payment,0,0
+CH00008,Cloud & Software,1550.96,0.653,Normal payment,0,0
+CH00009,Facilities,131.69,-1.19,Normal payment,0,0
+CH00010,Hardware,906.5,0.376,Normal payment,0,0
+CH00011,Logistics,497.88,0.374,Normal payment,0,0
+CH00012,Marketing,1582.55,0.922,Normal payment,0,0
+CH00013,Packaging,510.09,1.8,Normal payment,0,0
+CH00014,Professional Services,958.02,-0.685,Normal payment,0,0
+CH00015,Utilities,943.57,0.926,Normal payment,0,0
+CH00016,Cloud & Software,717.43,-0.443,Normal payment,0,0
+CH00017,Facilities,140.14,-1.099,Normal payment,0,0
+CH00018,Hardware,187.58,-1.86,Normal payment,0,0
+CH00019,Logistics,346.46,-0.15,Normal payment,0,0
+CH00020,Marketing,762.24,-0.101,Normal payment,0,0
+CH00021,Packaging,245.66,0.762,Normal payment,0,0
+CH00022,Professional Services,3147.48,0.98,Normal payment,0,0
+CH00023,Utilities,898.12,0.855,Normal payment,0,0
+CH00024,Cloud & Software,1314.14,0.418,Normal payment,0,0
+CH00025,Facilities,202.17,-0.563,Normal payment,0,0
+CH00026,Hardware,1585.31,1.171,Normal payment,0,0
+CH00027,Logistics,21019.15,5.79,Legitimate high-value order,0,1
+CH00028,Marketing,860.72,0.069,Normal payment,0,0
+CH00029,Packaging,771.04,2.388,Injected subtle anomaly,1,0
+CH00030,Professional Services,1567.18,0.004,Normal payment,0,0
+CH00031,Utilities,32225.75,5.961,Injected obvious anomaly,1,1
+CH00032,Cloud & Software,812.02,-0.267,Normal payment,0,0
+CH00033,Facilities,209.61,-0.51,Normal payment,0,0
+CH00034,Hardware,297.22,-1.208,Normal payment,0,0
+CH00035,Logistics,89.42,-2.099,Normal payment,0,0
+CH00036,Marketing,523.89,-0.625,Normal payment,0,0
+CH00037,Packaging,110.38,-0.37,Normal payment,0,0
+CH00038,Professional Services,1091.47,-0.503,Normal payment,0,0
+CH00039,Utilities,183.64,-1.402,Normal payment,0,0
+CH00040,Cloud & Software,684.65,-0.509,Normal payment,0,0
+CH00041,Facilities,653.7,1.157,Normal payment,0,0
+CH00042,Hardware,367.99,-0.905,Normal payment,0,0
+CH00043,Logistics,531.96,0.47,Normal payment,0,0
+CH00044,Marketing,666.32,-0.289,Normal payment,0,0
+CH00045,Packaging,386.48,1.406,Normal payment,0,0
+CH00046,Professional Services,904.62,-0.765,Normal payment,0,0
+CH00047,Utilities,598.58,0.278,Normal payment,0,0
+CH00048,Cloud & Software,573.2,-0.762,Normal payment,0,0
+CH00049,Facilities,168.41,-0.83,Normal payment,0,0
+CH00050,Hardware,820.56,0.234,Normal payment,0,0
+CH00051,Logistics,630.55,0.716,Normal payment,0,0
+CH00052,Marketing,399.26,-1.004,Normal payment,0,0
+CH00053,Packaging,62.06,-1.181,Normal payment,0,0
+CH00054,Professional Services,85548.24,5.605,Legitimate high-value order,0,1
+CH00055,Utilities,667.46,0.433,Normal payment,0,0
+CH00056,Cloud & Software,406.31,-1.25,Normal payment,0,0
+CH00057,Facilities,182.49,-0.713,Normal payment,0,0
+CH00058,Hardware,4735.66,2.728,Injected subtle anomaly,1,0
+CH00059,Logistics,1001.79,1.385,Normal payment,0,0
+CH00060,Marketing,817.27,-0.003,Normal payment,0,0
+CH00061,Packaging,237.53,0.714,Normal payment,0,0
+CH00062,Professional Services,71711.39,5.358,Injected obvious anomaly,1,1
+CH00063,Utilities,529.27,0.102,Normal payment,0,0
+CH00064,Cloud & Software,586.55,-0.729,Normal payment,0,0
+CH00065,Facilities,521.73,0.826,Normal payment,0,0
+CH00066,Hardware,2395.77,1.758,Normal payment,0,0
+CH00067,Logistics,1268.74,1.727,Normal payment,0,0
+CH00068,Marketing,143.01,-2.436,Normal payment,0,0
+CH00069,Packaging,107.29,-0.411,Normal payment,0,0
+CH00070,Professional Services,1469.4,-0.086,Normal payment,0,0
+CH00071,Utilities,515.82,0.066,Normal payment,0,0
+CH00072,Cloud & Software,699.1,-0.48,Normal payment,0,0
+CH00073,Facilities,273.02,-0.123,Normal payment,0,0
+CH00074,Hardware,480.81,-0.525,Normal payment,0,0
+CH00075,Logistics,526.67,0.455,Normal payment,0,0
+CH00076,Marketing,602.18,-0.43,Normal payment,0,0
+CH00077,Packaging,222.3,0.62,Normal payment,0,0
+CH00078,Professional Services,1818.1,0.212,Normal payment,0,0
+CH00079,Utilities,339.65,-0.529,Normal payment,0,0
+CH00080,Cloud & Software,2195.63,1.148,Normal payment,0,0
+CH00081,Facilities,11038.36,5.311,Legitimate high-value order,0,1
+CH00082,Hardware,464.35,-0.575,Normal payment,0,0
+CH00083,Logistics,435.99,0.182,Normal payment,0,0
+CH00084,Marketing,315.81,-1.332,Normal payment,0,0
+CH00085,Packaging,71.41,-0.984,Normal payment,0,0
+CH00086,Professional Services,1883.54,0.261,Normal payment,0,0
+CH00087,Utilities,1773.87,1.825,Injected subtle anomaly,1,0
+CH00088,Cloud & Software,555.72,-0.806,Normal payment,0,0
+CH00089,Facilities,559.67,0.929,Normal payment,0,0
+CH00090,Hardware,538.97,-0.363,Normal payment,0,0
+CH00091,Logistics,272.59,-0.496,Normal payment,0,0
+CH00092,Marketing,485.49,-0.731,Normal payment,0,0
+CH00093,Packaging,6496.62,5.422,Injected obvious anomaly,1,1
+CH00094,Professional Services,815.51,-0.91,Normal payment,0,0
+CH00095,Utilities,149.06,-1.698,Normal payment,0,0
+CH00096,Cloud & Software,1309.68,0.413,Normal payment,0,0
+CH00097,Facilities,164.91,-0.861,Normal payment,0,0
+CH00098,Hardware,1035.28,0.565,Normal payment,0,0
+CH00099,Logistics,248.74,-0.628,Normal payment,0,0
+CH00100,Marketing,896.38,0.126,Normal payment,0,0
+CH00101,Packaging,61.64,-1.19,Normal payment,0,0
+CH00102,Professional Services,2199.38,0.478,Normal payment,0,0
+CH00103,Utilities,721.6,0.544,Normal payment,0,0
+CH00104,Cloud & Software,586.49,-0.729,Normal payment,0,0
+CH00105,Facilities,943.26,1.696,Normal payment,0,0
+CH00106,Hardware,712.62,0.034,Normal payment,0,0
+CH00107,Logistics,531.18,0.468,Normal payment,0,0
+CH00108,Marketing,52828.38,5.833,Legitimate high-value order,0,1
+CH00109,Packaging,262.25,0.855,Normal payment,0,0
+CH00110,Professional Services,860.42,-0.835,Normal payment,0,0
+CH00111,Utilities,261.2,-0.902,Normal payment,0,0
+CH00112,Cloud & Software,812.78,-0.265,Normal payment,0,0
+CH00113,Facilities,690.08,1.237,Normal payment,0,0
+CH00114,Hardware,389.8,-0.823,Normal payment,0,0
+CH00115,Logistics,168.22,-1.191,Normal payment,0,0
+CH00116,Marketing,6856.99,2.974,Injected subtle anomaly,1,0
+CH00117,Packaging,95.37,-0.577,Normal payment,0,0
+CH00118,Professional Services,2047.29,0.378,Normal payment,0,0
+CH00119,Utilities,852.09,0.78,Normal payment,0,0
+CH00120,Cloud & Software,846.89,-0.207,Normal payment,0,0
+CH00121,Facilities,1048.95,1.852,Normal payment,0,0
+CH00122,Hardware,550.9,-0.332,Normal payment,0,0
+CH00123,Logistics,165.7,-1.213,Normal payment,0,0
+CH00124,Marketing,34807.23,5.249,Injected obvious anomaly,1,1
+CH00125,Packaging,287.66,0.986,Normal payment,0,0
+CH00126,Professional Services,1011.61,-0.609,Normal payment,0,0
+CH00127,Utilities,524.12,0.088,Normal payment,0,0
+CH00128,Cloud & Software,919.92,-0.089,Normal payment,0,0
+CH00129,Facilities,254.37,-0.227,Normal payment,0,0
+CH00130,Hardware,867.01,0.313,Normal payment,0,0
+CH00131,Logistics,693.24,0.853,Normal payment,0,0
+CH00132,Marketing,890.0,0.116,Normal payment,0,0
+CH00133,Packaging,194.85,0.434,Normal payment,0,0
+CH00134,Professional Services,2808.18,0.82,Normal payment,0,0
+CH00135,Utilities,43772.85,6.397,Legitimate high-value order,0,1
+CH00136,Cloud & Software,1381.21,0.489,Normal payment,0,0
+CH00137,Facilities,533.47,0.859,Normal payment,0,0
+CH00138,Hardware,1066.81,0.607,Normal payment,0,0
+CH00139,Logistics,748.95,0.964,Normal payment,0,0
+CH00140,Marketing,384.82,-1.056,Normal payment,0,0
+CH00141,Packaging,85.13,-0.737,Normal payment,0,0
+CH00142,Professional Services,1103.07,-0.488,Normal payment,0,0
+CH00143,Utilities,416.16,-0.24,Normal payment,0,0
+CH00144,Cloud & Software,1295.61,0.398,Normal payment,0,0
+CH00145,Facilities,1810.8,2.654,Injected subtle anomaly,1,0
+CH00146,Hardware,528.55,-0.391,Normal payment,0,0
+CH00147,Logistics,182.54,-1.074,Normal payment,0,0
+CH00148,Marketing,1014.85,0.3,Normal payment,0,0
+CH00149,Packaging,136.22,-0.073,Normal payment,0,0
+CH00150,Professional Services,1609.18,0.041,Normal payment,0,0
+CH00151,Utilities,381.76,-0.363,Normal payment,0,0
+CH00152,Cloud & Software,1275.0,0.375,Normal payment,0,0
+CH00153,Facilities,274.88,-0.113,Normal payment,0,0
+CH00154,Hardware,2400.17,1.761,Normal payment,0,0
+CH00155,Logistics,32540.82,6.423,Injected obvious anomaly,1,1
+CH00156,Marketing,379.97,-1.074,Normal payment,0,0
+CH00157,Packaging,212.92,0.559,Normal payment,0,0
+CH00158,Professional Services,2181.69,0.467,Normal payment,0,0
+CH00159,Utilities,344.81,-0.507,Normal payment,0,0
+CH00160,Cloud & Software,1042.09,0.088,Normal payment,0,0
+CH00161,Facilities,343.21,0.212,Normal payment,0,0
+CH00162,Hardware,74720.95,6.654,Legitimate high-value order,0,1
+CH00163,Logistics,116.25,-1.723,Normal payment,0,0
+CH00164,Marketing,946.52,0.202,Normal payment,0,0
+CH00165,Packaging,89.9,-0.66,Normal payment,0,0
+CH00166,Professional Services,3041.01,0.932,Normal payment,0,0
+CH00167,Utilities,418.27,-0.233,Normal payment,0,0
+CH00168,Cloud & Software,455.19,-1.089,Normal payment,0,0
+CH00169,Facilities,326.36,0.138,Normal payment,0,0
+CH00170,Hardware,944.27,0.434,Normal payment,0,0
+CH00171,Logistics,880.22,1.198,Normal payment,0,0
+CH00172,Marketing,590.66,-0.457,Normal payment,0,0
+CH00173,Packaging,59.79,-1.233,Normal payment,0,0
+CH00174,Professional Services,5411.71,1.739,Injected subtle anomaly,1,0
+CH00175,Utilities,729.68,0.56,Normal payment,0,0
+CH00176,Cloud & Software,221.98,-2.108,Normal payment,0,0
+CH00177,Facilities,292.18,-0.024,Normal payment,0,0
+CH00178,Hardware,694.45,-0.003,Normal payment,0,0
+CH00179,Logistics,277.03,-0.472,Normal payment,0,0
+CH00180,Marketing,489.51,-0.72,Normal payment,0,0
+CH00181,Packaging,89.92,-0.66,Normal payment,0,0
+CH00182,Professional Services,3250.23,1.025,Normal payment,0,0
+CH00183,Utilities,317.01,-0.627,Normal payment,0,0
+CH00184,Cloud & Software,1062.3,0.115,Normal payment,0,0
+CH00185,Facilities,349.38,0.238,Normal payment,0,0
+CH00186,Hardware,24916.82,5.091,Injected obvious anomaly,1,1
+CH00187,Logistics,1117.95,1.544,Normal payment,0,0
+CH00188,Marketing,248.94,-1.664,Normal payment,0,0
+CH00189,Packaging,15651.8,6.675,Legitimate high-value order,0,1
+CH00190,Professional Services,530.43,-1.512,Normal payment,0,0
+CH00191,Utilities,101.8,-2.238,Normal payment,0,0
+CH00192,Cloud & Software,618.52,-0.654,Normal payment,0,0
+CH00193,Facilities,521.83,0.826,Normal payment,0,0
+CH00194,Hardware,267.09,-1.36,Normal payment,0,0
+CH00195,Logistics,724.36,0.916,Normal payment,0,0
+CH00196,Marketing,2156.59,1.355,Normal payment,0,0
+CH00197,Packaging,52.43,-1.417,Normal payment,0,0
+CH00198,Professional Services,1218.77,-0.348,Normal payment,0,0
+CH00199,Utilities,240.14,-1.022,Normal payment,0,0
+CH00200,Cloud & Software,961.92,-0.026,Normal payment,0,0
+CH00201,Facilities,207.84,-0.523,Normal payment,0,0
+CH00202,Hardware,594.71,-0.223,Normal payment,0,0
+CH00203,Logistics,3431.32,3.167,Injected subtle anomaly,1,0
+CH00204,Marketing,621.09,-0.387,Normal payment,0,0
+CH00205,Packaging,247.49,0.773,Normal payment,0,0
+CH00206,Professional Services,924.15,-0.735,Normal payment,0,0
+CH00207,Utilities,884.31,0.833,Normal payment,0,0
+CH00208,Cloud & Software,820.44,-0.252,Normal payment,0,0
+CH00209,Facilities,432.6,0.551,Normal payment,0,0
+CH00210,Hardware,767.6,0.14,Normal payment,0,0
+CH00211,Logistics,442.2,0.203,Normal payment,0,0
+CH00212,Marketing,1117.05,0.434,Normal payment,0,0
+CH00213,Packaging,131.67,-0.121,Normal payment,0,0
+CH00214,Professional Services,1311.68,-0.245,Normal payment,0,0
+CH00215,Utilities,946.83,0.931,Normal payment,0,0
+CH00216,Cloud & Software,83792.64,6.33,Legitimate high-value order,0,1
+CH00217,Facilities,25256.42,6.528,Injected obvious anomaly,1,1
+CH00218,Hardware,657.88,-0.08,Normal payment,0,0
+CH00219,Logistics,325.78,-0.238,Normal payment,0,0
+CH00220,Marketing,205.84,-1.929,Normal payment,0,0
+CH00221,Packaging,154.21,0.102,Normal payment,0,0
+CH00222,Professional Services,2374.27,0.585,Normal payment,0,0
+CH00223,Utilities,1109.34,1.156,Normal payment,0,0
+CH00224,Cloud & Software,869.92,-0.169,Normal payment,0,0
+CH00225,Facilities,202.86,-0.558,Normal payment,0,0
+CH00226,Hardware,2100.46,1.571,Normal payment,0,0
+CH00227,Logistics,137.16,-1.485,Normal payment,0,0
+CH00228,Marketing,370.8,-1.108,Normal payment,0,0
+CH00229,Packaging,227.53,0.653,Normal payment,0,0
+CH00230,Professional Services,2309.98,0.547,Normal payment,0,0
+CH00231,Utilities,1930.5,1.946,Normal payment,0,0
+CH00232,Cloud & Software,3721.3,1.898,Injected subtle anomaly,1,0
+CH00233,Facilities,348.97,0.236,Normal payment,0,0
+CH00234,Hardware,868.94,0.316,Normal payment,0,0
+CH00235,Logistics,271.17,-0.503,Normal payment,0,0
+CH00236,Marketing,1018.79,0.305,Normal payment,0,0
+CH00237,Packaging,146.5,0.03,Normal payment,0,0
+CH00238,Professional Services,2947.53,0.888,Normal payment,0,0
+CH00239,Utilities,159.99,-1.598,Normal payment,0,0
+CH00240,Cloud & Software,484.87,-0.999,Normal payment,0,0
+CH00241,Facilities,263.12,-0.178,Normal payment,0,0
+CH00242,Hardware,363.74,-0.921,Normal payment,0,0
+CH00243,Logistics,19095.02,5.651,Legitimate high-value order,0,1
+CH00244,Marketing,609.45,-0.413,Normal payment,0,0
+CH00245,Packaging,485.97,1.731,Normal payment,0,0
+CH00246,Professional Services,1982.67,0.333,Normal payment,0,0
+CH00247,Utilities,503.47,0.031,Normal payment,0,0
+CH00248,Cloud & Software,50865.02,5.62,Injected obvious anomaly,1,1
+CH00249,Facilities,252.3,-0.239,Normal payment,0,0
+CH00250,Hardware,380.06,-0.859,Normal payment,0,0
+CH00251,Logistics,147.04,-1.385,Normal payment,0,0
+CH00252,Marketing,1077.96,0.384,Normal payment,0,0
+CH00253,Packaging,239.7,0.727,Normal payment,0,0
+CH00254,Professional Services,1129.55,-0.455,Normal payment,0,0
+CH00255,Utilities,1218.36,1.29,Normal payment,0,0
+CH00256,Cloud & Software,1690.22,0.776,Normal payment,0,0
+CH00257,Facilities,111.54,-1.432,Normal payment,0,0
+CH00258,Hardware,1643.92,1.222,Normal payment,0,0
+CH00259,Logistics,337.91,-0.186,Normal payment,0,0
+CH00260,Marketing,1547.51,0.89,Normal payment,0,0
+CH00261,Packaging,480.4,1.715,Injected subtle anomaly,1,0
+CH00262,Professional Services,2900.57,0.866,Normal payment,0,0
+CH00263,Utilities,355.0,-0.466,Normal payment,0,0
+CH00264,Cloud & Software,278.39,-1.787,Normal payment,0,0
+CH00265,Facilities,410.54,0.475,Normal payment,0,0
+CH00266,Hardware,123.04,-2.456,Normal payment,0,0
+CH00267,Logistics,748.34,0.963,Normal payment,0,0
+CH00268,Marketing,748.76,-0.126,Normal payment,0,0
+CH00269,Packaging,118.82,-0.266,Normal payment,0,0
+CH00270,Professional Services,143325.0,6.328,Legitimate high-value order,0,1
+CH00271,Utilities,382.32,-0.361,Normal payment,0,0
+CH00272,Cloud & Software,1215.86,0.307,Normal payment,0,0
+CH00273,Facilities,253.44,-0.232,Normal payment,0,0
+CH00274,Hardware,855.92,0.294,Normal payment,0,0
+CH00275,Logistics,590.02,0.619,Normal payment,0,0
+CH00276,Marketing,616.1,-0.398,Normal payment,0,0
+CH00277,Packaging,86.46,-0.715,Normal payment,0,0
+CH00278,Professional Services,3444.33,1.106,Normal payment,0,0
+CH00279,Utilities,18664.64,5.182,Injected obvious anomaly,1,1
+CH00280,Cloud & Software,444.02,-1.124,Normal payment,0,0
+CH00281,Facilities,353.15,0.254,Normal payment,0,0
+CH00282,Hardware,1514.11,1.105,Normal payment,0,0
+CH00283,Logistics,588.09,0.615,Normal payment,0,0
+CH00284,Marketing,299.34,-1.407,Normal payment,0,0
+CH00285,Packaging,172.23,0.259,Normal payment,0,0
+CH00286,Professional Services,938.75,-0.713,Normal payment,0,0
+CH00287,Utilities,612.53,0.31,Normal payment,0,0
+CH00288,Cloud & Software,1153.58,0.232,Normal payment,0,0
+CH00289,Facilities,226.7,-0.396,Normal payment,0,0
+CH00290,Hardware,4002.63,2.488,Injected subtle anomaly,1,0
+CH00291,Logistics,173.68,-1.145,Normal payment,0,0
+CH00292,Marketing,1391.16,0.741,Normal payment,0,0
+CH00293,Packaging,207.55,0.523,Normal payment,0,0
+CH00294,Professional Services,2995.78,0.911,Normal payment,0,0
+CH00295,Utilities,201.23,-1.273,Normal payment,0,0
+CH00296,Cloud & Software,2495.43,1.33,Normal payment,0,0
+CH00297,Facilities,18746.5,6.089,Legitimate high-value order,0,1
+CH00298,Hardware,1424.35,1.018,Normal payment,0,0
+CH00299,Logistics,606.4,0.659,Normal payment,0,0
+CH00300,Marketing,863.94,0.075,Normal payment,0,0
+CH00301,Packaging,140.49,-0.03,Normal payment,0,0
+CH00302,Professional Services,732.77,-1.06,Normal payment,0,0
+CH00303,Utilities,383.95,-0.355,Normal payment,0,0
+CH00304,Cloud & Software,825.17,-0.244,Normal payment,0,0
+CH00305,Facilities,145.07,-1.048,Normal payment,0,0
+CH00306,Hardware,381.37,-0.854,Normal payment,0,0
+CH00307,Logistics,744.27,0.955,Normal payment,0,0
+CH00308,Marketing,702.41,-0.215,Normal payment,0,0
+CH00309,Packaging,220.63,0.61,Normal payment,0,0
+CH00310,Professional Services,121309.2,6.094,Injected obvious anomaly,1,1
+CH00311,Utilities,1154.71,1.214,Normal payment,0,0
+CH00312,Cloud & Software,1575.93,0.676,Normal payment,0,0
+CH00313,Facilities,225.2,-0.405,Normal payment,0,0
+CH00314,Hardware,585.36,-0.246,Normal payment,0,0
+CH00315,Logistics,479.44,0.32,Normal payment,0,0
+CH00316,Marketing,659.22,-0.304,Normal payment,0,0
+CH00317,Packaging,44.35,-1.65,Normal payment,0,0
+CH00318,Professional Services,1203.58,-0.366,Normal payment,0,0
+CH00319,Utilities,3355.46,2.734,Injected subtle anomaly,1,0
+CH00320,Cloud & Software,682.17,-0.514,Normal payment,0,0
+CH00321,Facilities,295.45,-0.008,Normal payment,0,0
+CH00322,Hardware,870.92,0.319,Normal payment,0,0
+CH00323,Logistics,277.78,-0.468,Normal payment,0,0
+CH00324,Marketing,37318.35,5.347,Legitimate high-value order,0,1
+CH00325,Packaging,43.6,-1.674,Normal payment,0,0
+CH00326,Professional Services,1970.82,0.325,Normal payment,0,0
+CH00327,Utilities,539.73,0.13,Normal payment,0,0
+CH00328,Cloud & Software,2979.52,1.582,Normal payment,0,0
+CH00329,Facilities,831.97,1.511,Normal payment,0,0
+CH00330,Hardware,1111.45,0.666,Normal payment,0,0
+CH00331,Logistics,303.78,-0.339,Normal payment,0,0
+CH00332,Marketing,1153.27,0.479,Normal payment,0,0
+CH00333,Packaging,282.62,0.961,Normal payment,0,0
+CH00334,Professional Services,7787.72,2.249,Normal payment,0,0
+CH00335,Utilities,487.85,-0.014,Normal payment,0,0
+CH00336,Cloud & Software,612.91,-0.667,Normal payment,0,0
+CH00337,Facilities,201.69,-0.567,Normal payment,0,0
+CH00338,Hardware,1563.52,1.151,Normal payment,0,0
+CH00339,Logistics,172.66,-1.154,Normal payment,0,0
+CH00340,Marketing,341.35,-1.223,Normal payment,0,0
+CH00341,Packaging,8899.66,5.871,Injected obvious anomaly,1,1
+CH00342,Professional Services,1263.97,-0.297,Normal payment,0,0
+CH00343,Utilities,191.16,-1.346,Normal payment,0,0
+CH00344,Cloud & Software,1478.39,0.585,Normal payment,0,0
+CH00345,Facilities,515.58,0.809,Normal payment,0,0
+CH00346,Hardware,367.96,-0.905,Normal payment,0,0
+CH00347,Logistics,403.75,0.071,Normal payment,0,0
+CH00348,Marketing,4578.32,2.409,Injected subtle anomaly,1,0
+CH00349,Packaging,35.6,-1.956,Normal payment,0,0
+CH00350,Professional Services,1627.64,0.057,Normal payment,0,0
+CH00351,Utilities,26399.47,5.676,Legitimate high-value order,0,1
+CH00352,Cloud & Software,1401.11,0.509,Normal payment,0,0
+CH00353,Facilities,432.89,0.552,Normal payment,0,0
+CH00354,Hardware,1179.17,0.75,Normal payment,0,0
+CH00355,Logistics,545.74,0.507,Normal payment,0,0
+CH00356,Marketing,1927.29,1.197,Normal payment,0,0
+CH00357,Packaging,136.13,-0.074,Normal payment,0,0
+CH00358,Professional Services,2864.97,0.848,Normal payment,0,0
+CH00359,Utilities,413.44,-0.249,Normal payment,0,0
+CH00360,Cloud & Software,853.59,-0.196,Normal payment,0,0
+CH00361,Facilities,312.11,0.073,Normal payment,0,0
+CH00362,Hardware,430.96,-0.681,Normal payment,0,0
+CH00363,Logistics,698.98,0.864,Normal payment,0,0
+CH00364,Marketing,814.66,-0.008,Normal payment,0,0
+CH00365,Packaging,292.9,1.012,Normal payment,0,0
+CH00366,Professional Services,1182.97,-0.39,Normal payment,0,0
+CH00367,Utilities,355.89,-0.462,Normal payment,0,0
+CH00368,Cloud & Software,693.08,-0.492,Normal payment,0,0
+CH00369,Facilities,273.68,-0.12,Normal payment,0,0
+CH00370,Hardware,1057.48,0.595,Normal payment,0,0
+CH00371,Logistics,927.38,1.273,Normal payment,0,0
+CH00372,Marketing,58192.68,5.969,Injected obvious anomaly,1,1
+CH00373,Packaging,180.03,0.322,Normal payment,0,0
+CH00374,Professional Services,9538.31,2.533,Normal payment,0,0
+CH00375,Utilities,1657.78,1.729,Normal payment,0,0
+CH00376,Cloud & Software,744.22,-0.391,Normal payment,0,0
+CH00377,Facilities,1289.69,2.155,Injected subtle anomaly,1,0
+CH00378,Hardware,53350.84,6.174,Legitimate high-value order,0,1
+CH00379,Logistics,703.5,0.874,Normal payment,0,0
+CH00380,Marketing,1218.79,0.556,Normal payment,0,0
+CH00381,Packaging,158.66,0.143,Normal payment,0,0
+CH00382,Professional Services,1435.39,-0.119,Normal payment,0,0
+CH00383,Utilities,523.09,0.086,Normal payment,0,0
+CH00384,Cloud & Software,623.74,-0.642,Normal payment,0,0
+CH00385,Facilities,336.89,0.185,Normal payment,0,0
+CH00386,Hardware,367.37,-0.907,Normal payment,0,0
+CH00387,Logistics,436.69,0.185,Normal payment,0,0
+CH00388,Marketing,223.84,-1.812,Normal payment,0,0
+CH00389,Packaging,121.15,-0.239,Normal payment,0,0
+CH00390,Professional Services,2011.02,0.353,Normal payment,0,0
+CH00391,Utilities,701.36,0.503,Normal payment,0,0
+CH00392,Cloud & Software,558.92,-0.798,Normal payment,0,0
+CH00393,Facilities,792.89,1.441,Normal payment,0,0
+CH00394,Hardware,1389.06,0.983,Normal payment,0,0
+CH00395,Logistics,473.39,0.301,Normal payment,0,0
+CH00396,Marketing,438.81,-0.872,Normal payment,0,0
+CH00397,Packaging,69.96,-1.013,Normal payment,0,0
+CH00398,Professional Services,1312.66,-0.244,Normal payment,0,0
+CH00399,Utilities,429.95,-0.194,Normal payment,0,0
+CH00400,Cloud & Software,999.9,0.029,Normal payment,0,0
+CH00401,Facilities,253.07,-0.235,Normal payment,0,0
+CH00402,Hardware,409.05,-0.755,Normal payment,0,0
+CH00403,Logistics,28540.91,6.233,Injected obvious anomaly,1,1
+CH00404,Marketing,1329.54,0.678,Normal payment,0,0
+CH00405,Packaging,11947.65,6.29,Legitimate high-value order,0,1
+CH00406,Professional Services,6491.34,1.994,Injected subtle anomaly,1,0
+CH00407,Utilities,293.18,-0.738,Normal payment,0,0
+CH00408,Cloud & Software,1314.63,0.418,Normal payment,0,0
+CH00409,Facilities,420.15,0.508,Normal payment,0,0
+CH00410,Hardware,815.1,0.225,Normal payment,0,0
+CH00411,Logistics,281.5,-0.449,Normal payment,0,0
+CH00412,Marketing,354.12,-1.172,Normal payment,0,0
+CH00413,Packaging,102.34,-0.477,Normal payment,0,0
+CH00414,Professional Services,342.32,-2.124,Normal payment,0,0
+CH00415,Utilities,174.91,-1.472,Normal payment,0,0
+CH00416,Cloud & Software,655.51,-0.571,Normal payment,0,0
+CH00417,Facilities,381.15,0.366,Normal payment,0,0
+CH00418,Hardware,688.26,-0.016,Normal payment,0,0
+CH00419,Logistics,86.91,-2.14,Normal payment,0,0
+CH00420,Marketing,623.53,-0.381,Normal payment,0,0
+CH00421,Packaging,129.73,-0.142,Normal payment,0,0
+CH00422,Professional Services,1271.96,-0.288,Normal payment,0,0
+CH00423,Utilities,313.47,-0.643,Normal payment,0,0
+CH00424,Cloud & Software,2415.06,1.283,Normal payment,0,0
+CH00425,Facilities,282.62,-0.073,Normal payment,0,0
+CH00426,Hardware,762.96,0.131,Normal payment,0,0
+CH00427,Logistics,424.59,0.144,Normal payment,0,0
+CH00428,Marketing,893.78,0.122,Normal payment,0,0
+CH00429,Packaging,102.33,-0.477,Normal payment,0,0
+CH00430,Professional Services,2931.67,0.881,Normal payment,0,0
+CH00431,Utilities,750.92,0.6,Normal payment,0,0
+CH00432,Cloud & Software,62244.41,5.907,Legitimate high-value order,0,1
+CH00433,Facilities,122.39,-1.297,Normal payment,0,0
+CH00434,Hardware,35030.71,5.575,Injected obvious anomaly,1,1
+CH00435,Logistics,2644.02,2.789,Injected subtle anomaly,1,0
+CH00436,Marketing,684.91,-0.25,Normal payment,0,0
+CH00437,Packaging,62.8,-1.164,Normal payment,0,0
+CH00438,Professional Services,1383.45,-0.171,Normal payment,0,0
+CH00439,Utilities,371.17,-0.403,Normal payment,0,0
+CH00440,Cloud & Software,2818.95,1.503,Normal payment,0,0
+CH00441,Facilities,157.1,-0.932,Normal payment,0,0
+CH00442,Hardware,414.11,-0.737,Normal payment,0,0
+CH00443,Logistics,782.85,1.028,Normal payment,0,0
+CH00444,Marketing,635.11,-0.356,Normal payment,0,0
+CH00445,Packaging,148.02,0.044,Normal payment,0,0
+CH00446,Professional Services,1752.48,0.16,Normal payment,0,0
+CH00447,Utilities,278.46,-0.811,Normal payment,0,0
+CH00448,Cloud & Software,305.64,-1.654,Normal payment,0,0
+CH00449,Facilities,659.24,1.17,Normal payment,0,0
+CH00450,Hardware,508.14,-0.447,Normal payment,0,0
+CH00451,Logistics,356.02,-0.11,Normal payment,0,0
+CH00452,Marketing,999.27,0.278,Normal payment,0,0
+CH00453,Packaging,139.74,-0.037,Normal payment,0,0
+CH00454,Professional Services,5227.33,1.69,Normal payment,0,0
+CH00455,Utilities,377.59,-0.378,Normal payment,0,0
+CH00456,Cloud & Software,711.07,-0.455,Normal payment,0,0
+CH00457,Facilities,276.64,-0.104,Normal payment,0,0
+CH00458,Hardware,965.2,0.465,Normal payment,0,0
+CH00459,Logistics,22651.33,5.899,Legitimate high-value order,0,1
+CH00460,Marketing,637.15,-0.351,Normal payment,0,0
+CH00461,Packaging,110.42,-0.37,Normal payment,0,0
+CH00462,Professional Services,1779.63,0.182,Normal payment,0,0
+CH00463,Utilities,578.23,0.228,Normal payment,0,0
+CH00464,Cloud & Software,3944.76,1.981,Injected subtle anomaly,1,0
+CH00465,Facilities,29019.8,6.732,Injected obvious anomaly,1,1
+CH00466,Hardware,606.08,-0.196,Normal payment,0,0
+CH00467,Logistics,1264.49,1.722,Normal payment,0,0
+CH00468,Marketing,1831.46,1.126,Normal payment,0,0
+CH00469,Packaging,77.53,-0.868,Normal payment,0,0
+CH00470,Professional Services,915.07,-0.749,Normal payment,0,0
+CH00471,Utilities,235.08,-1.052,Normal payment,0,0
+CH00472,Cloud & Software,1519.64,0.624,Normal payment,0,0
+CH00473,Facilities,262.67,-0.18,Normal payment,0,0
+CH00474,Hardware,609.02,-0.189,Normal payment,0,0
+CH00475,Logistics,279.03,-0.462,Normal payment,0,0
+CH00476,Marketing,395.8,-1.017,Normal payment,0,0
+CH00477,Packaging,143.82,0.004,Normal payment,0,0
+CH00478,Professional Services,1969.11,0.323,Normal payment,0,0
+CH00479,Utilities,355.4,-0.464,Normal payment,0,0
+CH00480,Cloud & Software,789.44,-0.307,Normal payment,0,0
+CH00481,Facilities,310.39,0.065,Normal payment,0,0
+CH00482,Hardware,1234.01,0.814,Normal payment,0,0
+CH00483,Logistics,1112.08,1.536,Normal payment,0,0
+CH00484,Marketing,983.26,0.256,Normal payment,0,0
+CH00485,Packaging,405.6,1.474,Normal payment,0,0
+CH00486,Professional Services,85675.46,5.607,Legitimate high-value order,0,1
+CH00487,Utilities,1028.82,1.049,Normal payment,0,0
+CH00488,Cloud & Software,2960.68,1.573,Normal payment,0,0
+CH00489,Facilities,114.47,-1.394,Normal payment,0,0
+CH00490,Hardware,537.37,-0.367,Normal payment,0,0
+CH00491,Logistics,325.76,-0.239,Normal payment,0,0
+CH00492,Marketing,1115.27,0.432,Normal payment,0,0
+CH00493,Packaging,1010.22,2.772,Injected subtle anomaly,1,0
+CH00494,Professional Services,982.33,-0.65,Normal payment,0,0
+CH00495,Utilities,740.87,0.581,Normal payment,0,0
+CH00496,Cloud & Software,97660.86,6.548,Injected obvious anomaly,1,1
+CH00497,Facilities,171.4,-0.805,Normal payment,0,0
+CH00498,Hardware,288.52,-1.25,Normal payment,0,0
+CH00499,Logistics,418.73,0.124,Normal payment,0,0
+CH00500,Marketing,1289.11,0.635,Normal payment,0,0
+CH00501,Packaging,149.32,0.057,Normal payment,0,0
+CH00502,Professional Services,1026.0,-0.589,Normal payment,0,0
+CH00503,Utilities,714.23,0.529,Normal payment,0,0
+CH00504,Cloud & Software,929.32,-0.075,Normal payment,0,0
+CH00505,Facilities,299.51,0.012,Normal payment,0,0
+CH00506,Hardware,632.16,-0.136,Normal payment,0,0
+CH00507,Logistics,2438.48,2.672,Normal payment,0,0
+CH00508,Marketing,828.04,0.015,Normal payment,0,0
+CH00509,Packaging,145.2,0.017,Normal payment,0,0
+CH00510,Professional Services,1527.66,-0.032,Normal payment,0,0
+CH00511,Utilities,561.23,0.186,Normal payment,0,0
+CH00512,Cloud & Software,348.1,-1.47,Normal payment,0,0
+CH00513,Facilities,27997.78,6.679,Legitimate high-value order,0,1
+CH00514,Hardware,359.16,-0.939,Normal payment,0,0
+CH00515,Logistics,286.9,-0.422,Normal payment,0,0
+CH00516,Marketing,562.22,-0.526,Normal payment,0,0
+CH00517,Packaging,90.63,-0.648,Normal payment,0,0
+CH00518,Professional Services,2884.97,0.858,Normal payment,0,0
+CH00519,Utilities,617.39,0.322,Normal payment,0,0
+CH00520,Cloud & Software,936.79,-0.064,Normal payment,0,0
+CH00521,Facilities,209.09,-0.514,Normal payment,0,0
+CH00522,Hardware,4480.12,2.649,Injected subtle anomaly,1,0
+CH00523,Logistics,188.41,-1.028,Normal payment,0,0
+CH00524,Marketing,707.45,-0.205,Normal payment,0,0
+CH00525,Packaging,134.27,-0.094,Normal payment,0,0
+CH00526,Professional Services,641.53,-1.246,Normal payment,0,0
+CH00527,Utilities,33356.96,6.01,Injected obvious anomaly,1,1
+CH00528,Cloud & Software,1404.84,0.513,Normal payment,0,0
+CH00529,Facilities,286.81,-0.051,Normal payment,0,0
+CH00530,Hardware,650.13,-0.097,Normal payment,0,0
+CH00531,Logistics,236.74,-0.699,Normal payment,0,0
+CH00532,Marketing,965.7,0.23,Normal payment,0,0
+CH00533,Packaging,87.35,-0.7,Normal payment,0,0
+CH00534,Professional Services,1124.34,-0.461,Normal payment,0,0
+CH00535,Utilities,1171.04,1.234,Normal payment,0,0
+CH00536,Cloud & Software,736.26,-0.406,Normal payment,0,0
+CH00537,Facilities,284.8,-0.062,Normal payment,0,0
+CH00538,Hardware,333.08,-1.046,Normal payment,0,0
+CH00539,Logistics,375.55,-0.033,Normal payment,0,0
+CH00540,Marketing,86646.21,6.526,Legitimate high-value order,0,1
+CH00541,Packaging,117.17,-0.286,Normal payment,0,0
+CH00542,Professional Services,420.94,-1.835,Normal payment,0,0
+CH00543,Utilities,1448.4,1.537,Normal payment,0,0
+CH00544,Cloud & Software,2116.01,1.095,Normal payment,0,0
+CH00545,Facilities,129.22,-1.217,Normal payment,0,0
+CH00546,Hardware,874.05,0.324,Normal payment,0,0
+CH00547,Logistics,264.3,-0.54,Normal payment,0,0
+CH00548,Marketing,1058.3,0.358,Normal payment,0,0
+CH00549,Packaging,277.77,0.937,Normal payment,0,0
+CH00550,Professional Services,1336.96,-0.219,Normal payment,0,0
+CH00551,Utilities,2968.13,2.559,Injected subtle anomaly,1,0
+CH00552,Cloud & Software,2795.43,1.491,Normal payment,0,0
+CH00553,Facilities,187.17,-0.676,Normal payment,0,0
+CH00554,Hardware,691.93,-0.008,Normal payment,0,0
+CH00555,Logistics,610.03,0.668,Normal payment,0,0
+CH00556,Marketing,1308.96,0.656,Normal payment,0,0
+CH00557,Packaging,113.97,-0.325,Normal payment,0,0
+CH00558,Professional Services,81304.26,5.534,Injected obvious anomaly,1,1
+CH00559,Utilities,603.09,0.288,Normal payment,0,0
+CH00560,Cloud & Software,401.93,-1.266,Normal payment,0,0
+CH00561,Facilities,750.77,1.36,Normal payment,0,0
+CH00562,Hardware,1100.41,0.652,Normal payment,0,0
+CH00563,Logistics,168.06,-1.193,Normal payment,0,0
+CH00564,Marketing,546.94,-0.565,Normal payment,0,0
+CH00565,Packaging,63.53,-1.148,Normal payment,0,0
+CH00566,Professional Services,1889.16,0.265,Normal payment,0,0
+CH00567,Utilities,21314.67,5.371,Legitimate high-value order,0,1
+CH00568,Cloud & Software,630.42,-0.626,Normal payment,0,0
+CH00569,Facilities,205.07,-0.542,Normal payment,0,0
+CH00570,Hardware,411.34,-0.747,Normal payment,0,0
+CH00571,Logistics,191.58,-1.004,Normal payment,0,0
+CH00572,Marketing,472.88,-0.768,Normal payment,0,0
+CH00573,Packaging,74.55,-0.923,Normal payment,0,0
+CH00574,Professional Services,634.01,-1.262,Normal payment,0,0
+CH00575,Utilities,1544.68,1.628,Normal payment,0,0
+CH00576,Cloud & Software,703.44,-0.471,Normal payment,0,0
+CH00577,Facilities,477.82,0.697,Normal payment,0,0
+CH00578,Hardware,604.73,-0.199,Normal payment,0,0
+CH00579,Logistics,371.63,-0.048,Normal payment,0,0
+CH00580,Marketing,5746.26,2.727,Injected subtle anomaly,1,0
+CH00581,Packaging,165.41,0.202,Normal payment,0,0
+CH00582,Professional Services,2067.35,0.391,Normal payment,0,0
+CH00583,Utilities,194.59,-1.32,Normal payment,0,0
+CH00584,Cloud & Software,1516.16,0.621,Normal payment,0,0
+CH00585,Facilities,239.64,-0.314,Normal payment,0,0
+CH00586,Hardware,1117.44,0.673,Normal payment,0,0
+CH00587,Logistics,252.44,-0.606,Normal payment,0,0
+CH00588,Marketing,1624.84,0.958,Normal payment,0,0
+CH00589,Packaging,7639.12,5.653,Injected obvious anomaly,1,1
+CH00590,Professional Services,2272.37,0.524,Normal payment,0,0
+CH00591,Utilities,205.18,-1.245,Normal payment,0,0
+CH00592,Cloud & Software,990.81,0.016,Normal payment,0,0
+CH00593,Facilities,561.31,0.933,Normal payment,0,0
+CH00594,Hardware,31778.71,5.437,Legitimate high-value order,0,1
+CH00595,Logistics,418.19,0.122,Normal payment,0,0
+CH00596,Marketing,1212.54,0.549,Normal payment,0,0
+CH00597,Packaging,267.56,0.883,Normal payment,0,0
+CH00598,Professional Services,903.22,-0.767,Normal payment,0,0
+CH00599,Utilities,1049.0,1.077,Normal payment,0,0
+CH00600,Cloud & Software,1006.68,0.039,Normal payment,0,0
+CH00601,Facilities,241.49,-0.303,Normal payment,0,0
+CH00602,Hardware,761.15,0.128,Normal payment,0,0
+CH00603,Logistics,240.16,-0.678,Normal payment,0,0
+CH00604,Marketing,951.16,0.209,Normal payment,0,0
+CH00605,Packaging,200.49,0.474,Normal payment,0,0
+CH00606,Professional Services,1672.98,0.095,Normal payment,0,0
+CH00607,Utilities,933.3,0.91,Normal payment,0,0
+CH00608,Cloud & Software,1465.75,0.573,Normal payment,0,0
+CH00609,Facilities,1580.16,2.454,Injected subtle anomaly,1,0
+CH00610,Hardware,1077.22,0.621,Normal payment,0,0
+CH00611,Logistics,339.73,-0.178,Normal payment,0,0
+CH00612,Marketing,597.87,-0.44,Normal payment,0,0
+CH00613,Packaging,98.59,-0.53,Normal payment,0,0
+CH00614,Professional Services,806.3,-0.926,Normal payment,0,0
+CH00615,Utilities,983.22,0.984,Normal payment,0,0
+CH00616,Cloud & Software,1728.83,0.808,Normal payment,0,0
+CH00617,Facilities,281.2,-0.08,Normal payment,0,0
+CH00618,Hardware,650.43,-0.096,Normal payment,0,0
+CH00619,Logistics,551.03,0.521,Normal payment,0,0
+CH00620,Marketing,30385.0,5.059,Injected obvious anomaly,1,1
+CH00621,Packaging,8177.66,5.75,Legitimate high-value order,0,1
+CH00622,Professional Services,1334.08,-0.222,Normal payment,0,0
+CH00623,Utilities,844.54,0.768,Normal payment,0,0
+CH00624,Cloud & Software,720.76,-0.436,Normal payment,0,0
+CH00625,Facilities,90.14,-1.742,Normal payment,0,0
+CH00626,Hardware,1032.64,0.561,Normal payment,0,0
+CH00627,Logistics,237.02,-0.697,Normal payment,0,0
+CH00628,Marketing,2131.87,1.339,Normal payment,0,0
+CH00629,Packaging,131.52,-0.123,Normal payment,0,0
+CH00630,Professional Services,2064.53,0.39,Normal payment,0,0
+CH00631,Utilities,311.24,-0.653,Normal payment,0,0
+CH00632,Cloud & Software,1563.44,0.665,Normal payment,0,0
+CH00633,Facilities,151.08,-0.989,Normal payment,0,0
+CH00634,Hardware,475.08,-0.542,Normal payment,0,0
+CH00635,Logistics,407.44,0.084,Normal payment,0,0
+CH00636,Marketing,790.98,-0.049,Normal payment,0,0
+CH00637,Packaging,376.54,1.369,Normal payment,0,0
+CH00638,Professional Services,8455.05,2.364,Injected subtle anomaly,1,0
+CH00639,Utilities,728.85,0.558,Normal payment,0,0
+CH00640,Cloud & Software,1401.06,0.509,Normal payment,0,0
+CH00641,Facilities,97.48,-1.628,Normal payment,0,0
+CH00642,Hardware,508.96,-0.444,Normal payment,0,0
+CH00643,Logistics,225.95,-0.766,Normal payment,0,0
+CH00644,Marketing,446.88,-0.847,Normal payment,0,0
+CH00645,Packaging,186.22,0.369,Normal payment,0,0
+CH00646,Professional Services,828.07,-0.889,Normal payment,0,0
+CH00647,Utilities,161.7,-1.583,Normal payment,0,0
+CH00648,Cloud & Software,41511.28,5.331,Legitimate high-value order,0,1
+CH00649,Facilities,401.13,0.441,Normal payment,0,0
+CH00650,Hardware,330.82,-1.056,Normal payment,0,0
+CH00651,Logistics,30144.28,6.312,Injected obvious anomaly,1,1
+CH00652,Marketing,1048.28,0.345,Normal payment,0,0
+CH00653,Packaging,69.83,-1.015,Normal payment,0,0
+CH00654,Professional Services,778.5,-0.975,Normal payment,0,0
+CH00655,Utilities,461.73,-0.092,Normal payment,0,0
+CH00656,Cloud & Software,656.07,-0.57,Normal payment,0,0
+CH00657,Facilities,396.21,0.422,Normal payment,0,0
+CH00658,Hardware,635.57,-0.129,Normal payment,0,0
+CH00659,Logistics,67.85,-2.493,Normal payment,0,0
+CH00660,Marketing,1573.64,0.914,Normal payment,0,0
+CH00661,Packaging,546.8,1.899,Normal payment,0,0
+CH00662,Professional Services,4802.08,1.572,Normal payment,0,0
+CH00663,Utilities,928.46,0.903,Normal payment,0,0
+CH00664,Cloud & Software,1442.38,0.55,Normal payment,0,0
+CH00665,Facilities,155.76,-0.945,Normal payment,0,0
+CH00666,Hardware,365.13,-0.916,Normal payment,0,0
+CH00667,Logistics,2587.27,2.758,Injected subtle anomaly,1,0
+CH00668,Marketing,2118.37,1.33,Normal payment,0,0
+CH00669,Packaging,50.87,-1.459,Normal payment,0,0
+CH00670,Professional Services,2129.44,0.433,Normal payment,0,0
+CH00671,Utilities,1055.17,1.085,Normal payment,0,0
+CH00672,Cloud & Software,861.02,-0.183,Normal payment,0,0
+CH00673,Facilities,285.99,-0.055,Normal payment,0,0
+CH00674,Hardware,954.03,0.449,Normal payment,0,0
+CH00675,Logistics,21210.33,5.804,Legitimate high-value order,0,1
+CH00676,Marketing,596.53,-0.443,Normal payment,0,0
+CH00677,Packaging,127.74,-0.164,Normal payment,0,0
+CH00678,Professional Services,1143.66,-0.437,Normal payment,0,0
+CH00679,Utilities,642.89,0.379,Normal payment,0,0
+CH00680,Cloud & Software,523.1,-0.892,Normal payment,0,0
+CH00681,Facilities,848.73,1.54,Normal payment,0,0
+CH00682,Hardware,40896.58,5.796,Injected obvious anomaly,1,1
+CH00683,Logistics,247.77,-0.633,Normal payment,0,0
+CH00684,Marketing,813.69,-0.009,Normal payment,0,0
+CH00685,Packaging,276.67,0.931,Normal payment,0,0
+CH00686,Professional Services,1536.06,-0.024,Normal payment,0,0
+CH00687,Utilities,796.79,0.685,Normal payment,0,0
+CH00688,Cloud & Software,3947.95,1.982,Normal payment,0,0
+CH00689,Facilities,1158.08,1.997,Normal payment,0,0
+CH00690,Hardware,353.39,-0.962,Normal payment,0,0
+CH00691,Logistics,759.67,0.985,Normal payment,0,0
+CH00692,Marketing,1058.78,0.359,Normal payment,0,0
+CH00693,Packaging,125.32,-0.191,Normal payment,0,0
+CH00694,Professional Services,969.36,-0.669,Normal payment,0,0
+CH00695,Utilities,1463.38,1.551,Normal payment,0,0
+CH00696,Cloud & Software,6072.7,2.595,Injected subtle anomaly,1,0
+CH00697,Facilities,405.06,0.455,Normal payment,0,0
+CH00698,Hardware,1286.24,0.873,Normal payment,0,0
+CH00699,Logistics,638.29,0.733,Normal payment,0,0
+CH00700,Marketing,192.33,-2.024,Normal payment,0,0
+CH00701,Packaging,293.23,1.013,Normal payment,0,0
+CH00702,Professional Services,86922.31,5.627,Legitimate high-value order,0,1
+CH00703,Utilities,654.34,0.404,Normal payment,0,0
+CH00704,Cloud & Software,1349.32,0.455,Normal payment,0,0
+CH00705,Facilities,236.12,-0.336,Normal payment,0,0
+CH00706,Hardware,1145.71,0.709,Normal payment,0,0
+CH00707,Logistics,789.86,1.041,Normal payment,0,0
+CH00708,Marketing,1245.47,0.586,Normal payment,0,0
+CH00709,Packaging,120.67,-0.245,Normal payment,0,0
+CH00710,Professional Services,920.86,-0.74,Normal payment,0,0
+CH00711,Utilities,359.85,-0.447,Normal payment,0,0
+CH00712,Cloud & Software,1982.09,1.002,Normal payment,0,0
+CH00713,Facilities,14858.78,5.748,Injected obvious anomaly,1,1
+CH00714,Hardware,199.97,-1.77,Normal payment,0,0
+CH00715,Logistics,225.15,-0.771,Normal payment,0,0
+CH00716,Marketing,1653.21,0.983,Normal payment,0,0
+CH00717,Packaging,94.8,-0.585,Normal payment,0,0
+CH00718,Professional Services,613.21,-1.309,Normal payment,0,0
+CH00719,Utilities,293.7,-0.736,Normal payment,0,0
+CH00720,Cloud & Software,1798.89,0.864,Normal payment,0,0
+CH00721,Facilities,612.09,1.061,Normal payment,0,0
+CH00722,Hardware,209.59,-1.703,Normal payment,0,0
+CH00723,Logistics,179.61,-1.097,Normal payment,0,0
+CH00724,Marketing,1491.8,0.839,Normal payment,0,0
+CH00725,Packaging,583.08,1.99,Injected subtle anomaly,1,0
+CH00726,Professional Services,2280.87,0.529,Normal payment,0,0
+CH00727,Utilities,444.11,-0.147,Normal payment,0,0
+CH00728,Cloud & Software,1213.04,0.304,Normal payment,0,0
+CH00729,Facilities,21337.58,6.28,Legitimate high-value order,0,1
+CH00730,Hardware,369.0,-0.901,Normal payment,0,0
+CH00731,Logistics,276.16,-0.477,Normal payment,0,0
+CH00732,Marketing,793.34,-0.045,Normal payment,0,0
+CH00733,Packaging,147.67,0.041,Normal payment,0,0
+CH00734,Professional Services,1025.46,-0.59,Normal payment,0,0
+CH00735,Utilities,615.1,0.316,Normal payment,0,0
+CH00736,Cloud & Software,356.08,-1.438,Normal payment,0,0
+CH00737,Facilities,784.48,1.425,Normal payment,0,0
+CH00738,Hardware,590.94,-0.232,Normal payment,0,0
+CH00739,Logistics,1027.4,1.421,Normal payment,0,0
+CH00740,Marketing,872.59,0.089,Normal payment,0,0
+CH00741,Packaging,106.31,-0.423,Normal payment,0,0
+CH00742,Professional Services,1405.86,-0.148,Normal payment,0,0
+CH00743,Utilities,2133.62,2.089,Normal payment,0,0
+CH00744,Cloud & Software,108379.99,6.696,Injected obvious anomaly,1,1
+CH00745,Facilities,665.85,1.184,Normal payment,0,0
+CH00746,Hardware,915.78,0.39,Normal payment,0,0
+CH00747,Logistics,626.3,0.706,Normal payment,0,0
+CH00748,Marketing,1709.46,1.029,Normal payment,0,0
+CH00749,Packaging,46.51,-1.584,Normal payment,0,0
+CH00750,Professional Services,1399.51,-0.155,Normal payment,0,0
+CH00751,Utilities,1240.02,1.315,Normal payment,0,0
+CH00752,Cloud & Software,1335.26,0.44,Normal payment,0,0
+CH00753,Facilities,415.59,0.492,Normal payment,0,0
+CH00754,Hardware,4186.2,2.552,Injected subtle anomaly,1,0
+CH00755,Logistics,510.34,0.41,Normal payment,0,0
+CH00756,Marketing,49496.78,5.742,Legitimate high-value order,0,1
+CH00757,Packaging,91.85,-0.63,Normal payment,0,0
+CH00758,Professional Services,1302.02,-0.256,Normal payment,0,0
+CH00759,Utilities,758.74,0.615,Normal payment,0,0
+CH00760,Cloud & Software,2935.28,1.561,Normal payment,0,0
+CH00761,Facilities,266.13,-0.161,Normal payment,0,0
+CH00762,Hardware,632.89,-0.135,Normal payment,0,0
+CH00763,Logistics,558.42,0.54,Normal payment,0,0
+CH00764,Marketing,2182.64,1.372,Normal payment,0,0
+CH00765,Packaging,182.52,0.341,Normal payment,0,0
+CH00766,Professional Services,1845.73,0.233,Normal payment,0,0
+CH00767,Utilities,430.84,-0.191,Normal payment,0,0
+CH00768,Cloud & Software,1064.74,0.118,Normal payment,0,0
+CH00769,Facilities,609.03,1.053,Normal payment,0,0
+CH00770,Hardware,1736.21,1.3,Normal payment,0,0
+CH00771,Logistics,674.72,0.813,Normal payment,0,0
+CH00772,Marketing,681.68,-0.257,Normal payment,0,0
+CH00773,Packaging,165.53,0.203,Normal payment,0,0
+CH00774,Professional Services,1167.51,-0.408,Normal payment,0,0
+CH00775,Utilities,42356.43,6.35,Injected obvious anomaly,1,1
+CH00776,Cloud & Software,2756.55,1.471,Normal payment,0,0
+CH00777,Facilities,231.67,-0.364,Normal payment,0,0
+CH00778,Hardware,2525.5,1.833,Normal payment,0,0
+CH00779,Logistics,385.92,0.006,Normal payment,0,0
+CH00780,Marketing,724.21,-0.172,Normal payment,0,0
+CH00781,Packaging,172.89,0.264,Normal payment,0,0
+CH00782,Professional Services,2928.14,0.879,Normal payment,0,0
+CH00783,Utilities,3664.5,2.86,Injected subtle anomaly,1,0
+CH00784,Cloud & Software,1054.85,0.105,Normal payment,0,0
+CH00785,Facilities,571.26,0.959,Normal payment,0,0
+CH00786,Hardware,500.68,-0.468,Normal payment,0,0
+CH00787,Logistics,368.37,-0.061,Normal payment,0,0
+CH00788,Marketing,584.95,-0.471,Normal payment,0,0
+CH00789,Packaging,288.92,0.992,Normal payment,0,0
+CH00790,Professional Services,2132.49,0.435,Normal payment,0,0
+CH00791,Utilities,750.87,0.6,Normal payment,0,0
+CH00792,Cloud & Software,422.97,-1.193,Normal payment,0,0
+CH00793,Facilities,183.28,-0.707,Normal payment,0,0
+CH00794,Hardware,1008.39,0.527,Normal payment,0,0
+CH00795,Logistics,186.9,-1.04,Normal payment,0,0
+CH00796,Marketing,663.21,-0.295,Normal payment,0,0
+CH00797,Packaging,139.4,-0.041,Normal payment,0,0
+CH00798,Professional Services,4504.43,1.482,Normal payment,0,0
+CH00799,Utilities,1026.05,1.045,Normal payment,0,0
+CH00800,Cloud & Software,345.13,-1.482,Normal payment,0,0
+CH00801,Facilities,292.46,-0.023,Normal payment,0,0
+CH00802,Hardware,554.25,-0.323,Normal payment,0,0
+CH00803,Logistics,198.14,-0.956,Normal payment,0,0
+CH00804,Marketing,1508.84,0.855,Normal payment,0,0
+CH00805,Packaging,125.63,-0.188,Normal payment,0,0
+CH00806,Professional Services,125013.84,6.136,Injected obvious anomaly,1,1
+CH00807,Utilities,883.84,0.833,Normal payment,0,0
+CH00808,Cloud & Software,1522.56,0.627,Normal payment,0,0
+CH00809,Facilities,362.63,0.293,Normal payment,0,0
+CH00810,Hardware,25365.22,5.116,Legitimate high-value order,0,1
+CH00811,Logistics,350.51,-0.133,Normal payment,0,0
+CH00812,Marketing,7818.49,3.158,Injected subtle anomaly,1,0
+CH00813,Packaging,76.47,-0.888,Normal payment,0,0
+CH00814,Professional Services,823.38,-0.897,Normal payment,0,0
+CH00815,Utilities,610.94,0.307,Normal payment,0,0
+CH00816,Cloud & Software,700.83,-0.476,Normal payment,0,0
+CH00817,Facilities,486.78,0.724,Normal payment,0,0
+CH00818,Hardware,573.65,-0.274,Normal payment,0,0
+CH00819,Logistics,900.13,1.23,Normal payment,0,0
+CH00820,Marketing,247.81,-1.67,Normal payment,0,0
+CH00821,Packaging,357.75,1.296,Normal payment,0,0
+CH00822,Professional Services,856.8,-0.841,Normal payment,0,0
+CH00823,Utilities,465.27,-0.081,Normal payment,0,0
+CH00824,Cloud & Software,595.17,-0.708,Normal payment,0,0
+CH00825,Facilities,136.69,-1.135,Normal payment,0,0
+CH00826,Hardware,521.08,-0.411,Normal payment,0,0
+CH00827,Logistics,318.95,-0.269,Normal payment,0,0
+CH00828,Marketing,545.21,-0.569,Normal payment,0,0
+CH00829,Packaging,70.97,-0.993,Normal payment,0,0
+CH00830,Professional Services,5425.74,1.743,Normal payment,0,0
+CH00831,Utilities,304.24,-0.685,Normal payment,0,0
+CH00832,Cloud & Software,1893.07,0.937,Normal payment,0,0
+CH00833,Facilities,374.31,0.339,Normal payment,0,0
+CH00834,Hardware,580.69,-0.257,Normal payment,0,0
+CH00835,Logistics,490.32,0.352,Normal payment,0,0
+CH00836,Marketing,4300.91,2.321,Normal payment,0,0
+CH00837,Packaging,7447.9,5.617,Injected obvious anomaly,1,1
+CH00838,Professional Services,7274.26,2.153,Normal payment,0,0
+CH00839,Utilities,975.86,0.974,Normal payment,0,0
+CH00840,Cloud & Software,390.01,-1.309,Normal payment,0,0
+CH00841,Facilities,1328.07,2.198,Injected subtle anomaly,1,0
+CH00842,Hardware,2169.79,1.617,Normal payment,0,0
+CH00843,Logistics,469.83,0.29,Normal payment,0,0
+CH00844,Marketing,222.51,-1.82,Normal payment,0,0
+CH00845,Packaging,136.56,-0.07,Normal payment,0,0
+CH00846,Professional Services,1797.61,0.196,Normal payment,0,0
+CH00847,Utilities,288.42,-0.761,Normal payment,0,0
+CH00848,Cloud & Software,944.2,-0.052,Normal payment,0,0
+CH00849,Facilities,202.17,-0.563,Normal payment,0,0
+CH00850,Hardware,1011.72,0.532,Normal payment,0,0
+CH00851,Logistics,534.98,0.478,Normal payment,0,0
+CH00852,Marketing,317.53,-1.324,Normal payment,0,0
+CH00853,Packaging,162.59,0.177,Normal payment,0,0
+CH00854,Professional Services,1441.08,-0.114,Normal payment,0,0
+CH00855,Utilities,441.81,-0.155,Normal payment,0,0
+CH00856,Cloud & Software,1142.0,0.218,Normal payment,0,0
+CH00857,Facilities,799.41,1.453,Normal payment,0,0
+CH00858,Hardware,1173.52,0.743,Normal payment,0,0
+CH00859,Logistics,479.37,0.319,Normal payment,0,0
+CH00860,Marketing,345.29,-1.207,Normal payment,0,0
+CH00861,Packaging,98.13,-0.536,Normal payment,0,0
+CH00862,Professional Services,2809.55,0.821,Normal payment,0,0
+CH00863,Utilities,319.38,-0.616,Normal payment,0,0
+CH00864,Cloud & Software,60835.39,5.874,Legitimate high-value order,0,1
+CH00865,Facilities,182.55,-0.713,Normal payment,0,0
+CH00866,Hardware,1010.71,0.531,Normal payment,0,0
+CH00867,Logistics,575.18,0.583,Normal payment,0,0
+CH00868,Marketing,96162.19,6.672,Injected obvious anomaly,1,1
+CH00869,Packaging,88.88,-0.676,Normal payment,0,0
+CH00870,Professional Services,14600.56,3.129,Injected subtle anomaly,1,0
+CH00871,Utilities,464.71,-0.083,Normal payment,0,0
+CH00872,Cloud & Software,1159.33,0.239,Normal payment,0,0
+CH00873,Facilities,123.5,-1.283,Normal payment,0,0
+CH00874,Hardware,267.33,-1.358,Normal payment,0,0
+CH00875,Logistics,155.92,-1.301,Normal payment,0,0
+CH00876,Marketing,950.38,0.208,Normal payment,0,0
+CH00877,Packaging,160.78,0.161,Normal payment,0,0
+CH00878,Professional Services,2845.86,0.839,Normal payment,0,0
+CH00879,Utilities,908.6,0.872,Normal payment,0,0
+CH00880,Cloud & Software,998.39,0.027,Normal payment,0,0
+CH00881,Facilities,186.22,-0.683,Normal payment,0,0
+CH00882,Hardware,568.7,-0.287,Normal payment,0,0
+CH00883,Logistics,309.6,-0.312,Normal payment,0,0
+CH00884,Marketing,206.67,-1.923,Normal payment,0,0
+CH00885,Packaging,46.01,-1.599,Normal payment,0,0
+CH00886,Professional Services,1195.74,-0.375,Normal payment,0,0
+CH00887,Utilities,574.44,0.219,Normal payment,0,0
+CH00888,Cloud & Software,851.21,-0.2,Normal payment,0,0
+CH00889,Facilities,419.93,0.508,Normal payment,0,0
+CH00890,Hardware,682.81,-0.027,Normal payment,0,0
+CH00891,Logistics,17509.82,5.526,Legitimate high-value order,0,1
+CH00892,Marketing,904.29,0.138,Normal payment,0,0
+CH00893,Packaging,111.36,-0.358,Normal payment,0,0
+CH00894,Professional Services,1051.9,-0.554,Normal payment,0,0
+CH00895,Utilities,350.37,-0.485,Normal payment,0,0
+CH00896,Cloud & Software,934.24,-0.067,Normal payment,0,0
+CH00897,Facilities,281.89,-0.077,Normal payment,0,0
+CH00898,Hardware,789.07,0.179,Normal payment,0,0
+CH00899,Logistics,34240.08,6.497,Injected obvious anomaly,1,1
+CH00900,Marketing,659.74,-0.303,Normal payment,0,0
+CH00901,Packaging,160.78,0.161,Normal payment,0,0
+CH00902,Professional Services,1018.53,-0.599,Normal payment,0,0
+CH00903,Utilities,557.47,0.176,Normal payment,0,0
+CH00904,Cloud & Software,715.96,-0.446,Normal payment,0,0
+CH00905,Facilities,724.64,1.308,Normal payment,0,0
+CH00906,Hardware,297.83,-1.205,Normal payment,0,0
+CH00907,Logistics,216.82,-0.826,Normal payment,0,0
+CH00908,Marketing,1416.37,0.766,Normal payment,0,0
+CH00909,Packaging,130.49,-0.134,Normal payment,0,0
+CH00910,Professional Services,1311.02,-0.246,Normal payment,0,0
+CH00911,Utilities,250.43,-0.962,Normal payment,0,0
+CH00912,Cloud & Software,494.81,-0.971,Normal payment,0,0
+CH00913,Facilities,310.07,0.063,Normal payment,0,0
+CH00914,Hardware,730.89,0.07,Normal payment,0,0
+CH00915,Logistics,387.15,0.011,Normal payment,0,0
+CH00916,Marketing,1816.26,1.114,Normal payment,0,0
+CH00917,Packaging,210.07,0.54,Normal payment,0,0
+CH00918,Professional Services,147061.02,6.364,Legitimate high-value order,0,1
+CH00919,Utilities,531.46,0.108,Normal payment,0,0
+CH00920,Cloud & Software,731.36,-0.415,Normal payment,0,0
+CH00921,Facilities,292.03,-0.025,Normal payment,0,0
+CH00922,Hardware,540.92,-0.358,Normal payment,0,0
+CH00923,Logistics,221.94,-0.792,Normal payment,0,0
+CH00924,Marketing,636.65,-0.352,Normal payment,0,0
+CH00925,Packaging,120.97,-0.241,Normal payment,0,0
+CH00926,Professional Services,2256.86,0.514,Normal payment,0,0
+CH00927,Utilities,767.34,0.631,Normal payment,0,0
+CH00928,Cloud & Software,4676.85,2.224,Injected subtle anomaly,1,0
+CH00929,Facilities,181.05,-0.725,Normal payment,0,0
+CH00930,Hardware,44454.69,5.915,Injected obvious anomaly,1,1
+CH00931,Logistics,390.19,0.022,Normal payment,0,0
+CH00932,Marketing,2980.36,1.808,Normal payment,0,0
+CH00933,Packaging,191.29,0.407,Normal payment,0,0
+CH00934,Professional Services,584.68,-1.376,Normal payment,0,0
+CH00935,Utilities,260.96,-0.904,Normal payment,0,0
+CH00936,Cloud & Software,618.56,-0.653,Normal payment,0,0
+CH00937,Facilities,313.01,0.077,Normal payment,0,0
+CH00938,Hardware,272.69,-1.33,Normal payment,0,0
+CH00939,Logistics,307.4,-0.322,Normal payment,0,0
+CH00940,Marketing,1263.27,0.606,Normal payment,0,0
+CH00941,Packaging,350.92,1.269,Normal payment,0,0
+CH00942,Professional Services,1010.63,-0.61,Normal payment,0,0
+CH00943,Utilities,192.49,-1.336,Normal payment,0,0
+CH00944,Cloud & Software,814.5,-0.262,Normal payment,0,0
+CH00945,Facilities,24227.68,6.466,Legitimate high-value order,0,1
+CH00946,Hardware,246.68,-1.472,Normal payment,0,0
+CH00947,Logistics,545.62,0.506,Normal payment,0,0
+CH00948,Marketing,1663.51,0.991,Normal payment,0,0
+CH00949,Packaging,132.53,-0.112,Normal payment,0,0
+CH00950,Professional Services,1514.58,-0.044,Normal payment,0,0
+CH00951,Utilities,775.58,0.646,Normal payment,0,0
+CH00952,Cloud & Software,1183.09,0.268,Normal payment,0,0
+CH00953,Facilities,187.87,-0.671,Normal payment,0,0
+CH00954,Hardware,247.39,-1.468,Normal payment,0,0
+CH00955,Logistics,163.21,-1.235,Normal payment,0,0
+CH00956,Marketing,1288.61,0.634,Normal payment,0,0
+CH00957,Packaging,740.53,2.33,Injected subtle anomaly,1,0
+CH00958,Professional Services,1115.56,-0.472,Normal payment,0,0
+CH00959,Utilities,394.57,-0.316,Normal payment,0,0
+CH00960,Cloud & Software,518.59,-0.904,Normal payment,0,0
+CH00961,Facilities,25336.77,6.532,Injected obvious anomaly,1,1
+CH00962,Hardware,840.52,0.269,Normal payment,0,0
+CH00963,Logistics,1510.1,1.979,Normal payment,0,0
+CH00964,Marketing,1209.41,0.545,Normal payment,0,0
+CH00965,Packaging,326.79,1.167,Normal payment,0,0
+CH00966,Professional Services,2045.66,0.377,Normal payment,0,0
+CH00967,Utilities,416.38,-0.239,Normal payment,0,0
+CH00968,Cloud & Software,552.59,-0.814,Normal payment,0,0
+CH00969,Facilities,1149.16,1.986,Normal payment,0,0
+CH00970,Hardware,1170.38,0.739,Normal payment,0,0
+CH00971,Logistics,217.35,-0.822,Normal payment,0,0
+CH00972,Marketing,55015.18,5.89,Legitimate high-value order,0,1
+CH00973,Packaging,124.1,-0.205,Normal payment,0,0
+CH00974,Professional Services,740.12,-1.046,Normal payment,0,0
+CH00975,Utilities,348.0,-0.494,Normal payment,0,0
+CH00976,Cloud & Software,431.89,-1.164,Normal payment,0,0
+CH00977,Facilities,219.99,-0.44,Normal payment,0,0
+CH00978,Hardware,903.97,0.372,Normal payment,0,0
+CH00979,Logistics,296.41,-0.375,Normal payment,0,0
+CH00980,Marketing,933.06,0.182,Normal payment,0,0
+CH00981,Packaging,109.39,-0.383,Normal payment,0,0
+CH00982,Professional Services,3832.39,1.256,Normal payment,0,0
+CH00983,Utilities,487.5,-0.015,Normal payment,0,0
+CH00984,Cloud & Software,2795.36,1.491,Normal payment,0,0
+CH00985,Facilities,374.08,0.338,Normal payment,0,0
+CH00986,Hardware,2333.35,1.721,Injected subtle anomaly,1,0
+CH00987,Logistics,655.81,0.772,Normal payment,0,0
+CH00988,Marketing,221.81,-1.825,Normal payment,0,0
+CH00989,Packaging,97.38,-0.547,Normal payment,0,0
+CH00990,Professional Services,1249.65,-0.313,Normal payment,0,0
+CH00991,Utilities,717.63,0.536,Normal payment,0,0
+CH00992,Cloud & Software,106607.07,6.673,Injected obvious anomaly,1,1
+CH00993,Facilities,238.64,-0.321,Normal payment,0,0
+CH00994,Hardware,1091.63,0.64,Normal payment,0,0
+CH00995,Logistics,844.38,1.138,Normal payment,0,0
+CH00996,Marketing,548.25,-0.561,Normal payment,0,0
+CH00997,Packaging,185.68,0.365,Normal payment,0,0
+CH00998,Professional Services,1034.91,-0.577,Normal payment,0,0
+CH00999,Utilities,21239.72,5.366,Legitimate high-value order,0,1
+CH01000,Cloud & Software,519.62,-0.901,Normal payment,0,0
+CH01001,Facilities,536.39,0.867,Normal payment,0,0
+CH01002,Hardware,2625.63,1.888,Normal payment,0,0
+CH01003,Logistics,259.39,-0.567,Normal payment,0,0
+CH01004,Marketing,807.15,-0.02,Normal payment,0,0
+CH01005,Packaging,188.07,0.383,Normal payment,0,0
+CH01006,Professional Services,4780.96,1.565,Normal payment,0,0
+CH01007,Utilities,827.57,0.739,Normal payment,0,0
+CH01008,Cloud & Software,281.13,-1.773,Normal payment,0,0
+CH01009,Facilities,412.44,0.481,Normal payment,0,0
+CH01010,Hardware,542.27,-0.354,Normal payment,0,0
+CH01011,Logistics,167.34,-1.199,Normal payment,0,0
+CH01012,Marketing,652.92,-0.317,Normal payment,0,0
+CH01013,Packaging,147.17,0.036,Normal payment,0,0
+CH01014,Professional Services,434.38,-1.791,Normal payment,0,0
+CH01015,Utilities,2628.7,2.386,Injected subtle anomaly,1,0
+CH01016,Cloud & Software,1076.31,0.134,Normal payment,0,0
+CH01017,Facilities,189.33,-0.659,Normal payment,0,0
+CH01018,Hardware,714.73,0.038,Normal payment,0,0
+CH01019,Logistics,195.97,-0.971,Normal payment,0,0
+CH01020,Marketing,1605.13,0.941,Normal payment,0,0
+CH01021,Packaging,257.62,0.83,Normal payment,0,0
+CH01022,Professional Services,2956.22,0.892,Normal payment,0,0
+CH01023,Utilities,33517.32,6.017,Injected obvious anomaly,1,1
+CH01024,Cloud & Software,1251.16,0.348,Normal payment,0,0
+CH01025,Facilities,254.42,-0.227,Normal payment,0,0
+CH01026,Hardware,30942.37,5.399,Legitimate high-value order,0,1
+CH01027,Logistics,549.81,0.517,Normal payment,0,0
+CH01028,Marketing,711.51,-0.197,Normal payment,0,0
+CH01029,Packaging,425.58,1.543,Normal payment,0,0
+CH01030,Professional Services,1587.13,0.021,Normal payment,0,0
+CH01031,Utilities,699.77,0.5,Normal payment,0,0
+CH01032,Cloud & Software,473.98,-1.032,Normal payment,0,0
+CH01033,Facilities,169.97,-0.817,Normal payment,0,0
+CH01034,Hardware,772.03,0.148,Normal payment,0,0
+CH01035,Logistics,433.27,0.173,Normal payment,0,0
+CH01036,Marketing,1358.03,0.707,Normal payment,0,0
+CH01037,Packaging,86.67,-0.711,Normal payment,0,0
+CH01038,Professional Services,2799.26,0.816,Normal payment,0,0
+CH01039,Utilities,1179.46,1.244,Normal payment,0,0
+CH01040,Cloud & Software,1405.42,0.513,Normal payment,0,0
+CH01041,Facilities,282.85,-0.072,Normal payment,0,0
+CH01042,Hardware,1829.3,1.374,Normal payment,0,0
+CH01043,Logistics,424.86,0.145,Normal payment,0,0
+CH01044,Marketing,7678.16,3.133,Injected subtle anomaly,1,0
+CH01045,Packaging,199.53,0.467,Normal payment,0,0
+CH01046,Professional Services,1515.31,-0.043,Normal payment,0,0
+CH01047,Utilities,331.89,-0.562,Normal payment,0,0
+CH01048,Cloud & Software,1041.19,0.087,Normal payment,0,0
+CH01049,Facilities,431.32,0.547,Normal payment,0,0
+CH01050,Hardware,620.87,-0.162,Normal payment,0,0
+CH01051,Logistics,616.03,0.682,Normal payment,0,0
+CH01052,Marketing,2829.75,1.735,Normal payment,0,0
+CH01053,Packaging,14576.08,6.573,Legitimate high-value order,0,1
+CH01054,Professional Services,67021.7,5.263,Injected obvious anomaly,1,1
+CH01055,Utilities,1200.4,1.269,Normal payment,0,0
+CH01056,Cloud & Software,1014.73,0.05,Normal payment,0,0
+CH01057,Facilities,589.46,1.005,Normal payment,0,0
+CH01058,Hardware,218.69,-1.643,Normal payment,0,0
+CH01059,Logistics,287.19,-0.42,Normal payment,0,0
+CH01060,Marketing,752.41,-0.119,Normal payment,0,0
+CH01061,Packaging,105.52,-0.434,Normal payment,0,0
+CH01062,Professional Services,570.62,-1.41,Normal payment,0,0
+CH01063,Utilities,491.05,-0.004,Normal payment,0,0
+CH01064,Cloud & Software,748.36,-0.383,Normal payment,0,0
+CH01065,Facilities,571.52,0.96,Normal payment,0,0
+CH01066,Hardware,1508.6,1.1,Normal payment,0,0
+CH01067,Logistics,937.08,1.288,Normal payment,0,0
+CH01068,Marketing,251.59,-1.649,Normal payment,0,0
+CH01069,Packaging,99.36,-0.519,Normal payment,0,0
+CH01070,Professional Services,641.37,-1.246,Normal payment,0,0
+CH01071,Utilities,673.78,0.446,Normal payment,0,0
+CH01072,Cloud & Software,739.09,-0.4,Normal payment,0,0
+CH01073,Facilities,2088.04,2.863,Injected subtle anomaly,1,0
+CH01074,Hardware,556.81,-0.317,Normal payment,0,0
+CH01075,Logistics,388.96,0.017,Normal payment,0,0
+CH01076,Marketing,811.83,-0.012,Normal payment,0,0
+CH01077,Packaging,428.34,1.552,Normal payment,0,0
+CH01078,Professional Services,930.48,-0.726,Normal payment,0,0
+CH01079,Utilities,785.65,0.665,Normal payment,0,0
+CH01080,Cloud & Software,65634.23,5.983,Legitimate high-value order,0,1
+CH01081,Facilities,304.33,0.036,Normal payment,0,0
+CH01082,Hardware,990.75,0.502,Normal payment,0,0
+CH01083,Logistics,472.52,0.299,Normal payment,0,0
+CH01084,Marketing,1862.9,1.15,Normal payment,0,0
+CH01085,Packaging,13144.87,6.426,Injected obvious anomaly,1,1
+CH01086,Professional Services,670.34,-1.185,Normal payment,0,0
+CH01087,Utilities,212.12,-1.198,Normal payment,0,0
+CH01088,Cloud & Software,1004.26,0.035,Normal payment,0,0
+CH01089,Facilities,309.54,0.061,Normal payment,0,0
+CH01090,Hardware,352.24,-0.967,Normal payment,0,0
+CH01091,Logistics,378.7,-0.021,Normal payment,0,0
+CH01092,Marketing,968.18,0.234,Normal payment,0,0
+CH01093,Packaging,306.62,1.077,Normal payment,0,0
+CH01094,Professional Services,2478.95,0.646,Normal payment,0,0
+CH01095,Utilities,603.13,0.288,Normal payment,0,0
+CH01096,Cloud & Software,1533.14,0.637,Normal payment,0,0
+CH01097,Facilities,317.44,0.097,Normal payment,0,0
+CH01098,Hardware,661.58,-0.072,Normal payment,0,0
+CH01099,Logistics,362.93,-0.083,Normal payment,0,0
+CH01100,Marketing,553.91,-0.547,Normal payment,0,0
+CH01101,Packaging,106.46,-0.421,Normal payment,0,0
+CH01102,Professional Services,6377.48,1.969,Injected subtle anomaly,1,0
+CH01103,Utilities,347.44,-0.497,Normal payment,0,0
+CH01104,Cloud & Software,1371.56,0.479,Normal payment,0,0
+CH01105,Facilities,247.27,-0.269,Normal payment,0,0
+CH01106,Hardware,391.77,-0.816,Normal payment,0,0
+CH01107,Logistics,21310.64,5.81,Legitimate high-value order,0,1
+CH01108,Marketing,1163.45,0.491,Normal payment,0,0
+CH01109,Packaging,103.73,-0.458,Normal payment,0,0
+CH01110,Professional Services,2734.37,0.783,Normal payment,0,0
+CH01111,Utilities,291.14,-0.748,Normal payment,0,0
+CH01112,Cloud & Software,449.63,-1.107,Normal payment,0,0
+CH01113,Facilities,762.9,1.384,Normal payment,0,0
+CH01114,Hardware,1842.46,1.385,Normal payment,0,0
+CH01115,Logistics,638.29,0.733,Normal payment,0,0
+CH01116,Marketing,74787.2,6.32,Injected obvious anomaly,1,1
+CH01117,Packaging,547.06,1.9,Normal payment,0,0
+CH01118,Professional Services,945.15,-0.704,Normal payment,0,0
+CH01119,Utilities,557.32,0.176,Normal payment,0,0
+CH01120,Cloud & Software,1206.69,0.296,Normal payment,0,0
+CH01121,Facilities,329.51,0.152,Normal payment,0,0
+CH01122,Hardware,530.72,-0.385,Normal payment,0,0
+CH01123,Logistics,454.54,0.243,Normal payment,0,0
+CH01124,Marketing,1644.1,0.975,Normal payment,0,0
+CH01125,Packaging,195.83,0.441,Normal payment,0,0
+CH01126,Professional Services,683.78,-1.157,Normal payment,0,0
+CH01127,Utilities,541.87,0.136,Normal payment,0,0
+CH01128,Cloud & Software,968.56,-0.016,Normal payment,0,0
+CH01129,Facilities,525.85,0.838,Normal payment,0,0
+CH01130,Hardware,1165.74,0.734,Normal payment,0,0
+CH01131,Logistics,2843.14,2.894,Injected subtle anomaly,1,0
+CH01132,Marketing,2842.13,1.741,Normal payment,0,0
+CH01133,Packaging,161.49,0.168,Normal payment,0,0
+CH01134,Professional Services,67770.38,5.279,Legitimate high-value order,0,1
+CH01135,Utilities,287.3,-0.767,Normal payment,0,0
+CH01136,Cloud & Software,525.88,-0.884,Normal payment,0,0
+CH01137,Facilities,302.04,0.025,Normal payment,0,0
+CH01138,Hardware,682.34,-0.028,Normal payment,0,0
+CH01139,Logistics,473.86,0.303,Normal payment,0,0
+CH01140,Marketing,885.57,0.109,Normal payment,0,0
+CH01141,Packaging,140.94,-0.025,Normal payment,0,0
+CH01142,Professional Services,1497.53,-0.06,Normal payment,0,0
+CH01143,Utilities,316.4,-0.63,Normal payment,0,0
+CH01144,Cloud & Software,1372.68,0.48,Normal payment,0,0
+CH01145,Facilities,189.23,-0.66,Normal payment,0,0
+CH01146,Hardware,373.23,-0.885,Normal payment,0,0
+CH01147,Logistics,22795.57,5.908,Injected obvious anomaly,1,1
+CH01148,Marketing,1320.76,0.668,Normal payment,0,0
+CH01149,Packaging,111.09,-0.361,Normal payment,0,0
+CH01150,Professional Services,3646.3,1.186,Normal payment,0,0
+CH01151,Utilities,427.89,-0.2,Normal payment,0,0
+CH01152,Cloud & Software,365.4,-1.401,Normal payment,0,0
+CH01153,Facilities,269.78,-0.141,Normal payment,0,0
+CH01154,Hardware,712.0,0.033,Normal payment,0,0
+CH01155,Logistics,759.11,0.984,Normal payment,0,0
+CH01156,Marketing,598.64,-0.438,Normal payment,0,0
+CH01157,Packaging,103.77,-0.458,Normal payment,0,0
+CH01158,Professional Services,1942.96,0.305,Normal payment,0,0
+CH01159,Utilities,304.32,-0.685,Normal payment,0,0
+CH01160,Cloud & Software,4411.04,2.14,Injected subtle anomaly,1,0
+CH01161,Facilities,19899.57,6.177,Legitimate high-value order,0,1
+CH01162,Hardware,1446.62,1.041,Normal payment,0,0
+CH01163,Logistics,276.29,-0.476,Normal payment,0,0
+CH01164,Marketing,698.06,-0.224,Normal payment,0,0
+CH01165,Packaging,224.81,0.636,Normal payment,0,0
+CH01166,Professional Services,1360.64,-0.194,Normal payment,0,0
+CH01167,Utilities,213.31,-1.19,Normal payment,0,0
+CH01168,Cloud & Software,1619.68,0.715,Normal payment,0,0
+CH01169,Facilities,284.7,-0.062,Normal payment,0,0
+CH01170,Hardware,957.92,0.454,Normal payment,0,0
+CH01171,Logistics,575.57,0.584,Normal payment,0,0
+CH01172,Marketing,520.98,-0.633,Normal payment,0,0
+CH01173,Packaging,121.44,-0.236,Normal payment,0,0
+CH01174,Professional Services,2392.15,0.596,Normal payment,0,0
+CH01175,Utilities,262.68,-0.894,Normal payment,0,0
+CH01176,Cloud & Software,436.64,-1.148,Normal payment,0,0
+CH01177,Facilities,101.62,-1.567,Normal payment,0,0
+CH01178,Hardware,31751.03,5.436,Injected obvious anomaly,1,1
+CH01179,Logistics,214.99,-0.838,Normal payment,0,0
+CH01180,Marketing,781.17,-0.066,Normal payment,0,0
+CH01181,Packaging,414.26,1.504,Normal payment,0,0
+CH01182,Professional Services,3107.42,0.962,Normal payment,0,0
+CH01183,Utilities,223.46,-1.124,Normal payment,0,0
+CH01184,Cloud & Software,3232.59,1.698,Normal payment,0,0
+CH01185,Facilities,341.44,0.204,Normal payment,0,0
+CH01186,Hardware,1744.15,1.307,Normal payment,0,0
+CH01187,Logistics,586.11,0.61,Normal payment,0,0
+CH01188,Marketing,62716.0,6.074,Legitimate high-value order,0,1
+CH01189,Packaging,680.5,2.21,Injected subtle anomaly,1,0
+CH01190,Professional Services,801.51,-0.935,Normal payment,0,0
+CH01191,Utilities,496.23,0.011,Normal payment,0,0
+CH01192,Cloud & Software,840.71,-0.217,Normal payment,0,0
+CH01193,Facilities,815.68,1.482,Normal payment,0,0
+CH01194,Hardware,513.48,-0.432,Normal payment,0,0
+CH01195,Logistics,100.17,-1.936,Normal payment,0,0
+CH01196,Marketing,273.95,-1.53,Normal payment,0,0
+CH01197,Packaging,406.05,1.476,Normal payment,0,0
+CH01198,Professional Services,4703.58,1.543,Normal payment,0,0
+CH01199,Utilities,793.09,0.678,Normal payment,0,0
+CH01200,Cloud & Software,1222.83,0.315,Normal payment,0,0
+CH01201,Facilities,286.91,-0.051,Normal payment,0,0
+CH01202,Hardware,533.6,-0.377,Normal payment,0,0
+CH01203,Logistics,275.69,-0.479,Normal payment,0,0
+CH01204,Marketing,1125.29,0.444,Normal payment,0,0
+CH01205,Packaging,185.87,0.367,Normal payment,0,0
+CH01206,Professional Services,2258.97,0.516,Normal payment,0,0
+CH01207,Utilities,1750.39,1.806,Normal payment,0,0
+CH01208,Cloud & Software,597.46,-0.703,Normal payment,0,0
+CH01209,Facilities,23228.79,6.405,Injected obvious anomaly,1,1
+CH01210,Hardware,426.07,-0.697,Normal payment,0,0
+CH01211,Logistics,174.64,-1.137,Normal payment,0,0
+CH01212,Marketing,608.35,-0.416,Normal payment,0,0
+CH01213,Packaging,154.82,0.108,Normal payment,0,0
+CH01214,Professional Services,4589.16,1.508,Normal payment,0,0
+CH01215,Utilities,44704.44,6.427,Legitimate high-value order,0,1
+CH01216,Cloud & Software,782.73,-0.319,Normal payment,0,0
+CH01217,Facilities,180.93,-0.726,Normal payment,0,0
+CH01218,Hardware,3204.32,2.172,Injected subtle anomaly,1,0
+CH01219,Logistics,294.48,-0.384,Normal payment,0,0
+CH01220,Marketing,585.82,-0.469,Normal payment,0,0
+CH01221,Packaging,93.77,-0.6,Normal payment,0,0
+CH01222,Professional Services,1680.2,0.101,Normal payment,0,0
+CH01223,Utilities,465.94,-0.079,Normal payment,0,0
+CH01224,Cloud & Software,447.27,-1.114,Normal payment,0,0
+CH01225,Facilities,326.48,0.139,Normal payment,0,0
+CH01226,Hardware,342.53,-1.007,Normal payment,0,0
+CH01227,Logistics,729.94,0.927,Normal payment,0,0
+CH01228,Marketing,675.76,-0.269,Normal payment,0,0
+CH01229,Packaging,89.91,-0.66,Normal payment,0,0
+CH01230,Professional Services,1195.43,-0.375,Normal payment,0,0
+CH01231,Utilities,369.45,-0.409,Normal payment,0,0
+CH01232,Cloud & Software,337.07,-1.516,Normal payment,0,0
+CH01233,Facilities,437.29,0.567,Normal payment,0,0
+CH01234,Hardware,1833.87,1.378,Normal payment,0,0
+CH01235,Logistics,236.41,-0.701,Normal payment,0,0
+CH01236,Marketing,1425.23,0.775,Normal payment,0,0
+CH01237,Packaging,249.14,0.782,Normal payment,0,0
+CH01238,Professional Services,1229.49,-0.336,Normal payment,0,0
+CH01239,Utilities,565.08,0.196,Normal payment,0,0
+CH01240,Cloud & Software,79150.18,6.249,Injected obvious anomaly,1,1
+CH01241,Facilities,165.46,-0.856,Normal payment,0,0
+CH01242,Hardware,44418.87,5.913,Legitimate high-value order,0,1
+CH01243,Logistics,651.46,0.763,Normal payment,0,0
+CH01244,Marketing,413.83,-0.954,Normal payment,0,0
+CH01245,Packaging,137.11,-0.064,Normal payment,0,0
+CH01246,Professional Services,4321.76,1.424,Normal payment,0,0
+CH01247,Utilities,3603.58,2.836,Injected subtle anomaly,1,0
+CH01248,Cloud & Software,1573.36,0.674,Normal payment,0,0
+CH01249,Facilities,197.73,-0.596,Normal payment,0,0
+CH01250,Hardware,659.6,-0.076,Normal payment,0,0
+CH01251,Logistics,377.1,-0.027,Normal payment,0,0
+CH01252,Marketing,2076.81,1.302,Normal payment,0,0
+CH01253,Packaging,349.09,1.261,Normal payment,0,0
+CH01254,Professional Services,2081.14,0.401,Normal payment,0,0
+CH01255,Utilities,363.52,-0.432,Normal payment,0,0
+CH01256,Cloud & Software,558.76,-0.798,Normal payment,0,0
+CH01257,Facilities,873.25,1.582,Normal payment,0,0
+CH01258,Hardware,558.4,-0.313,Normal payment,0,0
+CH01259,Logistics,240.35,-0.677,Normal payment,0,0
+CH01260,Marketing,1423.7,0.773,Normal payment,0,0
+CH01261,Packaging,182.68,0.342,Normal payment,0,0
+CH01262,Professional Services,691.75,-1.141,Normal payment,0,0
+CH01263,Utilities,311.42,-0.652,Normal payment,0,0
+CH01264,Cloud & Software,2473.01,1.317,Normal payment,0,0
+CH01265,Facilities,499.56,0.762,Normal payment,0,0
+CH01266,Hardware,401.63,-0.781,Normal payment,0,0
+CH01267,Logistics,605.86,0.658,Normal payment,0,0
+CH01268,Marketing,1011.62,0.295,Normal payment,0,0
+CH01269,Packaging,6786.94,5.485,Legitimate high-value order,0,1
+CH01270,Professional Services,2041.81,0.374,Normal payment,0,0
+CH01271,Utilities,24017.1,5.541,Injected obvious anomaly,1,1
+CH01272,Cloud & Software,1262.4,0.361,Normal payment,0,0
+CH01273,Facilities,409.28,0.47,Normal payment,0,0
+CH01274,Hardware,1159.42,0.726,Normal payment,0,0
+CH01275,Logistics,160.35,-1.26,Normal payment,0,0
+CH01276,Marketing,5993.28,2.786,Injected subtle anomaly,1,0
+CH01277,Packaging,230.03,0.669,Normal payment,0,0
+CH01278,Professional Services,1120.47,-0.466,Normal payment,0,0
+CH01279,Utilities,516.73,0.068,Normal payment,0,0
+CH01280,Cloud & Software,2087.18,1.076,Normal payment,0,0
+CH01281,Facilities,267.28,-0.155,Normal payment,0,0
+CH01282,Hardware,556.16,-0.318,Normal payment,0,0
+CH01283,Logistics,164.09,-1.227,Normal payment,0,0
+CH01284,Marketing,471.98,-0.771,Normal payment,0,0
+CH01285,Packaging,65.17,-1.112,Normal payment,0,0
+CH01286,Professional Services,507.59,-1.573,Normal payment,0,0
+CH01287,Utilities,471.35,-0.063,Normal payment,0,0
+CH01288,Cloud & Software,780.39,-0.323,Normal payment,0,0
+CH01289,Facilities,634.93,1.114,Normal payment,0,0
+CH01290,Hardware,1097.21,0.647,Normal payment,0,0
+CH01291,Logistics,135.91,-1.498,Normal payment,0,0
+CH01292,Marketing,1206.93,0.542,Normal payment,0,0
+CH01293,Packaging,189.02,0.391,Normal payment,0,0
+CH01294,Professional Services,1861.61,0.245,Normal payment,0,0
+CH01295,Utilities,528.57,0.1,Normal payment,0,0
+CH01296,Cloud & Software,47164.68,5.512,Legitimate high-value order,0,1
+CH01297,Facilities,243.85,-0.289,Normal payment,0,0
+CH01298,Hardware,393.21,-0.811,Normal payment,0,0
+CH01299,Logistics,228.7,-0.749,Normal payment,0,0
+CH01300,Marketing,328.82,-1.276,Normal payment,0,0
+CH01301,Packaging,116.88,-0.29,Normal payment,0,0
+CH01302,Professional Services,171174.78,6.577,Injected obvious anomaly,1,1
+CH01303,Utilities,670.52,0.439,Normal payment,0,0
+CH01304,Cloud & Software,2200.61,1.151,Normal payment,0,0
+CH01305,Facilities,1011.69,1.798,Injected subtle anomaly,1,0
+CH01306,Hardware,566.6,-0.292,Normal payment,0,0
+CH01307,Logistics,352.02,-0.127,Normal payment,0,0
+CH01308,Marketing,237.41,-1.73,Normal payment,0,0
+CH01309,Packaging,94.15,-0.595,Normal payment,0,0
+CH01310,Professional Services,2666.07,0.748,Normal payment,0,0
+CH01311,Utilities,343.98,-0.511,Normal payment,0,0
+CH01312,Cloud & Software,953.18,-0.039,Normal payment,0,0
+CH01313,Facilities,195.12,-0.615,Normal payment,0,0
+CH01314,Hardware,1761.28,1.32,Normal payment,0,0
+CH01315,Logistics,186.44,-1.043,Normal payment,0,0
+CH01316,Marketing,546.14,-0.567,Normal payment,0,0
+CH01317,Packaging,518.43,1.823,Normal payment,0,0
+CH01318,Professional Services,2762.34,0.797,Normal payment,0,0
+CH01319,Utilities,249.67,-0.966,Normal payment,0,0
+CH01320,Cloud & Software,1048.25,0.096,Normal payment,0,0
+CH01321,Facilities,464.25,0.655,Normal payment,0,0
+CH01322,Hardware,747.76,0.102,Normal payment,0,0
+CH01323,Logistics,13072.84,5.103,Legitimate high-value order,0,1
+CH01324,Marketing,455.8,-0.819,Normal payment,0,0
+CH01325,Packaging,143.79,0.003,Normal payment,0,0
+CH01326,Professional Services,1089.97,-0.504,Normal payment,0,0
+CH01327,Utilities,503.05,0.03,Normal payment,0,0
+CH01328,Cloud & Software,1187.39,0.273,Normal payment,0,0
+CH01329,Facilities,223.99,-0.413,Normal payment,0,0
+CH01330,Hardware,629.84,-0.142,Normal payment,0,0
+CH01331,Logistics,364.04,-0.078,Normal payment,0,0
+CH01332,Marketing,714.95,-0.19,Normal payment,0,0
+CH01333,Packaging,10215.88,6.067,Injected obvious anomaly,1,1
+CH01334,Professional Services,6633.59,2.024,Injected subtle anomaly,1,0
+CH01335,Utilities,221.15,-1.139,Normal payment,0,0
+CH01336,Cloud & Software,1355.46,0.462,Normal payment,0,0
+CH01337,Facilities,477.95,0.698,Normal payment,0,0
+CH01338,Hardware,643.48,-0.111,Normal payment,0,0
+CH01339,Logistics,176.37,-1.123,Normal payment,0,0
+CH01340,Marketing,785.7,-0.058,Normal payment,0,0
+CH01341,Packaging,72.52,-0.962,Normal payment,0,0
+CH01342,Professional Services,3000.88,0.913,Normal payment,0,0
+CH01343,Utilities,480.78,-0.034,Normal payment,0,0
+CH01344,Cloud & Software,1059.53,0.111,Normal payment,0,0
+CH01345,Facilities,486.24,0.723,Normal payment,0,0
+CH01346,Hardware,626.8,-0.148,Normal payment,0,0
+CH01347,Logistics,320.38,-0.263,Normal payment,0,0
+CH01348,Marketing,507.29,-0.67,Normal payment,0,0
+CH01349,Packaging,67.03,-1.073,Normal payment,0,0
+CH01350,Professional Services,98577.59,5.804,Legitimate high-value order,0,1
+CH01351,Utilities,452.98,-0.119,Normal payment,0,0
+CH01352,Cloud & Software,1150.98,0.229,Normal payment,0,0
+CH01353,Facilities,448.46,0.604,Normal payment,0,0
+CH01354,Hardware,1140.81,0.703,Normal payment,0,0
+CH01355,Logistics,358.69,-0.1,Normal payment,0,0
+CH01356,Marketing,482.65,-0.739,Normal payment,0,0
+CH01357,Packaging,556.84,1.925,Normal payment,0,0
+CH01358,Professional Services,4220.61,1.391,Normal payment,0,0
+CH01359,Utilities,1693.54,1.759,Normal payment,0,0
+CH01360,Cloud & Software,1027.79,0.068,Normal payment,0,0
+CH01361,Facilities,425.32,0.526,Normal payment,0,0
+CH01362,Hardware,2248.55,1.668,Normal payment,0,0
+CH01363,Logistics,1722.87,2.169,Injected subtle anomaly,1,0
+CH01364,Marketing,71984.38,6.267,Injected obvious anomaly,1,1
+CH01365,Packaging,334.53,1.201,Normal payment,0,0
+CH01366,Professional Services,3175.67,0.992,Normal payment,0,0
+CH01367,Utilities,1178.57,1.243,Normal payment,0,0
+CH01368,Cloud & Software,860.28,-0.185,Normal payment,0,0
+CH01369,Facilities,299.84,0.014,Normal payment,0,0
+CH01370,Hardware,475.52,-0.541,Normal payment,0,0
+CH01371,Logistics,237.55,-0.694,Normal payment,0,0
+CH01372,Marketing,582.39,-0.477,Normal payment,0,0
+CH01373,Packaging,119.0,-0.264,Normal payment,0,0
+CH01374,Professional Services,1067.87,-0.533,Normal payment,0,0
+CH01375,Utilities,1146.22,1.203,Normal payment,0,0
+CH01376,Cloud & Software,1085.58,0.146,Normal payment,0,0
+CH01377,Facilities,12270.84,5.466,Legitimate high-value order,0,1
+CH01378,Hardware,581.01,-0.256,Normal payment,0,0
+CH01379,Logistics,449.4,0.226,Normal payment,0,0
+CH01380,Marketing,809.66,-0.016,Normal payment,0,0
+CH01381,Packaging,121.24,-0.238,Normal payment,0,0
+CH01382,Professional Services,863.53,-0.83,Normal payment,0,0
+CH01383,Utilities,955.16,0.943,Normal payment,0,0
+CH01384,Cloud & Software,816.7,-0.259,Normal payment,0,0
+CH01385,Facilities,184.65,-0.696,Normal payment,0,0
+CH01386,Hardware,830.34,0.251,Normal payment,0,0
+CH01387,Logistics,347.27,-0.146,Normal payment,0,0
+CH01388,Marketing,807.46,-0.02,Normal payment,0,0
+CH01389,Packaging,69.09,-1.03,Normal payment,0,0
+CH01390,Professional Services,1256.45,-0.306,Normal payment,0,0
+CH01391,Utilities,319.23,-0.617,Normal payment,0,0
+CH01392,Cloud & Software,3498.48,1.811,Injected subtle anomaly,1,0
+CH01393,Facilities,317.27,0.097,Normal payment,0,0
+CH01394,Hardware,1454.06,1.048,Normal payment,0,0
+CH01395,Logistics,22330.6,5.878,Injected obvious anomaly,1,1
+CH01396,Marketing,1166.55,0.495,Normal payment,0,0
+CH01397,Packaging,497.61,1.765,Normal payment,0,0
+CH01398,Professional Services,1483.53,-0.073,Normal payment,0,0
+CH01399,Utilities,847.06,0.772,Normal payment,0,0
+CH01400,Cloud & Software,671.71,-0.536,Normal payment,0,0
+CH01401,Facilities,167.57,-0.838,Normal payment,0,0
+CH01402,Hardware,244.48,-1.485,Normal payment,0,0
+CH01403,Logistics,431.55,0.168,Normal payment,0,0
+CH01404,Marketing,88362.44,6.554,Legitimate high-value order,0,1
+CH01405,Packaging,82.37,-0.783,Normal payment,0,0
+CH01406,Professional Services,2151.87,0.448,Normal payment,0,0
+CH01407,Utilities,517.28,0.07,Normal payment,0,0
+CH01408,Cloud & Software,2017.34,1.027,Normal payment,0,0
+CH01409,Facilities,1122.31,1.951,Normal payment,0,0
+CH01410,Hardware,219.82,-1.636,Normal payment,0,0
+CH01411,Logistics,571.05,0.572,Normal payment,0,0
+CH01412,Marketing,1167.59,0.496,Normal payment,0,0
+CH01413,Packaging,132.61,-0.111,Normal payment,0,0
+CH01414,Professional Services,2175.84,0.463,Normal payment,0,0
+CH01415,Utilities,679.42,0.458,Normal payment,0,0
+CH01416,Cloud & Software,1496.73,0.603,Normal payment,0,0
+CH01417,Facilities,403.08,0.448,Normal payment,0,0
+CH01418,Hardware,410.77,-0.749,Normal payment,0,0
+CH01419,Logistics,190.9,-1.009,Normal payment,0,0
+CH01420,Marketing,1087.83,0.397,Normal payment,0,0
+CH01421,Packaging,611.98,2.059,Injected subtle anomaly,1,0
+CH01422,Professional Services,1018.25,-0.6,Normal payment,0,0
+CH01423,Utilities,656.78,0.41,Normal payment,0,0
+CH01424,Cloud & Software,773.63,-0.336,Normal payment,0,0
+CH01425,Facilities,243.46,-0.291,Normal payment,0,0
+CH01426,Hardware,43570.02,5.886,Injected obvious anomaly,1,1
+CH01427,Logistics,396.53,0.045,Normal payment,0,0
+CH01428,Marketing,1484.12,0.832,Normal payment,0,0
+CH01429,Packaging,86.91,-0.708,Normal payment,0,0
+CH01430,Professional Services,2125.58,0.43,Normal payment,0,0
+CH01431,Utilities,38333.64,6.208,Legitimate high-value order,0,1
+CH01432,Cloud & Software,495.68,-0.968,Normal payment,0,0
+CH01433,Facilities,314.71,0.085,Normal payment,0,0
+CH01434,Hardware,726.96,0.062,Normal payment,0,0
+CH01435,Logistics,227.54,-0.756,Normal payment,0,0
+CH01436,Marketing,866.34,0.078,Normal payment,0,0
+CH01437,Packaging,222.85,0.624,Normal payment,0,0
+CH01438,Professional Services,2499.09,0.657,Normal payment,0,0
+CH01439,Utilities,912.53,0.878,Normal payment,0,0
+CH01440,Cloud & Software,1053.86,0.104,Normal payment,0,0
+CH01441,Facilities,441.76,0.582,Normal payment,0,0
+CH01442,Hardware,469.58,-0.559,Normal payment,0,0
+CH01443,Logistics,656.92,0.775,Normal payment,0,0
+CH01444,Marketing,2220.98,1.396,Normal payment,0,0
+CH01445,Packaging,225.55,0.641,Normal payment,0,0
+CH01446,Professional Services,1980.33,0.331,Normal payment,0,0
+CH01447,Utilities,100.98,-2.249,Normal payment,0,0
+CH01448,Cloud & Software,1317.32,0.421,Normal payment,0,0
+CH01449,Facilities,279.92,-0.087,Normal payment,0,0
+CH01450,Hardware,4541.56,2.668,Injected subtle anomaly,1,0
+CH01451,Logistics,310.67,-0.307,Normal payment,0,0
+CH01452,Marketing,1476.6,0.825,Normal payment,0,0
+CH01453,Packaging,62.41,-1.173,Normal payment,0,0
+CH01454,Professional Services,1670.58,0.093,Normal payment,0,0
+CH01455,Utilities,477.29,-0.045,Normal payment,0,0
+CH01456,Cloud & Software,900.8,-0.119,Normal payment,0,0
+CH01457,Facilities,10659.77,5.259,Injected obvious anomaly,1,1
+CH01458,Hardware,30579.59,5.382,Legitimate high-value order,0,1
+CH01459,Logistics,573.0,0.577,Normal payment,0,0
+CH01460,Marketing,482.33,-0.74,Normal payment,0,0
+CH01461,Packaging,60.66,-1.213,Normal payment,0,0
+CH01462,Professional Services,1716.72,0.131,Normal payment,0,0
+CH01463,Utilities,476.28,-0.048,Normal payment,0,0
+CH01464,Cloud & Software,856.5,-0.191,Normal payment,0,0
+CH01465,Facilities,380.12,0.362,Normal payment,0,0
+CH01466,Hardware,823.84,0.24,Normal payment,0,0
+CH01467,Logistics,360.47,-0.092,Normal payment,0,0
+CH01468,Marketing,3288.35,1.945,Normal payment,0,0
+CH01469,Packaging,135.23,-0.084,Normal payment,0,0
+CH01470,Professional Services,2263.82,0.519,Normal payment,0,0
+CH01471,Utilities,1086.69,1.127,Normal payment,0,0
+CH01472,Cloud & Software,1464.94,0.572,Normal payment,0,0
+CH01473,Facilities,280.63,-0.083,Normal payment,0,0
+CH01474,Hardware,760.85,0.127,Normal payment,0,0
+CH01475,Logistics,280.76,-0.453,Normal payment,0,0
+CH01476,Marketing,727.7,-0.165,Normal payment,0,0
+CH01477,Packaging,115.52,-0.306,Normal payment,0,0
+CH01478,Professional Services,340.13,-2.133,Normal payment,0,0
+CH01479,Utilities,1845.97,1.882,Injected subtle anomaly,1,0
+CH01480,Cloud & Software,2303.06,1.216,Normal payment,0,0
+CH01481,Facilities,206.36,-0.533,Normal payment,0,0
+CH01482,Hardware,851.1,0.286,Normal payment,0,0
+CH01483,Logistics,461.57,0.265,Normal payment,0,0
+CH01484,Marketing,1225.65,0.564,Normal payment,0,0
+CH01485,Packaging,13856.59,6.501,Legitimate high-value order,0,1
+CH01486,Professional Services,2122.83,0.429,Normal payment,0,0
+CH01487,Utilities,240.52,-1.019,Normal payment,0,0
+CH01488,Cloud & Software,44432.55,5.427,Injected obvious anomaly,1,1
+CH01489,Facilities,305.35,0.041,Normal payment,0,0
+CH01490,Hardware,777.41,0.158,Normal payment,0,0
+CH01491,Logistics,680.19,0.825,Normal payment,0,0
+CH01492,Marketing,925.1,0.17,Normal payment,0,0
+CH01493,Packaging,127.67,-0.165,Normal payment,0,0
+CH01494,Professional Services,2200.05,0.479,Normal payment,0,0
+CH01495,Utilities,543.68,0.141,Normal payment,0,0
+CH01496,Cloud & Software,688.26,-0.502,Normal payment,0,0
+CH01497,Facilities,218.32,-0.451,Normal payment,0,0
+CH01498,Hardware,536.73,-0.369,Normal payment,0,0
+CH01499,Logistics,425.76,0.148,Normal payment,0,0

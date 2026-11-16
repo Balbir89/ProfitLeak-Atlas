@@ -1,0 +1,13 @@
+{
+  "dataset": "Independent synthetic challenge: 1,500 constructed payments",
+  "challenge_cases": 1500,
+  "true_positive": 49,
+  "false_positive": 53,
+  "false_negative": 50,
+  "true_negative": 1348,
+  "precision": 0.4804,
+  "recall": 0.4949,
+  "false_positive_rate": 0.0378,
+  "threshold_robust_z": 4.5,
+  "warning": "Scenario diagnostics, not externally validated fraud/production accuracy. Legitimate high-value payments intentionally create false positives; subtle anomalies are missed."
+}

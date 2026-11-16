@@ -1,0 +1,12 @@
+{
+  "synthetic": true,
+  "payments": 220000,
+  "spend_eur": 157678718.98,
+  "gross_estimated_loss_eur": 9841136.67,
+  "modeled_recoverable_eur": 6878788.68,
+  "flagged_payments": 52371,
+  "exact_label_accuracy": 1.0,
+  "binary_precision": 1.0,
+  "binary_recall": 1.0,
+  "warning": "Metrics describe constructed synthetic cases, not validated real-world fraud detection."
+}

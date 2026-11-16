@@ -1,0 +1,281 @@
+vendor_id,vendor_name,category,country,vendor_tier
+V0001,Nova Facilities Partners 001,Facilities,Austria,Core
+V0002,Helix Hardware Partners 002,Hardware,Belgium,Occasional
+V0003,Verde Logistics Partners 003,Logistics,Poland,Strategic
+V0004,Orion Packaging Partners 004,Packaging,Spain,Core
+V0005,Cedar Utilities Partners 005,Utilities,Italy,Occasional
+V0006,Apex Professional Partners 006,Professional Services,Netherlands,Strategic
+V0007,Atlas Marketing Partners 007,Marketing,France,Core
+V0008,Nova Cloud Partners 008,Cloud & Software,Germany,Occasional
+V0009,Helix Facilities Partners 009,Facilities,Germany,Strategic
+V0010,Verde Hardware Partners 010,Hardware,Austria,Core
+V0011,Orion Logistics Partners 011,Logistics,Belgium,Occasional
+V0012,Cedar Packaging Partners 012,Packaging,Poland,Strategic
+V0013,Apex Utilities Partners 013,Utilities,Spain,Core
+V0014,Atlas Professional Partners 014,Professional Services,Italy,Occasional
+V0015,Nova Marketing Partners 015,Marketing,Netherlands,Strategic
+V0016,Helix Cloud Partners 016,Cloud & Software,France,Core
+V0017,Verde Facilities Partners 017,Facilities,Germany,Occasional
+V0018,Orion Hardware Partners 018,Hardware,Germany,Strategic
+V0019,Cedar Logistics Partners 019,Logistics,Austria,Core
+V0020,Apex Packaging Partners 020,Packaging,Belgium,Occasional
+V0021,Atlas Utilities Partners 021,Utilities,Poland,Strategic
+V0022,Nova Professional Partners 022,Professional Services,Spain,Core
+V0023,Helix Marketing Partners 023,Marketing,Italy,Occasional
+V0024,Verde Cloud Partners 024,Cloud & Software,Netherlands,Strategic
+V0025,Orion Facilities Partners 025,Facilities,France,Core
+V0026,Cedar Hardware Partners 026,Hardware,Germany,Occasional
+V0027,Apex Logistics Partners 027,Logistics,Germany,Strategic
+V0028,Atlas Packaging Partners 028,Packaging,Austria,Core
+V0029,Nova Utilities Partners 029,Utilities,Belgium,Occasional
+V0030,Helix Professional Partners 030,Professional Services,Poland,Strategic
+V0031,Verde Marketing Partners 031,Marketing,Spain,Core
+V0032,Orion Cloud Partners 032,Cloud & Software,Italy,Occasional
+V0033,Cedar Facilities Partners 033,Facilities,Netherlands,Strategic
+V0034,Apex Hardware Partners 034,Hardware,France,Core
+V0035,Atlas Logistics Partners 035,Logistics,Germany,Occasional
+V0036,Nova Packaging Partners 036,Packaging,Germany,Strategic
+V0037,Helix Utilities Partners 037,Utilities,Austria,Core
+V0038,Verde Professional Partners 038,Professional Services,Belgium,Occasional
+V0039,Orion Marketing Partners 039,Marketing,Poland,Strategic
+V0040,Cedar Cloud Partners 040,Cloud & Software,Spain,Core
+V0041,Apex Facilities Partners 041,Facilities,Italy,Occasional
+V0042,Atlas Hardware Partners 042,Hardware,Netherlands,Strategic
+V0043,Nova Logistics Partners 043,Logistics,France,Core
+V0044,Helix Packaging Partners 044,Packaging,Germany,Occasional
+V0045,Verde Utilities Partners 045,Utilities,Germany,Strategic
+V0046,Orion Professional Partners 046,Professional Services,Austria,Core
+V0047,Cedar Marketing Partners 047,Marketing,Belgium,Occasional
+V0048,Apex Cloud Partners 048,Cloud & Software,Poland,Strategic
+V0049,Atlas Facilities Partners 049,Facilities,Spain,Core
+V0050,Nova Hardware Partners 050,Hardware,Italy,Occasional
+V0051,Helix Logistics Partners 051,Logistics,Netherlands,Strategic
+V0052,Verde Packaging Partners 052,Packaging,France,Core
+V0053,Orion Utilities Partners 053,Utilities,Germany,Occasional
+V0054,Cedar Professional Partners 054,Professional Services,Germany,Strategic
+V0055,Apex Marketing Partners 055,Marketing,Austria,Core
+V0056,Atlas Cloud Partners 056,Cloud & Software,Belgium,Occasional
+V0057,Nova Facilities Partners 057,Facilities,Poland,Strategic
+V0058,Helix Hardware Partners 058,Hardware,Spain,Core
+V0059,Verde Logistics Partners 059,Logistics,Italy,Occasional
+V0060,Orion Packaging Partners 060,Packaging,Netherlands,Strategic
+V0061,Cedar Utilities Partners 061,Utilities,France,Core
+V0062,Apex Professional Partners 062,Professional Services,Germany,Occasional
+V0063,Atlas Marketing Partners 063,Marketing,Germany,Strategic
+V0064,Nova Cloud Partners 064,Cloud & Software,Austria,Core
+V0065,Helix Facilities Partners 065,Facilities,Belgium,Occasional
+V0066,Verde Hardware Partners 066,Hardware,Poland,Strategic
+V0067,Orion Logistics Partners 067,Logistics,Spain,Core
+V0068,Cedar Packaging Partners 068,Packaging,Italy,Occasional
+V0069,Apex Utilities Partners 069,Utilities,Netherlands,Strategic
+V0070,Atlas Professional Partners 070,Professional Services,France,Core
+V0071,Nova Marketing Partners 071,Marketing,Germany,Occasional
+V0072,Helix Cloud Partners 072,Cloud & Software,Germany,Strategic
+V0073,Verde Facilities Partners 073,Facilities,Austria,Core
+V0074,Orion Hardware Partners 074,Hardware,Belgium,Occasional
+V0075,Cedar Logistics Partners 075,Logistics,Poland,Strategic
+V0076,Apex Packaging Partners 076,Packaging,Spain,Core
+V0077,Atlas Utilities Partners 077,Utilities,Italy,Occasional
+V0078,Nova Professional Partners 078,Professional Services,Netherlands,Strategic
+V0079,Helix Marketing Partners 079,Marketing,France,Core
+V0080,Verde Cloud Partners 080,Cloud & Software,Germany,Occasional
+V0081,Orion Facilities Partners 081,Facilities,Germany,Strategic
+V0082,Cedar Hardware Partners 082,Hardware,Austria,Core
+V0083,Apex Logistics Partners 083,Logistics,Belgium,Occasional
+V0084,Atlas Packaging Partners 084,Packaging,Poland,Strategic
+V0085,Nova Utilities Partners 085,Utilities,Spain,Core
+V0086,Helix Professional Partners 086,Professional Services,Italy,Occasional
+V0087,Verde Marketing Partners 087,Marketing,Netherlands,Strategic
+V0088,Orion Cloud Partners 088,Cloud & Software,France,Core
+V0089,Cedar Facilities Partners 089,Facilities,Germany,Occasional
+V0090,Apex Hardware Partners 090,Hardware,Germany,Strategic
+V0091,Atlas Logistics Partners 091,Logistics,Austria,Core
+V0092,Nova Packaging Partners 092,Packaging,Belgium,Occasional
+V0093,Helix Utilities Partners 093,Utilities,Poland,Strategic
+V0094,Verde Professional Partners 094,Professional Services,Spain,Core
+V0095,Orion Marketing Partners 095,Marketing,Italy,Occasional
+V0096,Cedar Cloud Partners 096,Cloud & Software,Netherlands,Strategic
+V0097,Apex Facilities Partners 097,Facilities,France,Core
+V0098,Atlas Hardware Partners 098,Hardware,Germany,Occasional
+V0099,Nova Logistics Partners 099,Logistics,Germany,Strategic
+V0100,Helix Packaging Partners 100,Packaging,Austria,Core
+V0101,Verde Utilities Partners 101,Utilities,Belgium,Occasional
+V0102,Orion Professional Partners 102,Professional Services,Poland,Strategic
+V0103,Cedar Marketing Partners 103,Marketing,Spain,Core
+V0104,Apex Cloud Partners 104,Cloud & Software,Italy,Occasional
+V0105,Atlas Facilities Partners 105,Facilities,Netherlands,Strategic
+V0106,Nova Hardware Partners 106,Hardware,France,Core
+V0107,Helix Logistics Partners 107,Logistics,Germany,Occasional
+V0108,Verde Packaging Partners 108,Packaging,Germany,Strategic
+V0109,Orion Utilities Partners 109,Utilities,Austria,Core
+V0110,Cedar Professional Partners 110,Professional Services,Belgium,Occasional
+V0111,Apex Marketing Partners 111,Marketing,Poland,Strategic
+V0112,Atlas Cloud Partners 112,Cloud & Software,Spain,Core
+V0113,Nova Facilities Partners 113,Facilities,Italy,Occasional
+V0114,Helix Hardware Partners 114,Hardware,Netherlands,Strategic
+V0115,Verde Logistics Partners 115,Logistics,France,Core
+V0116,Orion Packaging Partners 116,Packaging,Germany,Occasional
+V0117,Cedar Utilities Partners 117,Utilities,Germany,Strategic
+V0118,Apex Professional Partners 118,Professional Services,Austria,Core
+V0119,Atlas Marketing Partners 119,Marketing,Belgium,Occasional
+V0120,Nova Cloud Partners 120,Cloud & Software,Poland,Strategic
+V0121,Helix Facilities Partners 121,Facilities,Spain,Core
+V0122,Verde Hardware Partners 122,Hardware,Italy,Occasional
+V0123,Orion Logistics Partners 123,Logistics,Netherlands,Strategic
+V0124,Cedar Packaging Partners 124,Packaging,France,Core
+V0125,Apex Utilities Partners 125,Utilities,Germany,Occasional
+V0126,Atlas Professional Partners 126,Professional Services,Germany,Strategic
+V0127,Nova Marketing Partners 127,Marketing,Austria,Core
+V0128,Helix Cloud Partners 128,Cloud & Software,Belgium,Occasional
+V0129,Verde Facilities Partners 129,Facilities,Poland,Strategic
+V0130,Orion Hardware Partners 130,Hardware,Spain,Core
+V0131,Cedar Logistics Partners 131,Logistics,Italy,Occasional
+V0132,Apex Packaging Partners 132,Packaging,Netherlands,Strategic
+V0133,Atlas Utilities Partners 133,Utilities,France,Core
+V0134,Nova Professional Partners 134,Professional Services,Germany,Occasional
+V0135,Helix Marketing Partners 135,Marketing,Germany,Strategic
+V0136,Verde Cloud Partners 136,Cloud & Software,Austria,Core
+V0137,Orion Facilities Partners 137,Facilities,Belgium,Occasional
+V0138,Cedar Hardware Partners 138,Hardware,Poland,Strategic
+V0139,Apex Logistics Partners 139,Logistics,Spain,Core
+V0140,Atlas Packaging Partners 140,Packaging,Italy,Occasional
+V0141,Nova Utilities Partners 141,Utilities,Netherlands,Strategic
+V0142,Helix Professional Partners 142,Professional Services,France,Core
+V0143,Verde Marketing Partners 143,Marketing,Germany,Occasional
+V0144,Orion Cloud Partners 144,Cloud & Software,Germany,Strategic
+V0145,Cedar Facilities Partners 145,Facilities,Austria,Core
+V0146,Apex Hardware Partners 146,Hardware,Belgium,Occasional
+V0147,Atlas Logistics Partners 147,Logistics,Poland,Strategic
+V0148,Nova Packaging Partners 148,Packaging,Spain,Core
+V0149,Helix Utilities Partners 149,Utilities,Italy,Occasional
+V0150,Verde Professional Partners 150,Professional Services,Netherlands,Strategic
+V0151,Orion Marketing Partners 151,Marketing,France,Core
+V0152,Cedar Cloud Partners 152,Cloud & Software,Germany,Occasional
+V0153,Apex Facilities Partners 153,Facilities,Germany,Strategic
+V0154,Atlas Hardware Partners 154,Hardware,Austria,Core
+V0155,Nova Logistics Partners 155,Logistics,Belgium,Occasional
+V0156,Helix Packaging Partners 156,Packaging,Poland,Strategic
+V0157,Verde Utilities Partners 157,Utilities,Spain,Core
+V0158,Orion Professional Partners 158,Professional Services,Italy,Occasional
+V0159,Cedar Marketing Partners 159,Marketing,Netherlands,Strategic
+V0160,Apex Cloud Partners 160,Cloud & Software,France,Core
+V0161,Atlas Facilities Partners 161,Facilities,Germany,Occasional
+V0162,Nova Hardware Partners 162,Hardware,Germany,Strategic
+V0163,Helix Logistics Partners 163,Logistics,Austria,Core
+V0164,Verde Packaging Partners 164,Packaging,Belgium,Occasional
+V0165,Orion Utilities Partners 165,Utilities,Poland,Strategic
+V0166,Cedar Professional Partners 166,Professional Services,Spain,Core
+V0167,Apex Marketing Partners 167,Marketing,Italy,Occasional
+V0168,Atlas Cloud Partners 168,Cloud & Software,Netherlands,Strategic
+V0169,Nova Facilities Partners 169,Facilities,France,Core
+V0170,Helix Hardware Partners 170,Hardware,Germany,Occasional
+V0171,Verde Logistics Partners 171,Logistics,Germany,Strategic
+V0172,Orion Packaging Partners 172,Packaging,Austria,Core
+V0173,Cedar Utilities Partners 173,Utilities,Belgium,Occasional
+V0174,Apex Professional Partners 174,Professional Services,Poland,Strategic
+V0175,Atlas Marketing Partners 175,Marketing,Spain,Core
+V0176,Nova Cloud Partners 176,Cloud & Software,Italy,Occasional
+V0177,Helix Facilities Partners 177,Facilities,Netherlands,Strategic
+V0178,Verde Hardware Partners 178,Hardware,France,Core
+V0179,Orion Logistics Partners 179,Logistics,Germany,Occasional
+V0180,Cedar Packaging Partners 180,Packaging,Germany,Strategic
+V0181,Apex Utilities Partners 181,Utilities,Austria,Core
+V0182,Atlas Professional Partners 182,Professional Services,Belgium,Occasional
+V0183,Nova Marketing Partners 183,Marketing,Poland,Strategic
+V0184,Helix Cloud Partners 184,Cloud & Software,Spain,Core
+V0185,Verde Facilities Partners 185,Facilities,Italy,Occasional
+V0186,Orion Hardware Partners 186,Hardware,Netherlands,Strategic
+V0187,Cedar Logistics Partners 187,Logistics,France,Core
+V0188,Apex Packaging Partners 188,Packaging,Germany,Occasional
+V0189,Atlas Utilities Partners 189,Utilities,Germany,Strategic
+V0190,Nova Professional Partners 190,Professional Services,Austria,Core
+V0191,Helix Marketing Partners 191,Marketing,Belgium,Occasional
+V0192,Verde Cloud Partners 192,Cloud & Software,Poland,Strategic
+V0193,Orion Facilities Partners 193,Facilities,Spain,Core
+V0194,Cedar Hardware Partners 194,Hardware,Italy,Occasional
+V0195,Apex Logistics Partners 195,Logistics,Netherlands,Strategic
+V0196,Atlas Packaging Partners 196,Packaging,France,Core
+V0197,Nova Utilities Partners 197,Utilities,Germany,Occasional
+V0198,Helix Professional Partners 198,Professional Services,Germany,Strategic
+V0199,Verde Marketing Partners 199,Marketing,Austria,Core
+V0200,Orion Cloud Partners 200,Cloud & Software,Belgium,Occasional
+V0201,Cedar Facilities Partners 201,Facilities,Poland,Strategic
+V0202,Apex Hardware Partners 202,Hardware,Spain,Core
+V0203,Atlas Logistics Partners 203,Logistics,Italy,Occasional
+V0204,Nova Packaging Partners 204,Packaging,Netherlands,Strategic
+V0205,Helix Utilities Partners 205,Utilities,France,Core
+V0206,Verde Professional Partners 206,Professional Services,Germany,Occasional
+V0207,Orion Marketing Partners 207,Marketing,Germany,Strategic
+V0208,Cedar Cloud Partners 208,Cloud & Software,Austria,Core
+V0209,Apex Facilities Partners 209,Facilities,Belgium,Occasional
+V0210,Atlas Hardware Partners 210,Hardware,Poland,Strategic
+V0211,Nova Logistics Partners 211,Logistics,Spain,Core
+V0212,Helix Packaging Partners 212,Packaging,Italy,Occasional
+V0213,Verde Utilities Partners 213,Utilities,Netherlands,Strategic
+V0214,Orion Professional Partners 214,Professional Services,France,Core
+V0215,Cedar Marketing Partners 215,Marketing,Germany,Occasional
+V0216,Apex Cloud Partners 216,Cloud & Software,Germany,Strategic
+V0217,Atlas Facilities Partners 217,Facilities,Austria,Core
+V0218,Nova Hardware Partners 218,Hardware,Belgium,Occasional
+V0219,Helix Logistics Partners 219,Logistics,Poland,Strategic
+V0220,Verde Packaging Partners 220,Packaging,Spain,Core
+V0221,Orion Utilities Partners 221,Utilities,Italy,Occasional
+V0222,Cedar Professional Partners 222,Professional Services,Netherlands,Strategic
+V0223,Apex Marketing Partners 223,Marketing,France,Core
+V0224,Atlas Cloud Partners 224,Cloud & Software,Germany,Occasional
+V0225,Nova Facilities Partners 225,Facilities,Germany,Strategic
+V0226,Helix Hardware Partners 226,Hardware,Austria,Core
+V0227,Verde Logistics Partners 227,Logistics,Belgium,Occasional
+V0228,Orion Packaging Partners 228,Packaging,Poland,Strategic
+V0229,Cedar Utilities Partners 229,Utilities,Spain,Core
+V0230,Apex Professional Partners 230,Professional Services,Italy,Occasional
+V0231,Atlas Marketing Partners 231,Marketing,Netherlands,Strategic
+V0232,Nova Cloud Partners 232,Cloud & Software,France,Core
+V0233,Helix Facilities Partners 233,Facilities,Germany,Occasional
+V0234,Verde Hardware Partners 234,Hardware,Germany,Strategic
+V0235,Orion Logistics Partners 235,Logistics,Austria,Core
+V0236,Cedar Packaging Partners 236,Packaging,Belgium,Occasional
+V0237,Apex Utilities Partners 237,Utilities,Poland,Strategic
+V0238,Atlas Professional Partners 238,Professional Services,Spain,Core
+V0239,Nova Marketing Partners 239,Marketing,Italy,Occasional
+V0240,Helix Cloud Partners 240,Cloud & Software,Netherlands,Strategic
+V0241,Verde Facilities Partners 241,Facilities,France,Core
+V0242,Orion Hardware Partners 242,Hardware,Germany,Occasional
+V0243,Cedar Logistics Partners 243,Logistics,Germany,Strategic
+V0244,Apex Packaging Partners 244,Packaging,Austria,Core
+V0245,Atlas Utilities Partners 245,Utilities,Belgium,Occasional
+V0246,Nova Professional Partners 246,Professional Services,Poland,Strategic
+V0247,Helix Marketing Partners 247,Marketing,Spain,Core
+V0248,Verde Cloud Partners 248,Cloud & Software,Italy,Occasional
+V0249,Orion Facilities Partners 249,Facilities,Netherlands,Strategic
+V0250,Cedar Hardware Partners 250,Hardware,France,Core
+V0251,Apex Logistics Partners 251,Logistics,Germany,Occasional
+V0252,Atlas Packaging Partners 252,Packaging,Germany,Strategic
+V0253,Nova Utilities Partners 253,Utilities,Austria,Core
+V0254,Helix Professional Partners 254,Professional Services,Belgium,Occasional
+V0255,Verde Marketing Partners 255,Marketing,Poland,Strategic
+V0256,Orion Cloud Partners 256,Cloud & Software,Spain,Core
+V0257,Cedar Facilities Partners 257,Facilities,Italy,Occasional
+V0258,Apex Hardware Partners 258,Hardware,Netherlands,Strategic
+V0259,Atlas Logistics Partners 259,Logistics,France,Core
+V0260,Nova Packaging Partners 260,Packaging,Germany,Occasional
+V0261,Helix Utilities Partners 261,Utilities,Germany,Strategic
+V0262,Verde Professional Partners 262,Professional Services,Austria,Core
+V0263,Orion Marketing Partners 263,Marketing,Belgium,Occasional
+V0264,Cedar Cloud Partners 264,Cloud & Software,Poland,Strategic
+V0265,Apex Facilities Partners 265,Facilities,Spain,Core
+V0266,Atlas Hardware Partners 266,Hardware,Italy,Occasional
+V0267,Nova Logistics Partners 267,Logistics,Netherlands,Strategic
+V0268,Helix Packaging Partners 268,Packaging,France,Core
+V0269,Verde Utilities Partners 269,Utilities,Germany,Occasional
+V0270,Orion Professional Partners 270,Professional Services,Germany,Strategic
+V0271,Cedar Marketing Partners 271,Marketing,Austria,Core
+V0272,Apex Cloud Partners 272,Cloud & Software,Belgium,Occasional
+V0273,Atlas Facilities Partners 273,Facilities,Poland,Strategic
+V0274,Nova Hardware Partners 274,Hardware,Spain,Core
+V0275,Helix Logistics Partners 275,Logistics,Italy,Occasional
+V0276,Verde Packaging Partners 276,Packaging,Netherlands,Strategic
+V0277,Orion Utilities Partners 277,Utilities,France,Core
+V0278,Cedar Professional Partners 278,Professional Services,Germany,Occasional
+V0279,Apex Marketing Partners 279,Marketing,Germany,Strategic
+V0280,Atlas Cloud Partners 280,Cloud & Software,Austria,Core

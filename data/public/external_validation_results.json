@@ -1,0 +1,28 @@
+{
+  "publisher": "City of Chicago",
+  "dataset_id": "s4vu-giwb",
+  "source_url": "https://data.cityofchicago.org/resource/s4vu-giwb.json",
+  "currency": "USD",
+  "records_inspected": 44,
+  "itemized_date_rows": 39,
+  "year_only_aggregate_rows": 5,
+  "invalid_or_missing_rows": 0,
+  "direct_voucher_rows": 7,
+  "distinct_vendors": 42,
+  "sum_of_selected_amounts_usd": "8932228.97",
+  "strict_duplicate_row_candidates": 0,
+  "reused_voucher_across_distinct_details_candidates": 0,
+  "confirmed_fraud_cases": null,
+  "validated_fraud_precision": null,
+  "recoverable_loss_usd": null,
+  "limitations": [
+    "The public extract includes year-only aggregated rows; these are not individual payments.",
+    "Voucher reuse or same-value payments may be legitimate; double-payment assertions require bank/invoice evidence.",
+    "No supplier contract terms, receipt records, approval thresholds, or verified case outcome labels are provided.",
+    "This evaluates real-data ingestion and review controls only, not fraud-prediction accuracy or recovered cash."
+  ],
+  "sample_kind": "curated_real_public_records",
+  "representative_sample": false,
+  "all_public_record_values_genuinely_published": true,
+  "powerbi_real_data_is_loaded_in_current_snapshot": false
+}

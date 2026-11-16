@@ -1,0 +1,281 @@
+vendor_id,vendor_name,country,category,payments,spend_eur,flagged_payments,gross_loss_eur,modeled_recovery_eur
+V0110,Cedar Professional Partners 110,Belgium,Professional Services,846,1840481.45,204,128244.86,88065.59
+V0278,Cedar Professional Partners 278,Germany,Professional Services,783,1511365.38,210,120042.46,81285.51
+V0174,Apex Professional Partners 174,Poland,Professional Services,810,1837368.97,206,113676.23,82225.83
+V0166,Cedar Professional Partners 166,Spain,Professional Services,775,1415425.79,206,108980.53,78244.08
+V0134,Nova Professional Partners 134,Germany,Professional Services,780,1583999.16,189,102507.02,68383.19
+V0222,Cedar Professional Partners 222,Netherlands,Professional Services,739,1295085.39,174,98701.63,74759.83
+V0046,Orion Professional Partners 046,Austria,Professional Services,799,1548035.13,175,94746.98,64371.54
+V0102,Orion Professional Partners 102,Poland,Professional Services,832,1296741.38,192,88889.77,64754.36
+V0254,Helix Professional Partners 254,Belgium,Professional Services,756,1676728.74,163,88209.5,58706.09
+V0142,Helix Professional Partners 142,France,Professional Services,821,1325308.82,183,88186.83,62654.53
+V0262,Verde Professional Partners 262,Austria,Professional Services,754,1517132.96,162,86961.5,60258.88
+V0183,Nova Marketing Partners 183,Poland,Marketing,815,916869.86,217,86753.84,66038.16
+V0190,Nova Professional Partners 190,Austria,Professional Services,800,1572977.74,166,85678.65,57713.06
+V0006,Apex Professional Partners 006,Netherlands,Professional Services,783,1166789.84,191,84239.87,60612.71
+V0086,Helix Professional Partners 086,Italy,Professional Services,779,1599487.59,159,83298.53,54719.77
+V0022,Nova Professional Partners 022,Spain,Professional Services,776,1130545.43,206,83177.74,55983.54
+V0070,Atlas Professional Partners 070,France,Professional Services,785,1392358.68,194,82989.4,55123.69
+V0230,Apex Professional Partners 230,Italy,Professional Services,825,1800451.68,191,79894.66,50753.65
+V0014,Atlas Professional Partners 014,Italy,Professional Services,740,987713.14,191,79891.28,52934.47
+V0062,Apex Professional Partners 062,Germany,Professional Services,846,1193689.61,193,79339.28,53072.52
+V0216,Apex Cloud Partners 216,Germany,Cloud & Software,799,1051854.31,175,78818.55,59599.33
+V0150,Verde Professional Partners 150,Netherlands,Professional Services,772,1463036.77,188,78544.74,58269.16
+V0238,Atlas Professional Partners 238,Spain,Professional Services,825,1385230.48,176,77455.74,52571.65
+V0158,Orion Professional Partners 158,Italy,Professional Services,719,1581122.94,148,76133.23,48919.63
+V0118,Apex Professional Partners 118,Austria,Professional Services,764,1319853.46,174,75306.59,53392.27
+V0270,Orion Professional Partners 270,Germany,Professional Services,745,1226936.18,167,74152.02,57330.14
+V0126,Atlas Professional Partners 126,Germany,Professional Services,790,1053758.37,190,72531.54,53636.98
+V0096,Cedar Cloud Partners 096,Netherlands,Cloud & Software,777,1012635.39,174,72047.86,54417.29
+V0078,Nova Professional Partners 078,Netherlands,Professional Services,774,901651.91,181,70939.36,54593.24
+V0094,Verde Professional Partners 094,Spain,Professional Services,798,1409606.25,170,69925.97,49775.91
+V0182,Atlas Professional Partners 182,Belgium,Professional Services,770,1003839.04,193,69501.95,46574.74
+V0248,Verde Cloud Partners 248,Italy,Cloud & Software,814,1021512.54,198,68666.86,45387.41
+V0200,Orion Cloud Partners 200,Belgium,Cloud & Software,759,948377.87,180,68218.26,46523.04
+V0047,Cedar Marketing Partners 047,Belgium,Marketing,811,892815.44,187,67246.23,45268.64
+V0120,Nova Cloud Partners 120,Poland,Cloud & Software,826,949067.57,205,66572.94,48171.94
+V0088,Orion Cloud Partners 088,France,Cloud & Software,833,1059348.09,183,65722.82,45727.33
+V0151,Orion Marketing Partners 151,France,Marketing,793,837174.92,200,62156.41,44245.7
+V0024,Verde Cloud Partners 024,Netherlands,Cloud & Software,791,896832.0,196,61933.05,45483.95
+V0198,Helix Professional Partners 198,Germany,Professional Services,815,1103877.04,191,61722.71,44670.32
+V0255,Verde Marketing Partners 255,Poland,Marketing,762,852566.87,184,61327.17,44693.72
+V0038,Verde Professional Partners 038,Belgium,Professional Services,865,975640.66,224,60915.85,39569.6
+V0232,Nova Cloud Partners 232,France,Cloud & Software,797,922981.76,194,59876.16,42911.46
+V0144,Orion Cloud Partners 144,Germany,Cloud & Software,746,916402.79,180,59723.19,45946.72
+V0168,Atlas Cloud Partners 168,Netherlands,Cloud & Software,783,789505.8,197,59255.86,45052.15
+V0054,Cedar Professional Partners 054,Germany,Professional Services,758,814295.01,204,59113.15,41889.59
+V0206,Verde Professional Partners 206,Germany,Professional Services,771,906697.58,167,58329.52,37176.25
+V0184,Helix Cloud Partners 184,Spain,Cloud & Software,733,708340.03,185,58260.27,41058.99
+V0031,Verde Marketing Partners 031,Spain,Marketing,783,907289.68,193,57853.32,40421.41
+V0247,Helix Marketing Partners 247,Spain,Marketing,800,798975.6,212,56612.42,40445.9
+V0008,Nova Cloud Partners 008,Germany,Cloud & Software,806,946431.71,200,56567.13,36282.95
+V0122,Verde Hardware Partners 122,Italy,Hardware,878,751942.28,215,55706.77,37435.84
+V0112,Atlas Cloud Partners 112,Spain,Cloud & Software,820,882209.88,208,54435.25,38141.52
+V0063,Atlas Marketing Partners 063,Germany,Marketing,834,797500.18,183,54126.91,42029.52
+V0023,Helix Marketing Partners 023,Italy,Marketing,803,858402.37,179,53784.55,36045.48
+V0087,Verde Marketing Partners 087,Netherlands,Marketing,769,888767.29,166,52831.01,38708.51
+V0058,Helix Hardware Partners 058,Spain,Hardware,779,699296.92,228,52277.26,36439.03
+V0167,Apex Marketing Partners 167,Italy,Marketing,788,819254.79,181,51934.78,35690.47
+V0015,Nova Marketing Partners 015,Netherlands,Marketing,798,770050.36,194,51869.07,38788.48
+V0104,Apex Cloud Partners 104,Italy,Cloud & Software,832,759458.09,226,51509.38,33264.36
+V0246,Nova Professional Partners 246,Poland,Professional Services,787,960989.68,203,51463.6,35541.4
+V0048,Apex Cloud Partners 048,Poland,Cloud & Software,754,615268.07,176,50788.02,39023.31
+V0192,Verde Cloud Partners 192,Poland,Cloud & Software,817,717522.38,188,50722.24,37697.73
+V0064,Nova Cloud Partners 064,Austria,Cloud & Software,808,809802.27,174,50586.96,36047.97
+V0272,Apex Cloud Partners 272,Belgium,Cloud & Software,788,879526.38,181,49863.97,33013.65
+V0030,Helix Professional Partners 030,Poland,Professional Services,793,827220.59,181,49477.35,35285.58
+V0040,Cedar Cloud Partners 040,Spain,Cloud & Software,758,840913.34,172,49395.82,34183.99
+V0016,Helix Cloud Partners 016,France,Cloud & Software,858,617050.89,198,48905.07,34493.52
+V0234,Verde Hardware Partners 234,Germany,Hardware,778,707753.61,194,47425.07,34817.13
+V0214,Orion Professional Partners 214,France,Professional Services,782,835201.14,183,47409.68,32882.75
+V0162,Nova Hardware Partners 162,Germany,Hardware,816,792617.7,191,47337.32,34624.51
+V0240,Helix Cloud Partners 240,Netherlands,Cloud & Software,766,827455.01,175,46926.89,34980.28
+V0264,Cedar Cloud Partners 264,Poland,Cloud & Software,757,952590.4,172,46294.28,32778.44
+V0152,Cedar Cloud Partners 152,Germany,Cloud & Software,855,856601.93,197,46249.16,30632.49
+V0253,Nova Utilities Partners 253,Austria,Utilities,804,537992.3,189,45990.1,32198.53
+V0202,Apex Hardware Partners 202,Spain,Hardware,786,706901.59,189,45695.81,32885.19
+V0279,Apex Marketing Partners 279,Germany,Marketing,791,851344.67,174,45568.36,32491.45
+V0080,Verde Cloud Partners 080,Germany,Cloud & Software,769,729289.54,174,44892.94,30420.36
+V0042,Atlas Hardware Partners 042,Netherlands,Hardware,826,685390.54,217,44767.06,33155.89
+V0127,Nova Marketing Partners 127,Austria,Marketing,773,754295.71,176,44562.75,29682.55
+V0154,Atlas Hardware Partners 154,Austria,Hardware,800,645615.36,199,44196.02,30846.85
+V0037,Helix Utilities Partners 037,Austria,Utilities,842,538663.46,207,44119.85,31641.73
+V0250,Cedar Hardware Partners 250,France,Hardware,797,728156.18,204,43972.32,30411.34
+V0056,Atlas Cloud Partners 056,Belgium,Cloud & Software,809,678876.44,214,43314.01,28609.63
+V0191,Helix Marketing Partners 191,Belgium,Marketing,811,659651.69,201,43239.16,29067.81
+V0032,Orion Cloud Partners 032,Italy,Cloud & Software,784,633499.0,179,43098.61,28478.56
+V0258,Apex Hardware Partners 258,Netherlands,Hardware,807,568991.27,182,42898.99,30821.89
+V0256,Orion Cloud Partners 256,Spain,Cloud & Software,780,635912.52,178,42722.07,29802.45
+V0114,Helix Hardware Partners 114,Netherlands,Hardware,789,630745.87,206,41800.75,29691.25
+V0231,Atlas Marketing Partners 231,Netherlands,Marketing,774,855250.67,181,41751.6,30454.7
+V0095,Orion Marketing Partners 095,Italy,Marketing,786,707915.66,177,41563.25,27839.51
+V0007,Atlas Marketing Partners 007,France,Marketing,830,806834.36,202,40633.31,29018.07
+V0218,Nova Hardware Partners 218,Belgium,Hardware,791,558226.27,186,40328.38,26645.08
+V0072,Helix Cloud Partners 072,Germany,Cloud & Software,804,811203.58,164,40280.24,29894.78
+V0199,Verde Marketing Partners 199,Austria,Marketing,786,640860.08,190,40175.23,27408.07
+V0138,Cedar Hardware Partners 138,Poland,Hardware,782,568886.37,187,40153.22,29426.11
+V0160,Apex Cloud Partners 160,France,Cloud & Software,730,745989.65,171,39985.09,27120.04
+V0130,Orion Hardware Partners 130,Spain,Hardware,764,700837.1,170,39869.96,28027.98
+V0208,Cedar Cloud Partners 208,Austria,Cloud & Software,813,653905.03,193,39506.04,27308.32
+V0143,Verde Marketing Partners 143,Germany,Marketing,724,672571.63,168,39444.97,25241.84
+V0263,Orion Marketing Partners 263,Belgium,Marketing,811,879217.56,202,39429.25,24860.49
+V0111,Apex Marketing Partners 111,Poland,Marketing,825,704889.04,185,38886.02,28987.92
+V0261,Helix Utilities Partners 261,Germany,Utilities,806,480500.65,207,38287.19,28017.86
+V0178,Verde Hardware Partners 178,France,Hardware,721,626718.07,167,38281.26,26569.46
+V0223,Apex Marketing Partners 223,France,Marketing,762,671256.88,178,38067.19,26847.17
+V0224,Atlas Cloud Partners 224,Germany,Cloud & Software,791,594994.39,172,37874.86,26048.11
+V0039,Orion Marketing Partners 039,Poland,Marketing,758,537309.4,176,37531.97,28117.95
+V0061,Cedar Utilities Partners 061,France,Utilities,780,469889.9,171,36697.59,26709.98
+V0194,Cedar Hardware Partners 194,Italy,Hardware,768,572997.25,167,36533.11,24769.34
+V0090,Apex Hardware Partners 090,Germany,Hardware,837,476515.34,208,36509.66,28118.69
+V0002,Helix Hardware Partners 002,Belgium,Hardware,753,539660.83,199,36413.57,23527.56
+V0055,Apex Marketing Partners 055,Austria,Marketing,789,569686.11,217,36131.72,25356.65
+V0066,Verde Hardware Partners 066,Poland,Hardware,772,589204.16,191,36087.55,25627.76
+V0101,Verde Utilities Partners 101,Belgium,Utilities,776,495252.9,171,36071.17,24085.93
+V0074,Orion Hardware Partners 074,Belgium,Hardware,726,682108.1,167,35958.22,22327.83
+V0021,Atlas Utilities Partners 021,Poland,Utilities,790,483802.33,195,35849.41,26356.67
+V0029,Nova Utilities Partners 029,Belgium,Utilities,869,494968.24,210,35813.07,23196.51
+V0271,Cedar Marketing Partners 271,Austria,Marketing,786,508454.44,202,35562.91,24703.89
+V0119,Atlas Marketing Partners 119,Belgium,Marketing,786,629233.75,189,34906.91,22084.96
+V0186,Orion Hardware Partners 186,Netherlands,Hardware,834,665671.39,209,34753.2,24849.62
+V0013,Apex Utilities Partners 013,Spain,Utilities,763,521849.63,202,34552.08,24874.82
+V0103,Cedar Marketing Partners 103,Spain,Marketing,733,475551.7,197,34494.39,23021.31
+V0034,Apex Hardware Partners 034,France,Hardware,729,679809.54,182,34031.74,23831.18
+V0083,Apex Logistics Partners 083,Belgium,Logistics,787,430391.97,208,33417.21,21843.53
+V0071,Nova Marketing Partners 071,Germany,Marketing,771,566557.67,182,32981.84,21323.04
+V0280,Atlas Cloud Partners 280,Austria,Cloud & Software,763,525790.52,170,32794.24,23178.82
+V0226,Helix Hardware Partners 226,Austria,Hardware,803,511291.47,207,32324.57,22683.52
+V0210,Atlas Hardware Partners 210,Poland,Hardware,804,560787.62,204,32261.42,23253.68
+V0221,Orion Utilities Partners 221,Italy,Utilities,783,515028.77,180,32198.43,20983.04
+V0215,Cedar Marketing Partners 215,Germany,Marketing,874,499832.72,216,31879.13,21668.06
+V0082,Cedar Hardware Partners 082,Austria,Hardware,793,459559.53,188,31806.28,22878.0
+V0079,Helix Marketing Partners 079,France,Marketing,767,450681.9,183,31790.8,22665.9
+V0077,Atlas Utilities Partners 077,Italy,Utilities,785,377362.74,186,31583.54,21053.02
+V0117,Cedar Utilities Partners 117,Germany,Utilities,786,546763.22,174,31200.16,22458.34
+V0136,Verde Cloud Partners 136,Austria,Cloud & Software,796,520011.9,180,31020.16,20779.2
+V0085,Nova Utilities Partners 085,Spain,Utilities,765,481571.66,185,30310.49,20808.19
+V0242,Orion Hardware Partners 242,Germany,Hardware,774,582038.88,165,29821.77,19301.61
+V0115,Verde Logistics Partners 115,France,Logistics,812,402812.64,191,29769.15,21089.39
+V0269,Verde Utilities Partners 269,Germany,Utilities,753,473798.63,183,29733.58,19988.95
+V0237,Apex Utilities Partners 237,Poland,Utilities,771,450446.37,196,29521.59,21367.44
+V0093,Helix Utilities Partners 093,Poland,Utilities,779,523818.9,175,29501.72,21510.22
+V0098,Atlas Hardware Partners 098,Germany,Hardware,780,607183.38,168,28823.06,18497.73
+V0176,Nova Cloud Partners 176,Italy,Cloud & Software,778,502081.4,200,28778.68,18818.06
+V0170,Helix Hardware Partners 170,Germany,Hardware,765,447670.26,176,28157.8,18854.14
+V0213,Verde Utilities Partners 213,Netherlands,Utilities,806,393240.96,208,28112.42,20672.15
+V0146,Apex Hardware Partners 146,Belgium,Hardware,699,378671.51,163,27859.84,18482.46
+V0045,Verde Utilities Partners 045,Germany,Utilities,800,564732.02,165,27551.16,19530.88
+V0050,Nova Hardware Partners 050,Italy,Hardware,783,478519.67,203,27451.19,18163.14
+V0003,Verde Logistics Partners 003,Poland,Logistics,750,375894.93,198,27268.73,19795.59
+V0018,Orion Hardware Partners 018,Germany,Hardware,749,553364.95,175,27245.06,20222.22
+V0175,Atlas Marketing Partners 175,Spain,Marketing,786,525480.35,189,27206.1,18806.65
+V0059,Verde Logistics Partners 059,Italy,Logistics,797,438892.47,196,26674.7,17386.51
+V0157,Verde Utilities Partners 157,Spain,Utilities,796,372455.56,204,26655.11,18648.88
+V0207,Orion Marketing Partners 207,Germany,Marketing,779,484649.85,187,26429.12,18953.03
+V0010,Verde Hardware Partners 010,Austria,Hardware,788,453100.83,185,26217.61,18972.46
+V0219,Helix Logistics Partners 219,Poland,Logistics,784,398502.0,203,26177.12,19313.53
+V0005,Cedar Utilities Partners 005,Italy,Utilities,736,419647.0,181,25955.19,17387.78
+V0275,Helix Logistics Partners 275,Italy,Logistics,851,405872.55,192,25945.08,16991.78
+V0159,Cedar Marketing Partners 159,Netherlands,Marketing,761,453811.98,176,25763.93,18697.26
+V0239,Nova Marketing Partners 239,Italy,Marketing,731,467598.08,162,25722.54,16132.36
+V0266,Atlas Hardware Partners 266,Italy,Hardware,734,403370.04,185,25307.61,16595.0
+V0274,Nova Hardware Partners 274,Spain,Hardware,766,473813.51,172,25214.68,17713.13
+V0033,Cedar Facilities Partners 033,Netherlands,Facilities,814,319552.5,203,25076.8,19702.1
+V0141,Nova Utilities Partners 141,Netherlands,Utilities,805,398900.77,191,25013.26,18457.53
+V0267,Nova Logistics Partners 267,Netherlands,Logistics,766,360087.01,162,24893.1,18291.38
+V0019,Cedar Logistics Partners 019,Austria,Logistics,786,430657.26,170,24867.97,17127.15
+V0128,Helix Cloud Partners 128,Belgium,Cloud & Software,763,518825.45,194,24796.99,15557.11
+V0177,Helix Facilities Partners 177,Netherlands,Facilities,834,345672.15,201,24621.51,18595.91
+V0026,Cedar Hardware Partners 026,Germany,Hardware,761,490588.79,168,24128.42,14925.23
+V0139,Apex Logistics Partners 139,Spain,Logistics,833,455498.8,216,23890.18,16391.98
+V0075,Cedar Logistics Partners 075,Poland,Logistics,803,410104.99,218,23527.33,16999.75
+V0201,Cedar Facilities Partners 201,Poland,Facilities,765,282750.06,206,23524.72,18122.59
+V0163,Helix Logistics Partners 163,Austria,Logistics,766,359795.8,187,23382.54,16098.84
+V0235,Orion Logistics Partners 235,Austria,Logistics,785,397190.0,207,23343.02,16328.28
+V0051,Helix Logistics Partners 051,Netherlands,Logistics,797,381019.79,185,23288.26,17624.65
+V0057,Nova Facilities Partners 057,Poland,Facilities,823,307408.32,202,22751.98,17395.05
+V0165,Orion Utilities Partners 165,Poland,Utilities,778,394478.12,176,22658.75,16237.73
+V0205,Helix Utilities Partners 205,France,Utilities,789,406310.22,189,22202.69,14766.31
+V0011,Orion Logistics Partners 011,Belgium,Logistics,772,429981.26,181,22122.87,14504.98
+V0069,Apex Utilities Partners 069,Netherlands,Utilities,809,426442.52,182,21958.93,16056.79
+V0277,Orion Utilities Partners 277,France,Utilities,768,344601.28,186,21824.6,15240.46
+V0259,Atlas Logistics Partners 259,France,Logistics,806,369619.32,200,21816.11,14769.12
+V0189,Atlas Utilities Partners 189,Germany,Utilities,823,346780.82,174,21737.12,16880.87
+V0203,Atlas Logistics Partners 203,Italy,Logistics,789,436900.93,167,21481.27,13607.29
+V0135,Helix Marketing Partners 135,Germany,Marketing,735,482533.0,169,21200.19,15186.48
+V0161,Atlas Facilities Partners 161,Germany,Facilities,849,330387.09,184,21023.25,14008.15
+V0179,Orion Logistics Partners 179,Germany,Logistics,813,315973.3,196,20922.32,13817.55
+V0043,Nova Logistics Partners 043,France,Logistics,773,327622.84,184,20882.07,14691.66
+V0147,Atlas Logistics Partners 147,Poland,Logistics,791,314528.8,179,20843.33,15761.59
+V0027,Apex Logistics Partners 027,Germany,Logistics,723,318803.65,162,20774.7,15271.8
+V0245,Atlas Utilities Partners 245,Belgium,Utilities,808,313293.0,213,20602.52,13673.85
+V0113,Nova Facilities Partners 113,Italy,Facilities,765,261773.64,203,20549.05,13109.0
+V0197,Nova Utilities Partners 197,Germany,Utilities,784,311252.13,181,20279.55,13411.06
+V0073,Verde Facilities Partners 073,Austria,Facilities,753,285542.35,183,20163.58,14671.26
+V0106,Nova Hardware Partners 106,France,Hardware,801,387859.13,211,20082.82,13842.2
+V0193,Orion Facilities Partners 193,Spain,Facilities,773,342909.32,171,19487.95,14057.78
+V0129,Verde Facilities Partners 129,Poland,Facilities,769,292108.33,196,19304.77,14056.39
+V0181,Apex Utilities Partners 181,Austria,Utilities,800,316042.85,195,19180.69,13735.39
+V0133,Atlas Utilities Partners 133,France,Utilities,769,327370.73,163,18932.36,13736.71
+V0053,Orion Utilities Partners 053,Germany,Utilities,774,359436.12,167,18724.39,12353.63
+V0225,Nova Facilities Partners 225,Germany,Facilities,803,274541.46,200,18697.74,13685.16
+V0153,Apex Facilities Partners 153,Germany,Facilities,746,278236.83,181,18450.88,13501.72
+V0209,Apex Facilities Partners 209,Belgium,Facilities,781,248412.99,208,18434.25,11813.53
+V0257,Cedar Facilities Partners 257,Italy,Facilities,762,300430.43,185,18318.45,12133.64
+V0241,Verde Facilities Partners 241,France,Facilities,813,270738.96,203,18194.72,12598.61
+V0251,Apex Logistics Partners 251,Germany,Logistics,831,316558.07,198,18126.13,11851.68
+V0123,Orion Logistics Partners 123,Netherlands,Logistics,783,321294.81,188,18017.36,12881.87
+V0017,Verde Facilities Partners 017,Germany,Facilities,787,270975.05,193,17918.45,11955.09
+V0229,Cedar Utilities Partners 229,Spain,Utilities,802,292828.58,207,17893.78,12574.06
+V0025,Orion Facilities Partners 025,France,Facilities,764,235987.62,199,17338.28,12277.32
+V0217,Atlas Facilities Partners 217,Austria,Facilities,806,255942.32,202,16938.34,11819.61
+V0099,Nova Logistics Partners 099,Germany,Logistics,766,270600.48,180,16736.64,12145.56
+V0195,Apex Logistics Partners 195,Netherlands,Logistics,749,323525.56,169,16462.77,11550.71
+V0091,Atlas Logistics Partners 091,Austria,Logistics,771,305551.16,176,16315.4,11627.51
+V0173,Cedar Utilities Partners 173,Belgium,Utilities,790,289836.86,177,15694.11,10436.78
+V0149,Helix Utilities Partners 149,Italy,Utilities,752,360552.36,160,15609.34,9539.08
+V0125,Apex Utilities Partners 125,Germany,Utilities,764,277940.07,173,15550.38,10390.52
+V0105,Atlas Facilities Partners 105,Netherlands,Facilities,753,284345.82,147,15493.77,11712.38
+V0265,Apex Facilities Partners 265,Spain,Facilities,825,217332.36,223,15459.44,10739.41
+V0211,Nova Logistics Partners 211,Spain,Logistics,793,286017.08,190,15431.02,10639.27
+V0035,Atlas Logistics Partners 035,Germany,Logistics,776,296731.65,174,15348.54,10084.77
+V0233,Helix Facilities Partners 233,Germany,Facilities,820,233500.44,183,14837.01,10042.24
+V0155,Nova Logistics Partners 155,Belgium,Logistics,781,259681.68,175,14751.19,9899.35
+V0227,Verde Logistics Partners 227,Belgium,Logistics,800,268665.31,180,14473.23,9651.04
+V0243,Cedar Logistics Partners 243,Germany,Logistics,808,290561.19,176,14266.43,10684.46
+V0107,Helix Logistics Partners 107,Germany,Logistics,722,249766.58,160,14167.7,9106.83
+V0145,Cedar Facilities Partners 145,Austria,Facilities,777,261224.76,166,14065.78,9737.54
+V0067,Orion Logistics Partners 067,Spain,Logistics,785,267107.38,185,13954.92,9490.17
+V0187,Cedar Logistics Partners 187,France,Logistics,796,275551.63,197,13572.19,9136.94
+V0131,Cedar Logistics Partners 131,Italy,Logistics,761,276053.43,176,13416.22,8803.05
+V0273,Atlas Facilities Partners 273,Poland,Facilities,788,249047.99,201,13130.53,9278.84
+V0109,Orion Utilities Partners 109,Austria,Utilities,762,283364.21,178,12545.34,8519.66
+V0137,Orion Facilities Partners 137,Belgium,Facilities,764,208485.98,179,12515.43,8129.63
+V0009,Helix Facilities Partners 009,Germany,Facilities,773,251362.94,161,12440.12,9567.68
+V0097,Apex Facilities Partners 097,France,Facilities,780,275956.8,177,12057.0,8307.41
+V0089,Cedar Facilities Partners 089,Germany,Facilities,782,225090.6,183,11881.22,7914.62
+V0121,Helix Facilities Partners 121,Spain,Facilities,797,259412.89,192,11721.38,8007.89
+V0001,Nova Facilities Partners 001,Austria,Facilities,748,210843.6,181,11680.74,8586.15
+V0249,Orion Facilities Partners 249,Netherlands,Facilities,764,180708.52,200,11606.96,8329.93
+V0169,Nova Facilities Partners 169,France,Facilities,760,211627.47,186,11473.41,7692.36
+V0124,Cedar Packaging Partners 124,France,Packaging,817,148640.11,200,11300.81,8069.21
+V0171,Verde Logistics Partners 171,Germany,Logistics,765,234996.14,173,10766.7,7546.99
+V0012,Cedar Packaging Partners 012,Poland,Packaging,772,163534.68,163,10258.05,7605.54
+V0041,Apex Facilities Partners 041,Italy,Facilities,824,190695.72,188,10148.25,6511.22
+V0185,Verde Facilities Partners 185,Italy,Facilities,801,202131.94,191,10041.8,6656.76
+V0049,Atlas Facilities Partners 049,Spain,Facilities,748,187402.86,175,9832.95,7174.97
+V0164,Verde Packaging Partners 164,Belgium,Packaging,803,159502.18,190,9736.88,6522.46
+V0228,Orion Packaging Partners 228,Poland,Packaging,777,156814.79,196,9665.3,6994.96
+V0132,Apex Packaging Partners 132,Netherlands,Packaging,796,152204.51,184,9590.62,7234.27
+V0052,Verde Packaging Partners 052,France,Packaging,786,143503.61,165,9536.75,6571.53
+V0065,Helix Facilities Partners 065,Belgium,Facilities,752,192318.05,175,9023.54,5852.34
+V0036,Nova Packaging Partners 036,Germany,Packaging,772,153936.97,183,9014.45,6486.21
+V0108,Verde Packaging Partners 108,Germany,Packaging,827,147202.55,199,8974.61,6709.44
+V0212,Helix Packaging Partners 212,Italy,Packaging,783,152437.44,195,8925.75,5703.48
+V0076,Apex Packaging Partners 076,Spain,Packaging,777,138514.56,173,8861.25,6198.48
+V0140,Atlas Packaging Partners 140,Italy,Packaging,800,132711.38,212,8396.02,5408.72
+V0084,Atlas Packaging Partners 084,Poland,Packaging,801,147288.96,178,8395.1,6297.54
+V0044,Helix Packaging Partners 044,Germany,Packaging,764,163327.84,178,7920.51,5007.68
+V0100,Helix Packaging Partners 100,Austria,Packaging,810,122054.73,196,7780.88,5458.65
+V0172,Orion Packaging Partners 172,Austria,Packaging,737,136985.87,179,7729.74,5321.63
+V0060,Orion Packaging Partners 060,Netherlands,Packaging,833,141379.77,188,7646.53,5742.72
+V0148,Nova Packaging Partners 148,Spain,Packaging,743,119577.54,166,7593.69,5378.0
+V0081,Orion Facilities Partners 081,Germany,Facilities,762,202445.97,182,7237.32,5164.71
+V0156,Helix Packaging Partners 156,Poland,Packaging,724,139806.65,178,7086.04,5043.13
+V0092,Nova Packaging Partners 092,Belgium,Packaging,786,141122.13,184,6998.14,4461.8
+V0004,Orion Packaging Partners 004,Spain,Packaging,752,131130.3,184,6909.32,4813.8
+V0068,Cedar Packaging Partners 068,Italy,Packaging,787,149102.65,175,6838.0,4340.02
+V0252,Atlas Packaging Partners 252,Germany,Packaging,752,115898.42,175,6695.83,4937.22
+V0220,Verde Packaging Partners 220,Spain,Packaging,739,118098.77,159,6581.46,4458.99
+V0204,Nova Packaging Partners 204,Netherlands,Packaging,798,98980.31,177,6304.98,4671.35
+V0196,Atlas Packaging Partners 196,France,Packaging,766,108856.34,193,6194.92,4362.64
+V0244,Apex Packaging Partners 244,Austria,Packaging,789,121638.11,206,6168.16,4258.45
+V0116,Orion Packaging Partners 116,Germany,Packaging,779,87551.01,200,6115.83,4161.42
+V0236,Cedar Packaging Partners 236,Belgium,Packaging,827,99238.38,218,6057.95,4104.81
+V0260,Nova Packaging Partners 260,Germany,Packaging,825,123456.65,196,5989.89,4015.26
+V0020,Apex Packaging Partners 020,Belgium,Packaging,815,159058.4,194,5726.61,3683.73
+V0028,Atlas Packaging Partners 028,Austria,Packaging,775,120070.43,160,5634.97,4012.42
+V0188,Apex Packaging Partners 188,Germany,Packaging,782,94110.04,209,5159.97,3431.79
+V0276,Verde Packaging Partners 276,Netherlands,Packaging,818,109084.54,202,5106.27,3623.59
+V0268,Helix Packaging Partners 268,France,Packaging,822,95149.65,193,5106.22,3562.07
+V0180,Cedar Packaging Partners 180,Germany,Packaging,771,91702.77,192,4387.28,3154.37

@@ -1,0 +1,23 @@
+{
+  "method": "Separate synthetic settlement histories with known invoice obligations",
+  "seed": 12761,
+  "invoices": 1200,
+  "settlements": 2550,
+  "known_outcome_settlements": 2250,
+  "ambiguous_follow_up_settlements": 300,
+  "ambiguous_follow_up_reviews": 300,
+  "ambiguous_exposure_eur": 0.0,
+  "repeat_only_baseline": {
+    "tp": 600,
+    "fp": 450,
+    "fn": 0,
+    "absolute_exposure_error_eur": 370638.06
+  },
+  "authorization_aware_rule": {
+    "tp": 600,
+    "fp": 0,
+    "fn": 0,
+    "absolute_exposure_error_eur": 0.0
+  },
+  "scope": "Targeted invoice settlement checks on simulated data. Real-world false positive rates are unknown."
+}

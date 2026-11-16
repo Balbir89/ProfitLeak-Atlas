@@ -1,0 +1,383 @@
+{
+  "dataset": "City of Chicago / Payments (s4vu-giwb)",
+  "source_url": "https://data.cityofchicago.org/resource/s4vu-giwb.json",
+  "publisher_url": "https://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb",
+  "review_date": "2026-11-15",
+  "selection": "Curated institutional/vendor rows from the first 165 API results available through a public search snapshot; this is NOT a random or representative sample. All values transcribed from the official public endpoint. No payments are adjudicated as fraudulent.",
+  "records": [
+    {
+      "source_line": 0,
+      "amount": "17104.23",
+      "check_date": "2009",
+      "contract_number": "19120",
+      "vendor_name": "POLISH/AMERICAN ASSOCIATION"
+    },
+    {
+      "source_line": 5,
+      "amount": "420877.01",
+      "check_date": "2002",
+      "department_name": "MAYORS OFFICE FOR PEOPLE WITH DISABILITIES",
+      "contract_number": "D6952900712",
+      "vendor_name": "IAM CARES"
+    },
+    {
+      "source_line": 7,
+      "voucher_number": "PV84248442063",
+      "amount": "45111.74",
+      "check_date": "01/17/2025",
+      "department_name": "CHICAGO DEPARTMENT OF TRANSPORTATION",
+      "contract_number": "176643",
+      "vendor_name": "MOORE LANDSCAPES LLC"
+    },
+    {
+      "source_line": 9,
+      "voucher_number": "CVIP254100435",
+      "amount": "7914.54",
+      "check_date": "04/01/2025",
+      "department_name": "CHICAGO DEPARTMENT OF PUBLIC HEALTH",
+      "contract_number": "116619",
+      "vendor_name": "ACCESS COMMUNITY HEALTH NETWORK"
+    },
+    {
+      "source_line": 10,
+      "voucher_number": "PVCI26CI401700",
+      "amount": "350",
+      "check_date": "06/16/2026",
+      "department_name": "CHICAGO FIRE DEPARTMENT",
+      "contract_number": "32900",
+      "vendor_name": "AIR ONE EQUIPMENT INC"
+    },
+    {
+      "source_line": 14,
+      "voucher_number": "PVCI25CI101966",
+      "amount": "365.48",
+      "check_date": "06/30/2025",
+      "contract_number": "204694",
+      "vendor_name": "Signature Flight Support LLC"
+    },
+    {
+      "source_line": 18,
+      "voucher_number": "CVIP255009320",
+      "amount": "455440.42",
+      "check_date": "09/19/2025",
+      "contract_number": "316167",
+      "vendor_name": "K.L.E.O. COMMUNITY FAMILY LIFE CENTER"
+    },
+    {
+      "source_line": 20,
+      "voucher_number": "PVCI25CI101626",
+      "amount": "6592",
+      "check_date": "06/02/2025",
+      "department_name": "DEPT OF GENERAL SERVICES",
+      "contract_number": "167490",
+      "vendor_name": "HERC RENTALS INC"
+    },
+    {
+      "source_line": 28,
+      "voucher_number": "PVCI25CI104747",
+      "amount": "119.2",
+      "check_date": "02/11/2026",
+      "department_name": "DEPT OF GENERAL SERVICES",
+      "contract_number": "167490",
+      "vendor_name": "HERC RENTALS INC"
+    },
+    {
+      "source_line": 30,
+      "amount": "398734.15",
+      "check_date": "2023",
+      "department_name": "DEPARTMENT OF FAMILY AND SUPPORT SERVICES",
+      "contract_number": "186885",
+      "vendor_name": "BOYS & GIRLS CLUBS OF CHICAGO"
+    },
+    {
+      "source_line": 34,
+      "voucher_number": "CVIP255008787",
+      "amount": "87987.34",
+      "check_date": "09/11/2025",
+      "department_name": "DEPARTMENT OF FAMILY AND SUPPORT SERVICES",
+      "contract_number": "309341",
+      "vendor_name": "LADIES OF VIRTUE, NFP"
+    },
+    {
+      "source_line": 36,
+      "voucher_number": "PV85268501494",
+      "amount": "4694.46",
+      "check_date": "05/28/2026",
+      "department_name": "DEPT OF BUSINESS & INFORMATION SERVICES",
+      "contract_number": "51904",
+      "vendor_name": "DELL MARKETING LP."
+    },
+    {
+      "source_line": 45,
+      "amount": "1558768.05",
+      "check_date": "2017",
+      "department_name": "DEPT OF GENERAL SERVICES",
+      "contract_number": "19318",
+      "vendor_name": "JONES LANG LASALLE AMERICAS, INC."
+    },
+    {
+      "source_line": 51,
+      "voucher_number": "PV41254198453",
+      "amount": "580",
+      "check_date": "11/13/2025",
+      "contract_number": "DV",
+      "vendor_name": "MESH COALITION C/O ASPR OF OFFICE EMERGENCY MANAGEMENT"
+    },
+    {
+      "source_line": 58,
+      "amount": "89509.14",
+      "check_date": "2024",
+      "department_name": "OFFICE OF EMERGENCY MANAGEMENT AND COMMUNICATIONS",
+      "contract_number": "29702",
+      "vendor_name": "MIDWAY TRAILER SALES & SERVICE INC"
+    },
+    {
+      "source_line": 60,
+      "voucher_number": "CVIP245018132",
+      "amount": "267543.65",
+      "check_date": "02/03/2025",
+      "department_name": "DEPARTMENT OF FAMILY AND SUPPORT SERVICES",
+      "contract_number": "113952",
+      "vendor_name": "EL VALOR CORP. 01"
+    },
+    {
+      "source_line": 61,
+      "voucher_number": "PVCI25CI404679",
+      "amount": "17167.05",
+      "check_date": "12/26/2025",
+      "department_name": "DEPT OF INNOVATION & TECHNOLOGY",
+      "contract_number": "117688",
+      "vendor_name": "VERIZON WIRELESS"
+    },
+    {
+      "source_line": 64,
+      "voucher_number": "CVIP255011401",
+      "amount": "975.78",
+      "check_date": "11/04/2025",
+      "contract_number": "266279",
+      "vendor_name": "ARAMARK SAFE HAVEN FOUNDATION"
+    },
+    {
+      "source_line": 66,
+      "voucher_number": "PV70267031480",
+      "amount": "9000",
+      "check_date": "04/30/2026",
+      "contract_number": "DV",
+      "vendor_name": "SAJA CORPORATION"
+    },
+    {
+      "source_line": 69,
+      "voucher_number": "PV31253170828",
+      "amount": "29986.5",
+      "check_date": "07/29/2025",
+      "contract_number": "DV",
+      "vendor_name": "BORKAN & SCAHILL LIMITED"
+    },
+    {
+      "source_line": 73,
+      "voucher_number": "PVCI24CI304887",
+      "amount": "62500",
+      "check_date": "02/05/2025",
+      "contract_number": "256005",
+      "vendor_name": "Barnes Walton Dental Associates, Inc."
+    },
+    {
+      "source_line": 74,
+      "voucher_number": "PV31253178056",
+      "amount": "1173",
+      "check_date": "02/13/2026",
+      "contract_number": "DV",
+      "vendor_name": "LANER, MUCHIN, DOMBROW, BECKER"
+    },
+    {
+      "source_line": 80,
+      "voucher_number": "PVCI24CI405018",
+      "amount": "358569.75",
+      "check_date": "02/11/2025",
+      "contract_number": "93627",
+      "vendor_name": "SDI PRESENCE LLC"
+    },
+    {
+      "source_line": 82,
+      "voucher_number": "CVIP252100828",
+      "amount": "4935.64",
+      "check_date": "02/10/2026",
+      "department_name": "DEPARTMENT OF HOUSING",
+      "contract_number": "178776",
+      "vendor_name": "ST. LEONARD'S MINISTRIES"
+    },
+    {
+      "source_line": 85,
+      "voucher_number": "PVCI26CI500720",
+      "amount": "612",
+      "check_date": "06/08/2026",
+      "contract_number": "104512",
+      "vendor_name": "SERVICE SANITATION INC."
+    },
+    {
+      "source_line": 87,
+      "voucher_number": "PVCI25CI300515",
+      "amount": "577692.22",
+      "check_date": "03/26/2025",
+      "department_name": "DEPARTMENT OF FLEET AND FACILITY MANAGEMENT",
+      "contract_number": "295220",
+      "vendor_name": "SECURITAS SECURITY SERVICES, USA, INC."
+    },
+    {
+      "source_line": 90,
+      "voucher_number": "PVCI26CI402526",
+      "amount": "160800.24",
+      "check_date": "08/24/2026",
+      "department_name": "CHICAGO DEPARTMENT OF AVIATION",
+      "contract_number": "69568",
+      "vendor_name": "CONNECT CHICAGO ALLIANCE JV"
+    },
+    {
+      "source_line": 95,
+      "voucher_number": "PVCI26CI102296",
+      "amount": "1265.4",
+      "check_date": "09/11/2026",
+      "department_name": "DEPARTMENT OF FLEET AND FACILITY MANAGEMENT",
+      "contract_number": "339236",
+      "vendor_name": "CANON U.S.A., INC"
+    },
+    {
+      "source_line": 101,
+      "voucher_number": "PVCI24CI105352",
+      "amount": "1471.5",
+      "check_date": "02/25/2025",
+      "department_name": "CHICAGO DEPARTMENT OF AVIATION",
+      "contract_number": "250219",
+      "vendor_name": "AMERICAN AIRLINES 01"
+    },
+    {
+      "source_line": 102,
+      "voucher_number": "PVCI26CI302270",
+      "amount": "10800",
+      "check_date": "07/28/2026",
+      "department_name": "PLANNING & DEVELOPMENT",
+      "contract_number": "3718",
+      "vendor_name": "SOMERCOR 504, INC."
+    },
+    {
+      "source_line": 106,
+      "voucher_number": "CVIP254113088",
+      "amount": "2839.46",
+      "check_date": "09/22/2025",
+      "department_name": "CHICAGO DEPARTMENT OF PUBLIC HEALTH",
+      "contract_number": "110228",
+      "vendor_name": "SOUTH SHORE HOSPITAL.CORP"
+    },
+    {
+      "source_line": 110,
+      "voucher_number": "PV85268588980",
+      "amount": "671.47",
+      "check_date": "05/29/2026",
+      "department_name": "CHICAGO DEPARTMENT OF AVIATION",
+      "contract_number": "119983",
+      "vendor_name": "HNTB CORPORATION"
+    },
+    {
+      "source_line": 116,
+      "voucher_number": "PVCI25CI403923",
+      "amount": "3461.38",
+      "check_date": "11/13/2025",
+      "contract_number": "94994",
+      "vendor_name": "CITY ESCAPE GARDEN & DESIGN,LLC."
+    },
+    {
+      "source_line": 122,
+      "voucher_number": "PVCI26CI101891",
+      "amount": "8803.57",
+      "check_date": "08/17/2026",
+      "department_name": "DEPARTMENT OF FLEET AND FACILITY MANAGEMENT",
+      "contract_number": "247105",
+      "vendor_name": "PARKWAY ELEVATORS INC."
+    },
+    {
+      "source_line": 133,
+      "voucher_number": "CVIP255007985",
+      "amount": "2523.01",
+      "check_date": "08/25/2025",
+      "contract_number": "210668",
+      "vendor_name": "BRIGHTON PARK NEIGHBORHOOD COUNCIL"
+    },
+    {
+      "source_line": 136,
+      "voucher_number": "PVPR232711360",
+      "amount": "4190091.3",
+      "check_date": "09/14/2023",
+      "contract_number": "DV",
+      "vendor_name": "MUNICIPAL EMPLOYEE PENSION FD"
+    },
+    {
+      "source_line": 137,
+      "voucher_number": "PVCI25CI400157",
+      "amount": "30440",
+      "check_date": "03/18/2025",
+      "department_name": "CHICAGO DEPARTMENT OF AVIATION",
+      "contract_number": "157775",
+      "vendor_name": "CHICAGO AIRLINES TERMINAL CONSORTIUM"
+    },
+    {
+      "source_line": 138,
+      "voucher_number": "CVIP254100709",
+      "amount": "16238.56",
+      "check_date": "05/06/2025",
+      "contract_number": "292154",
+      "vendor_name": "INFANT WELFARE SOCIETY OF CHICAGO"
+    },
+    {
+      "source_line": 144,
+      "voucher_number": "PVCI25CI302441",
+      "amount": "8322.6",
+      "check_date": "08/20/2025",
+      "department_name": "OFFICE OF PUBLIC SAFETY ADMINISTRATION",
+      "contract_number": "263412",
+      "vendor_name": "SILK SCREEN EXPRESS, INC."
+    },
+    {
+      "source_line": 147,
+      "voucher_number": "CVIP257000187",
+      "amount": "3076.94",
+      "check_date": "06/12/2025",
+      "department_name": "DEPARTMENT OF BUSINESS AFFAIRS AND CONSUMER PROTECTION",
+      "contract_number": "299296",
+      "vendor_name": "LAWNDALE BUSINESS RENAISSANCE ASSOCIATION"
+    },
+    {
+      "source_line": 150,
+      "voucher_number": "PV31253170100",
+      "amount": "18001.25",
+      "check_date": "03/12/2025",
+      "contract_number": "DV",
+      "vendor_name": "BORKAN & SCAHILL LIMITED"
+    },
+    {
+      "source_line": 151,
+      "voucher_number": "PVCI25CI700326",
+      "amount": "8169",
+      "check_date": "04/03/2025",
+      "department_name": "CHICAGO FIRE DEPARTMENT",
+      "contract_number": "26910",
+      "vendor_name": "LION APPAREL, INC"
+    },
+    {
+      "source_line": 153,
+      "voucher_number": "PVCI26CI301607",
+      "amount": "21653.16",
+      "check_date": "06/16/2026",
+      "department_name": "DEPARTMENT OF WATER MANAGEMENT",
+      "contract_number": "95699",
+      "vendor_name": "HENRY FRERK SONS, INC."
+    },
+    {
+      "source_line": 158,
+      "voucher_number": "PV38263800560",
+      "amount": "19296.78",
+      "check_date": "08/03/2026",
+      "contract_number": "DV",
+      "vendor_name": "CHARLES EQUIPMENT ENERGY SYSTEMS LLC"
+    }
+  ]
+}
