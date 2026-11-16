@@ -1,0 +1,91 @@
+test_cash_not_claimed (test_expert_upgrade.TestIntegratedEvidence.test_cash_not_claimed) ... ok
+test_control_risk_zero_loss (test_expert_upgrade.TestIntegratedEvidence.test_control_risk_zero_loss) ... ok
+test_full_scored_grain (test_expert_upgrade.TestIntegratedEvidence.test_full_scored_grain) ... ok
+test_github_files_below_100mb_except_rebuildable_db (test_expert_upgrade.TestIntegratedEvidence.test_github_files_below_100mb_except_rebuildable_db) ... ok
+test_holdout_confusion_sums (test_expert_upgrade.TestIntegratedEvidence.test_holdout_confusion_sums) ... ok
+test_holdout_not_perfect (test_expert_upgrade.TestIntegratedEvidence.test_holdout_not_perfect) ... ok
+test_no_synthetic_truth_leakage (test_expert_upgrade.TestIntegratedEvidence.test_no_synthetic_truth_leakage) ... ok
+test_pbip_structural (test_expert_upgrade.TestIntegratedEvidence.test_pbip_structural) ... ok
+test_training_before_holdout (test_expert_upgrade.TestIntegratedEvidence.test_training_before_holdout) ... ok
+test_unchanged_exposure (test_expert_upgrade.TestIntegratedEvidence.test_unchanged_exposure) ... ok
+test_workbook_has_new_sheets (test_expert_upgrade.TestIntegratedEvidence.test_workbook_has_new_sheets) ... ok
+test_no_negative_loss_from_statistical_model (test_expert_upgrade.TestRiskMath.test_no_negative_loss_from_statistical_model) ... ok
+test_psi_identity (test_expert_upgrade.TestRiskMath.test_psi_identity) ... ok
+test_psi_shift (test_expert_upgrade.TestRiskMath.test_psi_shift) ... ok
+test_robust_center (test_expert_upgrade.TestRiskMath.test_robust_center) ... ok
+test_robust_spike (test_expert_upgrade.TestRiskMath.test_robust_spike) ... ok
+test_score_is_bounded (test_expert_upgrade.TestRiskMath.test_score_is_bounded) ... ok
+test_closed_is_terminal (test_expert_upgrade.TestWorkflow.test_closed_is_terminal) ... ok
+test_idempotent_init (test_expert_upgrade.TestWorkflow.test_idempotent_init) ... ok
+test_invalid_actor_rejected (test_expert_upgrade.TestWorkflow.test_invalid_actor_rejected) ... ok
+test_no_cash_credit_for_control_only (test_expert_upgrade.TestWorkflow.test_no_cash_credit_for_control_only) ... ok
+test_no_credit_without_verification (test_expert_upgrade.TestWorkflow.test_no_credit_without_verification) ... ok
+test_no_overcredit (test_expert_upgrade.TestWorkflow.test_no_overcredit) ... ok
+test_no_verify_without_evidence (test_expert_upgrade.TestWorkflow.test_no_verify_without_evidence) ... ok
+test_ownership_and_event_trail (test_expert_upgrade.TestWorkflow.test_ownership_and_event_trail) ... ok
+test_valid_evidence_verified_flow (test_expert_upgrade.TestWorkflow.test_valid_evidence_verified_flow) ... ok
+test_workflow_export (test_expert_upgrade.TestWorkflow.test_workflow_export) ... ok
+test_all_bindings_resolved (test_external_public.TestPowerBISource.test_all_bindings_resolved) ... ok
+test_no_compiled_pbix_claim (test_external_public.TestPowerBISource.test_no_compiled_pbix_claim) ... ok
+test_no_native_desktop_claim (test_external_public.TestPowerBISource.test_no_native_desktop_claim) ... ok
+test_structural_passes (test_external_public.TestPowerBISource.test_structural_passes) ... ok
+test_three_pages (test_external_public.TestPowerBISource.test_three_pages) ... ok
+test_curated_real_rows_parse (test_external_public.TestPublicData.test_curated_real_rows_parse) ... ok
+test_distinct_voucher_same_amount_not_automatically_duplicate (test_external_public.TestPublicData.test_distinct_voucher_same_amount_not_automatically_duplicate) ... ok
+test_duplicate_record_is_only_a_review_candidate (test_external_public.TestPublicData.test_duplicate_record_is_only_a_review_candidate) ... ok
+test_invalid_date_rejected (test_external_public.TestPublicData.test_invalid_date_rejected) ... ok
+test_nan_amount_rejected (test_external_public.TestPublicData.test_nan_amount_rejected) ... ok
+test_no_fraud_amount_inferred (test_external_public.TestPublicData.test_no_fraud_amount_inferred) ... ok
+test_public_source_provenance (test_external_public.TestPublicData.test_public_source_provenance) ... ok
+test_reused_voucher_distinct_vendor_review_only (test_external_public.TestPublicData.test_reused_voucher_distinct_vendor_review_only) ... ok
+test_year_only_not_used_in_duplicate_signatures (test_external_public.TestPublicData.test_year_only_not_used_in_duplicate_signatures) ... ok
+test_year_only_rollups_not_itemized (test_external_public.TestPublicData.test_year_only_rollups_not_itemized) ... ok
+test_all_payments_mapped_once (test_pipeline.TestCaseStudy.test_all_payments_mapped_once) ... ok
+test_issues_injected_visible (test_pipeline.TestCaseStudy.test_issues_injected_visible) ... ok
+test_no_negative_loss (test_pipeline.TestCaseStudy.test_no_negative_loss) ... ok
+test_no_orphans (test_pipeline.TestCaseStudy.test_no_orphans) ... ok
+test_nonfinancial_risk_is_zero_eur (test_pipeline.TestCaseStudy.test_nonfinancial_risk_is_zero_eur) ... ok
+test_payment_grain (test_pipeline.TestCaseStudy.test_payment_grain) ... ok
+test_recovery_not_exceed_gross (test_pipeline.TestCaseStudy.test_recovery_not_exceed_gross) ... ok
+test_synthetic_truth_isolated (test_pipeline.TestCaseStudy.test_synthetic_truth_isolated) ... ok
+test_explorer_uses_current_outputs (test_release_artifacts.TestReleaseArtifacts.test_explorer_uses_current_outputs) ... ok
+test_public_navigation_has_all_three_demos (test_release_artifacts.TestReleaseArtifacts.test_public_navigation_has_all_three_demos) ... ok
+test_static_snapshot_uses_current_data (test_release_artifacts.TestReleaseArtifacts.test_static_snapshot_uses_current_data) ... ok
+test_workbook_snapshot_reconciles_to_full_release (test_release_artifacts.TestReleaseArtifacts.test_workbook_snapshot_reconciles_to_full_release) ... ok
+test_audit_event_updates_and_deletes_are_blocked (test_settlement_controls.TestCashCreditControls.test_audit_event_updates_and_deletes_are_blocked) ... ok
+test_changed_amount_on_existing_reference_is_rejected (test_settlement_controls.TestCashCreditControls.test_changed_amount_on_existing_reference_is_rejected) ... ok
+test_concurrent_retry_records_only_one_event (test_settlement_controls.TestCashCreditControls.test_concurrent_retry_records_only_one_event) ... ok
+test_existing_credit_event_remains_idempotent (test_settlement_controls.TestCashCreditControls.test_existing_credit_event_remains_idempotent) ... ok
+test_rejects_non_finite_subcent_and_overage_values (test_settlement_controls.TestCashCreditControls.test_rejects_non_finite_subcent_and_overage_values) ... ok
+test_retried_reference_after_closure_does_not_repeat_credit (test_settlement_controls.TestCashCreditControls.test_retried_reference_after_closure_does_not_repeat_credit) ... ok
+test_legacy_csv_optional_column_is_loaded_as_null (test_settlement_controls.TestInvoiceSettlements.test_legacy_csv_optional_column_is_loaded_as_null) ... ok
+test_legitimate_installments_stay_within_invoice_total (test_settlement_controls.TestInvoiceSettlements.test_legitimate_installments_stay_within_invoice_total) ... ok
+test_missing_or_conflicting_evidence_is_review_only (test_settlement_controls.TestInvoiceSettlements.test_missing_or_conflicting_evidence_is_review_only) ... ok
+test_money_math_uses_cents (test_settlement_controls.TestInvoiceSettlements.test_money_math_uses_cents) ... ok
+test_only_incremental_excess_counts_in_chronological_order (test_settlement_controls.TestInvoiceSettlements.test_only_incremental_excess_counts_in_chronological_order) ... ok
+test_separate_settlement_challenge (test_settlement_controls.TestInvoiceSettlements.test_separate_settlement_challenge) ... ok
+
+----------------------------------------------------------------------
+Ran 66 tests in 1.678s
+
+OK
+{
+  "kind": "offline_source_structural_consistency",
+  "pbip_files_examined": 51,
+  "tables": 4,
+  "pages": 3,
+  "visuals": 10,
+  "visual_types": {
+    "lineChart": 1,
+    "cardVisual": 5,
+    "clusteredBarChart": 2,
+    "tableEx": 2
+  },
+  "checks_executed": 84,
+  "checks_failed": [],
+  "offline_source_checks_passed": true,
+  "power_bi_desktop_runtime_executed": false,
+  "power_bi_desktop_visuals_verified": false,
+  "actual_pbix_created": false,
+  "limitation": "Successful JSON/TMDL source checks do not prove the project can load, refresh, or render in Windows Power BI Desktop."
+}

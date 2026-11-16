@@ -1,0 +1,12 @@
+{
+  "tested_payments": 220000,
+  "tests_passed": 66,
+  "tests_failed": 0,
+  "power_bi_structural_checks_passed": 84,
+  "power_bi_structural_checks_failed": 0,
+  "public_records_checked": 44,
+  "public_data_error_rows": 0,
+  "settlement_challenge_payments": 2550,
+  "power_bi_desktop_runtime_executed": false,
+  "real_world_fraud_accuracy_measured": false
+}

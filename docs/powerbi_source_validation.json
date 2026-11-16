@@ -1,0 +1,20 @@
+{
+  "kind": "offline_source_structural_consistency",
+  "pbip_files_examined": 51,
+  "tables": 4,
+  "pages": 3,
+  "visuals": 10,
+  "visual_types": {
+    "lineChart": 1,
+    "cardVisual": 5,
+    "clusteredBarChart": 2,
+    "tableEx": 2
+  },
+  "checks_executed": 84,
+  "checks_failed": [],
+  "offline_source_checks_passed": true,
+  "power_bi_desktop_runtime_executed": false,
+  "power_bi_desktop_visuals_verified": false,
+  "actual_pbix_created": false,
+  "limitation": "Successful JSON/TMDL source checks do not prove the project can load, refresh, or render in Windows Power BI Desktop."
+}

@@ -1,0 +1,60 @@
+{
+  "full_release_220k": {
+    "scope": "Core SQLite build from pre-generated CSV through financial marts; excludes generation and risk scoring",
+    "environment": {
+      "platform": "Linux",
+      "machine": "x86_64",
+      "python": "3.12.14",
+      "sqlite": "3.53.1"
+    },
+    "totals": {
+      "payments": 220000,
+      "spend_eur": 157678718.98,
+      "gross_estimated_loss_eur": 9841136.67,
+      "modeled_recoverable_eur": 6878788.68,
+      "flagged_payments": 52371
+    },
+    "duration_seconds": {
+      "baseline": {
+        "runs": [
+          8.756,
+          7.41,
+          8.222
+        ],
+        "median": 8.222
+      },
+      "current": {
+        "runs": [
+          6.681,
+          5.318,
+          6.587
+        ],
+        "median": 6.587
+      }
+    }
+  },
+  "scale_run_one_million": {
+    "scope": "Core SQLite build from pre-generated CSV through financial marts; excludes generation and risk scoring",
+    "environment": {
+      "platform": "Linux",
+      "machine": "x86_64",
+      "python": "3.12.14",
+      "sqlite": "3.53.1"
+    },
+    "totals": {
+      "payments": 1000000,
+      "spend_eur": 717918921.39,
+      "gross_estimated_loss_eur": 45619109.06,
+      "modeled_recoverable_eur": 31868657.52,
+      "flagged_payments": 239273
+    },
+    "duration_seconds": {
+      "current": {
+        "runs": [
+          30.182
+        ],
+        "median": 30.182
+      }
+    }
+  }
+}
