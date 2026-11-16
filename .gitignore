@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Large derived files; reproducible from src/
+database/*.db
+**/.pbi/cache.abf
+**/.pbi/localSettings.json
