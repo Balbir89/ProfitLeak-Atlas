@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "b099582923cc60631db8",
+  "position": {
+    "x": 22,
+    "y": 24,
+    "z": 1,
+    "width": 315,
+    "height": 142,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "cardVisual",
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "Cases In Queue"
+                }
+              },
+              "queryRef": "Audit.Cases In Queue",
+              "nativeQueryRef": "Cases In Queue"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

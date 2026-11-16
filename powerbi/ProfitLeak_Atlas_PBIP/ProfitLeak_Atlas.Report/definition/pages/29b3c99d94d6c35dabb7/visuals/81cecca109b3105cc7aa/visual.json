@@ -1,0 +1,57 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "81cecca109b3105cc7aa",
+  "position": {
+    "x": 740,
+    "y": 22,
+    "z": 2,
+    "width": 518,
+    "height": 590,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "clusteredBarChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Vendors"
+                    }
+                  },
+                  "Property": "vendor_name"
+                }
+              },
+              "queryRef": "Vendors.vendor_name",
+              "nativeQueryRef": "vendor_name",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Vendors"
+                    }
+                  },
+                  "Property": "gross_loss_eur"
+                }
+              },
+              "queryRef": "Vendors.gross_loss_eur",
+              "nativeQueryRef": "gross_loss_eur"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

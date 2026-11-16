@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "eb6ff78906d41423349f",
+  "position": {
+    "x": 656,
+    "y": 24,
+    "z": 1,
+    "width": 296,
+    "height": 150,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "cardVisual",
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Monthly"
+                    }
+                  },
+                  "Property": "Potential Recovery"
+                }
+              },
+              "queryRef": "Monthly.Potential Recovery",
+              "nativeQueryRef": "Potential Recovery"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

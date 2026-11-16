@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "29b3c99d94d6c35dabb7",
+  "displayName": "02 · Financial drivers",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280
+}

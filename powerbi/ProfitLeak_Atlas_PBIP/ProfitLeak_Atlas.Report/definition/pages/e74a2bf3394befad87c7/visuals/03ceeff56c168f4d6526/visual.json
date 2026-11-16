@@ -1,0 +1,57 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "03ceeff56c168f4d6526",
+  "position": {
+    "x": 24,
+    "y": 208,
+    "z": 2,
+    "width": 820,
+    "height": 420,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "lineChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Monthly"
+                    }
+                  },
+                  "Property": "payment_month"
+                }
+              },
+              "queryRef": "Monthly.payment_month",
+              "nativeQueryRef": "payment_month",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Monthly"
+                    }
+                  },
+                  "Property": "gross_loss_eur"
+                }
+              },
+              "queryRef": "Monthly.gross_loss_eur",
+              "nativeQueryRef": "gross_loss_eur"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "c61941f7fdb46320c056",
+  "position": {
+    "x": 24,
+    "y": 22,
+    "z": 1,
+    "width": 690,
+    "height": 590,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Causes"
+                    }
+                  },
+                  "Property": "issue_type"
+                }
+              },
+              "queryRef": "Causes.issue_type",
+              "nativeQueryRef": "issue_type"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Causes"
+                    }
+                  },
+                  "Property": "flagged_payments"
+                }
+              },
+              "queryRef": "Causes.flagged_payments",
+              "nativeQueryRef": "flagged_payments"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Causes"
+                    }
+                  },
+                  "Property": "gross_loss_eur"
+                }
+              },
+              "queryRef": "Causes.gross_loss_eur",
+              "nativeQueryRef": "gross_loss_eur"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Causes"
+                    }
+                  },
+                  "Property": "modeled_recovery_eur"
+                }
+              },
+              "queryRef": "Causes.modeled_recovery_eur",
+              "nativeQueryRef": "modeled_recovery_eur"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

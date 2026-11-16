@@ -1,0 +1,92 @@
+table Vendors
+
+	column vendor_id
+		dataType: string
+		sourceColumn: vendor_id
+		summarizeBy: none
+
+	column vendor_name
+		dataType: string
+		sourceColumn: vendor_name
+		summarizeBy: none
+
+	column country
+		dataType: string
+		sourceColumn: country
+		summarizeBy: none
+
+	column category
+		dataType: string
+		sourceColumn: category
+		summarizeBy: none
+
+	column payments
+		dataType: int64
+		sourceColumn: payments
+		summarizeBy: none
+
+	column spend_eur
+		dataType: double
+		sourceColumn: spend_eur
+		summarizeBy: none
+
+	column flagged_payments
+		dataType: int64
+		sourceColumn: flagged_payments
+		summarizeBy: none
+
+	column gross_loss_eur
+		dataType: double
+		sourceColumn: gross_loss_eur
+		summarizeBy: none
+
+	column modeled_recovery_eur
+		dataType: double
+		sourceColumn: modeled_recovery_eur
+		summarizeBy: none
+
+	partition Vendors = m
+		mode: import
+		source =
+			#table(type table [vendor_id = text, vendor_name = text, country = text, category = text, payments = Int64.Type, spend_eur = number, flagged_payments = Int64.Type, gross_loss_eur = number, modeled_recovery_eur = number], {
+				{"V0110", "Cedar Professional Partners 110", "Belgium", "Professional Services", 846, 1840481.45, 204, 128244.86, 88065.59},
+				{"V0278", "Cedar Professional Partners 278", "Germany", "Professional Services", 783, 1511365.38, 210, 120042.46, 81285.51},
+				{"V0174", "Apex Professional Partners 174", "Poland", "Professional Services", 810, 1837368.97, 206, 113676.23, 82225.83},
+				{"V0166", "Cedar Professional Partners 166", "Spain", "Professional Services", 775, 1415425.79, 206, 108980.53, 78244.08},
+				{"V0134", "Nova Professional Partners 134", "Germany", "Professional Services", 780, 1583999.16, 189, 102507.02, 68383.19},
+				{"V0222", "Cedar Professional Partners 222", "Netherlands", "Professional Services", 739, 1295085.39, 174, 98701.63, 74759.83},
+				{"V0046", "Orion Professional Partners 046", "Austria", "Professional Services", 799, 1548035.13, 175, 94746.98, 64371.54},
+				{"V0102", "Orion Professional Partners 102", "Poland", "Professional Services", 832, 1296741.38, 192, 88889.77, 64754.36},
+				{"V0254", "Helix Professional Partners 254", "Belgium", "Professional Services", 756, 1676728.74, 163, 88209.5, 58706.09},
+				{"V0142", "Helix Professional Partners 142", "France", "Professional Services", 821, 1325308.82, 183, 88186.83, 62654.53},
+				{"V0262", "Verde Professional Partners 262", "Austria", "Professional Services", 754, 1517132.96, 162, 86961.5, 60258.88},
+				{"V0183", "Nova Marketing Partners 183", "Poland", "Marketing", 815, 916869.86, 217, 86753.84, 66038.16},
+				{"V0190", "Nova Professional Partners 190", "Austria", "Professional Services", 800, 1572977.74, 166, 85678.65, 57713.06},
+				{"V0006", "Apex Professional Partners 006", "Netherlands", "Professional Services", 783, 1166789.84, 191, 84239.87, 60612.71},
+				{"V0086", "Helix Professional Partners 086", "Italy", "Professional Services", 779, 1599487.59, 159, 83298.53, 54719.77},
+				{"V0022", "Nova Professional Partners 022", "Spain", "Professional Services", 776, 1130545.43, 206, 83177.74, 55983.54},
+				{"V0070", "Atlas Professional Partners 070", "France", "Professional Services", 785, 1392358.68, 194, 82989.4, 55123.69},
+				{"V0230", "Apex Professional Partners 230", "Italy", "Professional Services", 825, 1800451.68, 191, 79894.66, 50753.65},
+				{"V0014", "Atlas Professional Partners 014", "Italy", "Professional Services", 740, 987713.14, 191, 79891.28, 52934.47},
+				{"V0062", "Apex Professional Partners 062", "Germany", "Professional Services", 846, 1193689.61, 193, 79339.28, 53072.52},
+				{"V0216", "Apex Cloud Partners 216", "Germany", "Cloud & Software", 799, 1051854.31, 175, 78818.55, 59599.33},
+				{"V0150", "Verde Professional Partners 150", "Netherlands", "Professional Services", 772, 1463036.77, 188, 78544.74, 58269.16},
+				{"V0238", "Atlas Professional Partners 238", "Spain", "Professional Services", 825, 1385230.48, 176, 77455.74, 52571.65},
+				{"V0158", "Orion Professional Partners 158", "Italy", "Professional Services", 719, 1581122.94, 148, 76133.23, 48919.63},
+				{"V0118", "Apex Professional Partners 118", "Austria", "Professional Services", 764, 1319853.46, 174, 75306.59, 53392.27},
+				{"V0270", "Orion Professional Partners 270", "Germany", "Professional Services", 745, 1226936.18, 167, 74152.02, 57330.14},
+				{"V0126", "Atlas Professional Partners 126", "Germany", "Professional Services", 790, 1053758.37, 190, 72531.54, 53636.98},
+				{"V0096", "Cedar Cloud Partners 096", "Netherlands", "Cloud & Software", 777, 1012635.39, 174, 72047.86, 54417.29},
+				{"V0078", "Nova Professional Partners 078", "Netherlands", "Professional Services", 774, 901651.91, 181, 70939.36, 54593.24},
+				{"V0094", "Verde Professional Partners 094", "Spain", "Professional Services", 798, 1409606.25, 170, 69925.97, 49775.91},
+				{"V0182", "Atlas Professional Partners 182", "Belgium", "Professional Services", 770, 1003839.04, 193, 69501.95, 46574.74},
+				{"V0248", "Verde Cloud Partners 248", "Italy", "Cloud & Software", 814, 1021512.54, 198, 68666.86, 45387.41},
+				{"V0200", "Orion Cloud Partners 200", "Belgium", "Cloud & Software", 759, 948377.87, 180, 68218.26, 46523.04},
+				{"V0047", "Cedar Marketing Partners 047", "Belgium", "Marketing", 811, 892815.44, 187, 67246.23, 45268.64},
+				{"V0120", "Nova Cloud Partners 120", "Poland", "Cloud & Software", 826, 949067.57, 205, 66572.94, 48171.94},
+				{"V0088", "Orion Cloud Partners 088", "France", "Cloud & Software", 833, 1059348.09, 183, 65722.82, 45727.33},
+				{"V0151", "Orion Marketing Partners 151", "France", "Marketing", 793, 837174.92, 200, 62156.41, 44245.7},
+				{"V0024", "Verde Cloud Partners 024", "Netherlands", "Cloud & Software", 791, 896832.0, 196, 61933.05, 45483.95},
+				{"V0198", "Helix Professional Partners 198", "Germany", "Professional Services", 815, 1103877.04, 191, 61722.71, 44670.32},
+				{"V0255", "Verde Marketing Partners 255", "Poland", "Marketing", 762, 852566.87, 184, 61327.17, 44693.72}
+			})

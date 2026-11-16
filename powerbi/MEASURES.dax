@@ -1,0 +1,30 @@
+-- Create one measure at a time in Power BI Desktop after importing cases.csv.
+-- The fact table is named 'cases'. These metrics are synthetic, not real-world recovery.
+
+Cases Flagged = COUNTROWS('cases')
+
+Gross Exposure EUR = SUM('cases'[estimated_gross_loss_eur])
+
+Risk Adjusted Recovery EUR = SUM('cases'[modeled_recovery_eur])
+
+Exposure per Flagged Payment = DIVIDE([Gross Exposure EUR], [Cases Flagged], 0)
+
+Recovery-to-Exposure Ratio = DIVIDE([Risk Adjusted Recovery EUR], [Gross Exposure EUR], 0)
+
+Confirmed Recovery EUR = 0
+-- Intentionally zero: no financial recovery is evidenced in a synthetic case study.
+
+Nonfinancial Control Flags = CALCULATE([Cases Flagged], 'cases'[issue_type] = "Approval fragmentation")
+
+Financial Exception Cases = CALCULATE([Cases Flagged], 'cases'[estimated_gross_loss_eur] > 0)
+
+Gross Exposure All Causes = CALCULATE([Gross Exposure EUR], REMOVEFILTERS('cases'[issue_type]))
+
+Cause Share of Exposure = DIVIDE([Gross Exposure EUR], [Gross Exposure All Causes], 0)
+
+High Confidence Exposure = CALCULATE([Gross Exposure EUR], 'cases'[rule_confidence] >= 0.9)
+
+Scenario Realized Recovery EUR = [Risk Adjusted Recovery EUR] * SELECTEDVALUE('Recovery Scenario'[Factor], 0.75)
+-- To create a disconnected what-if parameter table, use:
+-- Recovery Scenario = GENERATESERIES(0, 1, 0.05)
+-- Rename the generated column to Factor, then set Factor as slicer.

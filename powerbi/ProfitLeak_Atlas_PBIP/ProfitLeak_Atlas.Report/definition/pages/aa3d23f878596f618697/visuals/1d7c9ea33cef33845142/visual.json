@@ -1,0 +1,122 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "1d7c9ea33cef33845142",
+  "position": {
+    "x": 22,
+    "y": 202,
+    "z": 1,
+    "width": 1230,
+    "height": 445,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "payment_id"
+                }
+              },
+              "queryRef": "Audit.payment_id",
+              "nativeQueryRef": "payment_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "vendor_id"
+                }
+              },
+              "queryRef": "Audit.vendor_id",
+              "nativeQueryRef": "vendor_id"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "issue_type"
+                }
+              },
+              "queryRef": "Audit.issue_type",
+              "nativeQueryRef": "issue_type"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "priority_score"
+                }
+              },
+              "queryRef": "Audit.priority_score",
+              "nativeQueryRef": "priority_score"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "financial_exposure_eur"
+                }
+              },
+              "queryRef": "Audit.financial_exposure_eur",
+              "nativeQueryRef": "financial_exposure_eur"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "status"
+                }
+              },
+              "queryRef": "Audit.status",
+              "nativeQueryRef": "status"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Audit"
+                    }
+                  },
+                  "Property": "owner"
+                }
+              },
+              "queryRef": "Audit.owner",
+              "nativeQueryRef": "owner"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
